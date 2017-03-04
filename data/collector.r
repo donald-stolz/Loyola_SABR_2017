@@ -1,8 +1,8 @@
 # Set working directory to where csv file is located
-setwd("C:/lucSABR/Data")
+setwd("~/lucSABR")
 
 # Read the data
-pitcherData<- read.csv("C:/lucSABR/Data/pitchers.csv")
+pitcherData<- read.csv("~/lucSABR/Data/pitchers.csv")
 attach(pitcherData)
 
 
@@ -18,6 +18,4 @@ attach(pSeqtable)
 
 sort(PITCH_SEQUENCE)
 
-#Calculate Average for each sequence
-CHCH <- subset(pSeqtable, PITCH_SEQUENCE == "CHCH")
-CHCH_Hit_Angle <- mean(CHCH$hit_angle)
+#Calculate Data for each sequence
