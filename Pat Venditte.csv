@@ -1,0 +1,405 @@
+pitch_type,player_name,batter,description,hit_speed,hit_angle
+SL,Pat Venditte,475174,"In play, no out",106.1,16.92
+SI,Pat Venditte,475174,Ball,null,null
+SI,Pat Venditte,475174,Foul,null,null
+SI,Pat Venditte,622194,Swinging Strike,null,null
+SL,Pat Venditte,622194,Swinging Strike,null,null
+SL,Pat Venditte,622194,Called Strike,null,null
+SI,Pat Venditte,622194,Foul,null,null
+SI,Pat Venditte,518649,Ball,null,null
+SL,Pat Venditte,518649,Swinging Strike,null,null
+SL,Pat Venditte,518649,Ball,null,null
+SL,Pat Venditte,518649,Ball,null,null
+SL,Pat Venditte,518649,Ball,null,null
+SI,Pat Venditte,518649,Called Strike,null,null
+SL,Pat Venditte,621566,Ball,null,null
+SL,Pat Venditte,621566,Ball,null,null
+SI,Pat Venditte,621566,"In play, out(s)",101,-2.93
+SI,Pat Venditte,621566,Called Strike,null,null
+SI,Pat Venditte,621566,Swinging Strike,null,null
+SL,Pat Venditte,621566,Foul,null,null
+SI,Pat Venditte,519295,"In play, no out",84.2,16.99
+SI,Pat Venditte,519295,Ball,null,null
+SL,Pat Venditte,519295,Called Strike,null,null
+SI,Pat Venditte,543760,"In play, out(s)",90.7,-4.49
+SI,Pat Venditte,621563,Ball,null,null
+SL,Pat Venditte,621563,Foul,null,null
+SI,Pat Venditte,621563,Ball,null,null
+SI,Pat Venditte,621563,Ball,null,null
+SI,Pat Venditte,621563,Called Strike,null,null
+SL,Pat Venditte,621563,Ball,null,null
+SI,Pat Venditte,640461,"In play, out(s)",50.6,56.31
+SL,Pat Venditte,572365,Foul,null,null
+SI,Pat Venditte,572365,Ball,null,null
+SL,Pat Venditte,572365,Ball,null,null
+SI,Pat Venditte,572365,Called Strike,null,null
+SL,Pat Venditte,572365,Ball,null,null
+SI,Pat Venditte,572365,Called Strike,null,null
+SI,Pat Venditte,459431,Ball,null,null
+SI,Pat Venditte,459431,Called Strike,null,null
+SI,Pat Venditte,459431,Swinging Strike,null,null
+SL,Pat Venditte,459431,Ball,null,null
+SL,Pat Venditte,459431,Ball,null,null
+SI,Pat Venditte,459431,Called Strike,null,null
+SL,Pat Venditte,607680,"In play, out(s)",81.3,40.21
+SI,Pat Venditte,607680,Foul,null,null
+SI,Pat Venditte,607680,Foul,null,null
+SL,Pat Venditte,458675,Foul,null,null
+SL,Pat Venditte,458675,Foul,null,null
+SI,Pat Venditte,458675,Swinging Strike,null,null
+SI,Pat Venditte,458675,Called Strike,null,null
+SI,Pat Venditte,458675,Ball,null,null
+SL,Pat Venditte,519048,Called Strike,null,null
+SL,Pat Venditte,519048,Ball In Dirt,null,null
+SI,Pat Venditte,519048,"In play, out(s)",99.3,36.16
+SL,Pat Venditte,608577,Swinging Strike,null,null
+SI,Pat Venditte,608577,Called Strike,null,null
+SI,Pat Venditte,608577,"In play, no out",null,null
+SL,Pat Venditte,435622,Swinging Strike,null,null
+SL,Pat Venditte,435622,Ball,null,null
+SL,Pat Venditte,435622,Swinging Strike,null,null
+SI,Pat Venditte,435622,Hit By Pitch,null,null
+IN,Pat Venditte,134181,Intent Ball,null,null
+IN,Pat Venditte,134181,Intent Ball,null,null
+IN,Pat Venditte,134181,Intent Ball,null,null
+IN,Pat Venditte,134181,Intent Ball,null,null
+SI,Pat Venditte,596059,Foul,null,null
+SL,Pat Venditte,596059,Foul,null,null
+SI,Pat Venditte,596059,Foul,null,null
+SL,Pat Venditte,596059,Ball,null,null
+SL,Pat Venditte,596059,"In play, out(s)",null,null
+SI,Pat Venditte,518960,Ball,null,null
+SL,Pat Venditte,518960,Ball,null,null
+SL,Pat Venditte,518960,Called Strike,null,null
+SL,Pat Venditte,518960,Ball,null,null
+SI,Pat Venditte,518960,Ball,null,null
+SI,Pat Venditte,462101,Called Strike,null,null
+SL,Pat Venditte,462101,Ball,null,null
+SI,Pat Venditte,462101,Foul,null,null
+SI,Pat Venditte,462101,Called Strike,null,null
+SL,Pat Venditte,462101,"In play, out(s)",81.8,19
+CH,Pat Venditte,136860,Foul,null,null
+SI,Pat Venditte,136860,Ball,null,null
+SL,Pat Venditte,136860,"In play, out(s)",59.7,-54.42
+SI,Pat Venditte,136860,Called Strike,null,null
+SL,Pat Venditte,594777,"In play, out(s)",null,null
+SI,Pat Venditte,405395,"In play, run(s)",null,null
+SL,Pat Venditte,543068,"In play, out(s)",null,null
+SL,Pat Venditte,543068,Ball,null,null
+SI,Pat Venditte,543068,Called Strike,null,null
+SL,Pat Venditte,527043,"In play, no out",null,null
+SI,Pat Venditte,527043,Foul,null,null
+SI,Pat Venditte,527043,Ball,null,null
+SL,Pat Venditte,592743,Foul,null,null
+SI,Pat Venditte,592743,Foul,null,null
+SL,Pat Venditte,592743,Foul Tip,null,null
+SL,Pat Venditte,592743,Called Strike,null,null
+SI,Pat Venditte,592743,Foul,null,null
+SI,Pat Venditte,542208,"In play, out(s)",null,null
+SI,Pat Venditte,592230,"In play, out(s)",null,null
+SL,Pat Venditte,460060,Called Strike,null,null
+SL,Pat Venditte,460060,Ball,null,null
+SI,Pat Venditte,460060,"In play, out(s)",null,null
+SI,Pat Venditte,460060,Ball,null,null
+SI,Pat Venditte,460060,Called Strike,null,null
+SI,Pat Venditte,460060,Foul,null,null
+SI,Pat Venditte,594777,"In play, run(s)",null,null
+SL,Pat Venditte,545361,Ball,null,null
+SL,Pat Venditte,545361,Ball,null,null
+SL,Pat Venditte,545361,"In play, out(s)",null,null
+SL,Pat Venditte,545361,Called Strike,null,null
+SI,Pat Venditte,545361,Called Strike,null,null
+SI,Pat Venditte,545361,Foul,null,null
+SL,Pat Venditte,405395,Ball,null,null
+SI,Pat Venditte,405395,Ball,null,null
+SL,Pat Venditte,405395,Called Strike,null,null
+SL,Pat Venditte,405395,Swinging Strike,null,null
+SL,Pat Venditte,405395,"In play, out(s)",null,null
+CH,Pat Venditte,543068,Ball,null,null
+SL,Pat Venditte,543068,Called Strike,null,null
+SL,Pat Venditte,543068,Foul,null,null
+SI,Pat Venditte,543068,"In play, no out",null,null
+SI,Pat Venditte,543068,Ball,null,null
+SI,Pat Venditte,543068,Called Strike,null,null
+SI,Pat Venditte,527043,"In play, run(s)",null,null
+SI,Pat Venditte,592743,Ball,null,null
+SL,Pat Venditte,592743,Foul,null,null
+SI,Pat Venditte,592743,Ball,null,null
+SL,Pat Venditte,592743,Ball,null,null
+SI,Pat Venditte,592743,Foul,null,null
+CH,Pat Venditte,592743,Ball,null,null
+SI,Pat Venditte,592230,"In play, out(s)",null,null
+SL,Pat Venditte,542208,"In play, out(s)",null,null
+SL,Pat Venditte,542208,Ball,null,null
+SI,Pat Venditte,542208,Ball,null,null
+SL,Pat Venditte,542208,Ball,null,null
+SI,Pat Venditte,542208,Called Strike,null,null
+SL,Pat Venditte,594777,Ball,null,null
+SL,Pat Venditte,594777,"In play, out(s)",null,null
+SI,Pat Venditte,545361,Foul,null,null
+SL,Pat Venditte,545361,Foul,null,null
+SI,Pat Venditte,545361,Foul,null,null
+SI,Pat Venditte,545361,"In play, no out",null,null
+SI,Pat Venditte,545361,Called Strike,null,null
+SL,Pat Venditte,545361,Ball,null,null
+SI,Pat Venditte,545361,Ball,null,null
+SI,Pat Venditte,460060,Foul,null,null
+SL,Pat Venditte,460060,"In play, out(s)",null,null
+SI,Pat Venditte,460060,Ball,null,null
+SI,Pat Venditte,460060,Ball,null,null
+SI,Pat Venditte,460060,Swinging Strike,null,null
+SL,Pat Venditte,460576,Swinging Strike,null,null
+SL,Pat Venditte,460576,Called Strike,null,null
+SL,Pat Venditte,460576,Ball In Dirt,null,null
+SL,Pat Venditte,460576,Swinging Strike,null,null
+SL,Pat Venditte,608577,Called Strike,null,null
+SI,Pat Venditte,608577,Foul,null,null
+SL,Pat Venditte,608577,Ball,null,null
+SL,Pat Venditte,608577,Swinging Strike,null,null
+SI,Pat Venditte,607387,"In play, run(s)",108,21.35
+SL,Pat Venditte,607387,Swinging Strike,null,null
+SI,Pat Venditte,607387,Called Strike,null,null
+SL,Pat Venditte,607387,Ball,null,null
+SI,Pat Venditte,607387,Ball,null,null
+SL,Pat Venditte,607387,Ball,null,null
+SL,Pat Venditte,136860,Ball,null,null
+SI,Pat Venditte,136860,Ball,null,null
+SI,Pat Venditte,136860,Ball,null,null
+SI,Pat Venditte,136860,Ball,null,null
+SI,Pat Venditte,595777,Called Strike,null,null
+SL,Pat Venditte,595777,Ball,null,null
+SI,Pat Venditte,595777,Ball,null,null
+SL,Pat Venditte,595777,"In play, no out",null,null
+SL,Pat Venditte,596059,"In play, run(s)",106.5,24.97
+SL,Pat Venditte,519048,Foul,null,null
+SL,Pat Venditte,519048,Foul,null,null
+SI,Pat Venditte,519048,Foul,null,null
+SL,Pat Venditte,519048,"In play, out(s)",null,null
+SI,Pat Venditte,519048,Ball,null,null
+SL,Pat Venditte,519048,Swinging Strike,null,null
+SL,Pat Venditte,519048,Swinging Strike,null,null
+SL,Pat Venditte,519048,Ball,null,null
+SI,Pat Venditte,519048,Ball,null,null
+SI,Pat Venditte,455139,"In play, out(s)",100.9,-3.85
+SI,Pat Venditte,462101,Called Strike,null,null
+SI,Pat Venditte,462101,Called Strike,null,null
+SL,Pat Venditte,462101,Ball,null,null
+SI,Pat Venditte,462101,Ball,null,null
+SI,Pat Venditte,462101,Foul,null,null
+SL,Pat Venditte,462101,Foul,null,null
+SI,Pat Venditte,462101,Ball,null,null
+SI,Pat Venditte,462101,Foul Tip,null,null
+SI,Pat Venditte,608577,Foul,null,null
+SI,Pat Venditte,608577,Ball,null,null
+SI,Pat Venditte,608577,Foul,null,null
+SI,Pat Venditte,608577,Called Strike,null,null
+SL,Pat Venditte,608577,Ball,null,null
+SL,Pat Venditte,608577,Called Strike,null,null
+SL,Pat Venditte,608577,Ball,null,null
+SI,Pat Venditte,136860,Called Strike,null,null
+SI,Pat Venditte,136860,Called Strike,null,null
+SI,Pat Venditte,136860,Ball,null,null
+SL,Pat Venditte,136860,Ball,null,null
+SL,Pat Venditte,136860,Foul Tip,null,null
+SI,Pat Venditte,134181,Ball,null,null
+SI,Pat Venditte,134181,Called Strike,null,null
+SI,Pat Venditte,134181,"In play, no out",98.5,-2.51
+SL,Pat Venditte,596059,Foul,null,null
+SI,Pat Venditte,596059,Ball,null,null
+SL,Pat Venditte,596059,Foul,null,null
+SL,Pat Venditte,596059,Ball,null,null
+SL,Pat Venditte,596059,Foul,null,null
+SI,Pat Venditte,596059,"In play, run(s)",101.4,18.15
+SI,Pat Venditte,518960,Ball,null,null
+SI,Pat Venditte,518960,Ball,null,null
+SI,Pat Venditte,518960,Ball,null,null
+SI,Pat Venditte,518960,Called Strike,null,null
+SI,Pat Venditte,518960,Ball,null,null
+SI,Pat Venditte,519048,Foul,null,null
+SI,Pat Venditte,519048,Called Strike,null,null
+SI,Pat Venditte,519048,"In play, out(s)",82.7,14.56
+SL,Pat Venditte,519048,Ball,null,null
+SL,Pat Venditte,519048,Foul,null,null
+SL,Pat Venditte,460576,Swinging Strike,null,null
+SL,Pat Venditte,460576,Ball,null,null
+SI,Pat Venditte,460576,Called Strike,null,null
+SL,Pat Venditte,460576,Ball,null,null
+SI,Pat Venditte,460576,Swinging Strike,null,null
+SL,Pat Venditte,462101,Ball,null,null
+SI,Pat Venditte,462101,Called Strike,null,null
+SI,Pat Venditte,462101,Swinging Strike,null,null
+SI,Pat Venditte,462101,Foul,null,null
+SL,Pat Venditte,462101,"In play, out(s)",null,null
+SI,Pat Venditte,608577,Swinging Strike,null,null
+SI,Pat Venditte,608577,Called Strike,null,null
+SL,Pat Venditte,608577,Ball,null,null
+SL,Pat Venditte,608577,Swinging Strike,null,null
+SI,Pat Venditte,435622,"In play, out(s)",94.4,-6.59
+SL,Pat Venditte,444432,Called Strike,null,null
+SL,Pat Venditte,444432,"In play, out(s)",82.8,39.74
+SI,Pat Venditte,444432,Ball,null,null
+SI,Pat Venditte,444432,Ball,null,null
+SL,Pat Venditte,446308,Swinging Strike,null,null
+SI,Pat Venditte,446308,Called Strike,null,null
+CH,Pat Venditte,446308,Foul,null,null
+SL,Pat Venditte,476883,Ball,null,null
+SL,Pat Venditte,476883,Ball,null,null
+SL,Pat Venditte,476883,Swinging Strike,null,null
+SI,Pat Venditte,476883,Called Strike,null,null
+SL,Pat Venditte,476883,Swinging Strike,null,null
+SI,Pat Venditte,570731,Ball,null,null
+SL,Pat Venditte,570731,Ball,null,null
+SL,Pat Venditte,570731,Swinging Strike,null,null
+SI,Pat Venditte,570731,Called Strike,null,null
+SI,Pat Venditte,570731,Called Strike,null,null
+SL,Pat Venditte,570731,Foul,null,null
+SI,Pat Venditte,475247,Ball,null,null
+SL,Pat Venditte,475247,Ball,null,null
+SI,Pat Venditte,475247,Called Strike,null,null
+SL,Pat Venditte,475247,Foul,null,null
+SL,Pat Venditte,475247,"In play, no out",87.7,-13.23
+SI,Pat Venditte,430945,Swinging Strike,null,null
+SL,Pat Venditte,430945,"In play, run(s)",95.6,30.06
+SL,Pat Venditte,430945,Called Strike,null,null
+SI,Pat Venditte,547957,Ball,null,null
+SL,Pat Venditte,547957,"In play, out(s)",72.6,-4.11
+SI,Pat Venditte,547957,Called Strike,null,null
+SI,Pat Venditte,547957,Ball,null,null
+SI,Pat Venditte,547957,Swinging Strike,null,null
+SL,Pat Venditte,448801,"In play, out(s)",92.1,48.99
+SI,Pat Venditte,448801,Called Strike,null,null
+SI,Pat Venditte,452104,"In play, run(s)",89.1,33.62
+SI,Pat Venditte,452104,Ball,null,null
+SI,Pat Venditte,544369,"In play, run(s)",87.6,-17.18
+SL,Pat Venditte,544369,Ball,null,null
+SL,Pat Venditte,519222,Foul,null,null
+SL,Pat Venditte,519222,Swinging Strike (Blocked),null,null
+SL,Pat Venditte,519222,Called Strike,null,null
+SI,Pat Venditte,519306,Called Strike,null,null
+SL,Pat Venditte,519306,Called Strike,null,null
+SL,Pat Venditte,519306,Swinging Strike,null,null
+SI,Pat Venditte,519306,Ball,null,null
+SI,Pat Venditte,572816,"In play, out(s)",95.2,56.71
+SL,Pat Venditte,489149,Called Strike,null,null
+SI,Pat Venditte,489149,Ball,null,null
+SI,Pat Venditte,489149,Ball,null,null
+SI,Pat Venditte,489149,"In play, out(s)",86.6,29.97
+SL,Pat Venditte,446386,Called Strike,null,null
+SL,Pat Venditte,446386,Ball,null,null
+SL,Pat Venditte,446386,Ball In Dirt,null,null
+SI,Pat Venditte,446386,Ball,null,null
+SI,Pat Venditte,446386,Called Strike,null,null
+SL,Pat Venditte,446386,Foul,null,null
+SL,Pat Venditte,446386,"In play, run(s)",86.2,-15.41
+SI,Pat Venditte,543543,Swinging Strike,null,null
+SL,Pat Venditte,543543,"In play, run(s)",79.5,24.62
+SL,Pat Venditte,543543,Ball,null,null
+SI,Pat Venditte,543543,Foul,null,null
+SI,Pat Venditte,446334,Ball,null,null
+SI,Pat Venditte,446334,Swinging Strike,null,null
+SL,Pat Venditte,446334,"In play, out(s)",null,null
+SI,Pat Venditte,446334,Foul,null,null
+SL,Pat Venditte,519306,"In play, out(s)",87.2,54.34
+SL,Pat Venditte,572816,"In play, out(s)",90.3,50.49
+SL,Pat Venditte,489149,Ball,null,null
+SI,Pat Venditte,489149,Called Strike,null,null
+SI,Pat Venditte,489149,Ball,null,null
+SI,Pat Venditte,489149,Ball,null,null
+SI,Pat Venditte,489149,"In play, out(s)",null,null
+SI,Pat Venditte,592200,"In play, no out",78.7,-6.61
+SI,Pat Venditte,456665,"In play, no out",99.1,5.59
+SI,Pat Venditte,456665,Called Strike,null,null
+SI,Pat Venditte,595281,"In play, no out",null,null
+SL,Pat Venditte,595281,Called Strike,null,null
+SL,Pat Venditte,595281,Ball,null,null
+SL,Pat Venditte,543434,Called Strike,null,null
+SL,Pat Venditte,543434,Ball,null,null
+SI,Pat Venditte,543434,Ball,null,null
+SI,Pat Venditte,543434,Ball,null,null
+SL,Pat Venditte,543434,Swinging Strike,null,null
+SL,Pat Venditte,543434,Ball,null,null
+SL,Pat Venditte,541645,Ball,null,null
+SL,Pat Venditte,541645,Foul,null,26.94
+SI,Pat Venditte,541645,Called Strike,null,null
+SL,Pat Venditte,541645,Swinging Strike,null,null
+SI,Pat Venditte,541645,"In play, run(s)",100.1,16.85
+SI,Pat Venditte,425900,Ball,null,null
+SI,Pat Venditte,425900,Called Strike,null,null
+SI,Pat Venditte,425900,Foul,null,null
+SL,Pat Venditte,425900,Ball,null,null
+SI,Pat Venditte,425900,Ball,null,null
+SI,Pat Venditte,425900,"In play, out(s)",null,null
+SL,Pat Venditte,594809,Ball,null,null
+SL,Pat Venditte,594809,Swinging Strike,null,null
+SL,Pat Venditte,594809,Swinging Strike,null,null
+SI,Pat Venditte,594809,Ball In Dirt,null,null
+SL,Pat Venditte,594809,Foul,null,58.86
+SI,Pat Venditte,594809,Foul,null,27.63
+SL,Pat Venditte,594809,Foul,null,null
+SI,Pat Venditte,594809,Foul,null,15.56
+SL,Pat Venditte,594809,Foul,null,null
+SL,Pat Venditte,594809,Swinging Strike,null,null
+SI,Pat Venditte,276519,Ball,null,null
+SI,Pat Venditte,276519,"In play, no out",101.8,22.93
+SI,Pat Venditte,276519,Ball,null,null
+SI,Pat Venditte,276519,Called Strike,null,null
+SL,Pat Venditte,547989,Ball,null,null
+SI,Pat Venditte,547989,Ball,null,null
+SI,Pat Venditte,547989,Ball,null,null
+SI,Pat Venditte,547989,Ball,null,null
+SL,Pat Venditte,570731,Swinging Strike,null,null
+SL,Pat Venditte,570731,Foul,null,null
+SL,Pat Venditte,570731,Ball,null,null
+SL,Pat Venditte,570731,Foul,null,10.72
+SI,Pat Venditte,570731,Ball,null,null
+SI,Pat Venditte,570731,Swinging Strike,null,null
+SL,Pat Venditte,570731,Ball,null,null
+SI,Pat Venditte,570731,Ball,null,null
+SI,Pat Venditte,460099,Foul,null,19.62
+SL,Pat Venditte,460099,Called Strike,null,null
+SI,Pat Venditte,460099,Called Strike,null,null
+SL,Pat Venditte,460099,Ball,null,null
+SL,Pat Venditte,572073,"In play, no out",77.7,13.73
+SL,Pat Venditte,572073,Called Strike,null,null
+SI,Pat Venditte,430945,"In play, out(s)",97.9,2.97
+SI,Pat Venditte,448801,Ball,null,null
+SL,Pat Venditte,448801,Called Strike,null,null
+SL,Pat Venditte,448801,Ball,null,null
+SI,Pat Venditte,448801,Ball,null,null
+SI,Pat Venditte,448801,Foul,null,null
+SL,Pat Venditte,448801,Ball,null,null
+SL,Pat Venditte,444432,Hit By Pitch,null,null
+SI,Pat Venditte,543376,Called Strike,null,null
+SL,Pat Venditte,543376,Ball,null,null
+SI,Pat Venditte,543376,Called Strike,null,null
+SI,Pat Venditte,543376,"In play, no out",97.3,11.86
+SI,Pat Venditte,592518,"In play, out(s)",105,-13.86
+SI,Pat Venditte,592518,Foul,null,null
+SI,Pat Venditte,429666,"In play, out(s)",100.6,-6.65
+SI,Pat Venditte,429666,Called Strike,null,null
+SI,Pat Venditte,429666,Ball,null,null
+SI,Pat Venditte,571788,Called Strike,null,null
+SL,Pat Venditte,571788,Foul,null,42.32
+SL,Pat Venditte,571788,"In play, out(s)",61,54.57
+SL,Pat Venditte,571788,Called Strike,null,null
+SL,Pat Venditte,571788,Ball,null,null
+SL,Pat Venditte,571788,Foul,null,53.61
+SI,Pat Venditte,543877,"In play, no out",107.8,13.93
+SI,Pat Venditte,598265,Ball,null,null
+SI,Pat Venditte,598265,Swinging Strike,null,null
+SL,Pat Venditte,598265,"In play, no out",null,null
+SL,Pat Venditte,598265,Ball,null,null
+SI,Pat Venditte,598265,Swinging Strike,null,null
+SI,Pat Venditte,591720,Foul,null,null
+SI,Pat Venditte,591720,"In play, out(s)",99.6,-18.23
+SL,Pat Venditte,591720,Ball,null,null
+SL,Pat Venditte,591720,Ball,null,null
+SL,Pat Venditte,519222,Ball,null,null
+SI,Pat Venditte,519222,"In play, out(s)",107.2,4.45
+SI,Pat Venditte,519222,Called Strike,null,null
+SL,Pat Venditte,519222,Ball,null,null
+SL,Pat Venditte,452104,Ball,null,null
+SI,Pat Venditte,452104,Foul,null,null
+SI,Pat Venditte,452104,Ball,null,null
+SI,Pat Venditte,452104,Called Strike,null,null
+SL,Pat Venditte,452104,"In play, out(s)",95.1,34.94
