@@ -1,0 +1,3191 @@
+pitch_type,player_name,batter,description,hit_speed,hit_angle
+FF,Jeff Samardzija,453568,"In play, out(s)",91.4,44.11
+FF,Jeff Samardzija,453568,Ball,null,null
+FF,Jeff Samardzija,518614,Swinging Strike,null,null
+SL,Jeff Samardzija,518614,Foul,null,null
+SL,Jeff Samardzija,518614,Swinging Strike,null,null
+FF,Jeff Samardzija,518614,Called Strike,null,null
+FF,Jeff Samardzija,518614,Ball,null,null
+FF,Jeff Samardzija,471865,Called Strike,null,null
+SL,Jeff Samardzija,471865,Foul,null,null
+FF,Jeff Samardzija,471865,Foul,null,null
+FF,Jeff Samardzija,471865,Ball,null,null
+FF,Jeff Samardzija,471865,Called Strike,null,null
+FS,Jeff Samardzija,471865,Ball,null,null
+FS,Jeff Samardzija,471865,Swinging Strike,null,null
+SL,Jeff Samardzija,571448,Ball,null,null
+FF,Jeff Samardzija,571448,Ball,null,null
+FF,Jeff Samardzija,571448,Ball,null,null
+FF,Jeff Samardzija,571448,Ball,null,null
+FS,Jeff Samardzija,621311,Swinging Strike,null,null
+FT,Jeff Samardzija,621311,Ball,null,null
+FT,Jeff Samardzija,621311,Swinging Strike,null,null
+FT,Jeff Samardzija,621311,"In play, out(s)",96.5,31.05
+FT,Jeff Samardzija,467827,Called Strike,null,null
+FF,Jeff Samardzija,467827,Foul,null,null
+SL,Jeff Samardzija,467827,Ball In Dirt,null,null
+FS,Jeff Samardzija,467827,Swinging Strike,null,null
+FS,Jeff Samardzija,467827,Ball,null,null
+FS,Jeff Samardzija,542436,Foul,null,null
+FF,Jeff Samardzija,542436,Called Strike,null,null
+FT,Jeff Samardzija,542436,Foul Tip,null,null
+FT,Jeff Samardzija,547172,"In play, no out",72.7,26.53
+FT,Jeff Samardzija,547172,Ball,null,null
+SL,Jeff Samardzija,543022,Foul (Runner Going),null,null
+SL,Jeff Samardzija,543022,Foul (Runner Going),null,null
+FT,Jeff Samardzija,543022,Foul Bunt,null,null
+SL,Jeff Samardzija,543022,Ball,null,null
+FF,Jeff Samardzija,453568,Foul,null,null
+FS,Jeff Samardzija,453568,Foul,null,null
+FF,Jeff Samardzija,453568,Ball,null,null
+FS,Jeff Samardzija,453568,Swinging Strike,null,null
+FF,Jeff Samardzija,453568,Called Strike,null,null
+FF,Jeff Samardzija,453568,Foul,null,null
+SL,Jeff Samardzija,453568,Ball,null,null
+SL,Jeff Samardzija,518614,Foul,null,null
+FT,Jeff Samardzija,518614,"In play, out(s)",87.9,38.92
+FF,Jeff Samardzija,518614,Ball,null,null
+FS,Jeff Samardzija,518614,Ball,null,null
+FF,Jeff Samardzija,471865,Foul,null,null
+FT,Jeff Samardzija,471865,"In play, no out",97.5,29.03
+FS,Jeff Samardzija,471865,Swinging Strike,null,null
+FT,Jeff Samardzija,571448,"In play, run(s)",68.9,19.99
+CU,Jeff Samardzija,571448,Ball,null,null
+CU,Jeff Samardzija,621311,Called Strike,null,null
+FS,Jeff Samardzija,621311,Foul,null,null
+FT,Jeff Samardzija,621311,Called Strike,null,null
+FT,Jeff Samardzija,621311,Ball,null,null
+FF,Jeff Samardzija,542436,Ball,null,null
+FS,Jeff Samardzija,542436,Swinging Strike,null,null
+FS,Jeff Samardzija,542436,Called Strike,null,null
+FF,Jeff Samardzija,542436,Foul,null,null
+FS,Jeff Samardzija,547172,Called Strike,null,null
+CU,Jeff Samardzija,547172,Ball,null,null
+CU,Jeff Samardzija,547172,Called Strike,null,null
+FS,Jeff Samardzija,547172,Swinging Strike,null,null
+SL,Jeff Samardzija,543022,Ball,null,null
+FF,Jeff Samardzija,543022,Called Strike,null,null
+FF,Jeff Samardzija,543022,Called Strike,null,null
+FF,Jeff Samardzija,543022,Ball,null,null
+FT,Jeff Samardzija,543022,Ball,null,null
+FF,Jeff Samardzija,543022,Called Strike,null,null
+CU,Jeff Samardzija,453568,Swinging Strike,null,null
+FT,Jeff Samardzija,453568,"In play, no out",88.7,15.43
+CU,Jeff Samardzija,453568,Ball,null,null
+FS,Jeff Samardzija,453568,Swinging Strike,null,null
+FF,Jeff Samardzija,518614,Called Strike,null,null
+FS,Jeff Samardzija,518614,Swinging Strike,null,null
+FF,Jeff Samardzija,518614,Foul Tip,null,null
+FS,Jeff Samardzija,518614,Ball,null,null
+FF,Jeff Samardzija,471865,Ball,null,null
+FF,Jeff Samardzija,471865,Foul (Runner Going),null,null
+FS,Jeff Samardzija,471865,Ball,null,null
+FF,Jeff Samardzija,471865,"In play, no out",99.1,-14.08
+FF,Jeff Samardzija,471865,Called Strike,null,null
+FS,Jeff Samardzija,471865,Ball,null,null
+FS,Jeff Samardzija,621311,Foul Tip,null,null
+FF,Jeff Samardzija,621311,Ball,null,null
+FS,Jeff Samardzija,621311,"In play, no out",97.6,21.44
+FS,Jeff Samardzija,621311,Foul,null,null
+FS,Jeff Samardzija,621311,Ball,null,null
+FF,Jeff Samardzija,467827,"In play, run(s)",103.2,2.9
+FT,Jeff Samardzija,467827,"In play, out(s)",69.7,-25.58
+CU,Jeff Samardzija,467827,Foul,null,null
+CU,Jeff Samardzija,571448,"In play, out(s)",95.7,-8.54
+FF,Jeff Samardzija,572114,"In play, out(s)",null,null
+FF,Jeff Samardzija,572114,Called Strike,null,null
+FF,Jeff Samardzija,592669,Ball,null,null
+SL,Jeff Samardzija,592669,"In play, no out",104.2,0.57
+FF,Jeff Samardzija,592669,Foul,null,null
+SL,Jeff Samardzija,592669,Swinging Strike,null,null
+SL,Jeff Samardzija,592669,Ball,null,null
+FT,Jeff Samardzija,641319,"In play, out(s)",97.8,39
+FT,Jeff Samardzija,595978,Foul,null,null
+FS,Jeff Samardzija,595978,Ball,null,null
+FF,Jeff Samardzija,595978,Ball,null,null
+FF,Jeff Samardzija,595978,Foul,null,null
+FF,Jeff Samardzija,595978,Ball,null,null
+FT,Jeff Samardzija,595978,Foul Tip,null,null
+FS,Jeff Samardzija,596143,"In play, out(s)",null,null
+FF,Jeff Samardzija,596143,Called Strike,null,null
+SL,Jeff Samardzija,543184,"In play, out(s)",73.1,-17.65
+FF,Jeff Samardzija,543184,Called Strike,null,null
+FS,Jeff Samardzija,608671,Ball,null,null
+FT,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,608671,Swinging Strike,null,null
+FF,Jeff Samardzija,608671,Called Strike,null,null
+SL,Jeff Samardzija,608671,Foul,null,null
+CU,Jeff Samardzija,622534,Called Strike,null,null
+FF,Jeff Samardzija,622534,Called Strike,null,null
+FF,Jeff Samardzija,622534,Called Strike,null,null
+FT,Jeff Samardzija,571976,Called Strike,null,null
+FF,Jeff Samardzija,571976,Foul,null,null
+FF,Jeff Samardzija,571976,Called Strike,null,null
+SL,Jeff Samardzija,571976,Called Strike,null,null
+FF,Jeff Samardzija,571976,Ball,null,null
+FS,Jeff Samardzija,572114,Called Strike,null,null
+CU,Jeff Samardzija,572114,Foul,null,null
+FF,Jeff Samardzija,572114,Ball,null,null
+FS,Jeff Samardzija,572114,Ball,null,null
+SL,Jeff Samardzija,572114,Ball,null,null
+FF,Jeff Samardzija,572114,Called Strike,null,null
+FF,Jeff Samardzija,592669,"In play, no out",84.6,10.71
+FF,Jeff Samardzija,641319,Foul,null,null
+FT,Jeff Samardzija,641319,Ball,null,null
+FF,Jeff Samardzija,641319,"In play, out(s)",91.6,26.35
+FF,Jeff Samardzija,641319,Called Strike,null,null
+SL,Jeff Samardzija,595978,Ball,null,null
+FF,Jeff Samardzija,595978,Foul,null,null
+CU,Jeff Samardzija,595978,Ball,null,null
+FF,Jeff Samardzija,595978,Called Strike,null,null
+FF,Jeff Samardzija,595978,Called Strike,null,null
+CU,Jeff Samardzija,595978,Called Strike,null,null
+CU,Jeff Samardzija,596143,Swinging Strike,null,null
+CU,Jeff Samardzija,596143,Foul,null,null
+FT,Jeff Samardzija,596143,Foul (Runner Going),null,null
+FF,Jeff Samardzija,596143,Foul (Runner Going),null,null
+FF,Jeff Samardzija,596143,Ball,null,null
+CU,Jeff Samardzija,596143,Swinging Strike,null,null
+FF,Jeff Samardzija,608671,Foul,null,null
+FT,Jeff Samardzija,608671,Ball,null,null
+FT,Jeff Samardzija,608671,Foul,null,null
+CU,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,608671,Foul Bunt,null,null
+FF,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,608671,"In play, no out",91.2,-20.07
+SL,Jeff Samardzija,622534,"In play, out(s)",null,null
+PO,Jeff Samardzija,622534,Pitchout,null,null
+FF,Jeff Samardzija,571976,Foul,null,null
+FF,Jeff Samardzija,571976,Foul,null,null
+FT,Jeff Samardzija,571976,Ball,null,null
+CU,Jeff Samardzija,571976,Swinging Strike,null,null
+FF,Jeff Samardzija,571976,Swinging Strike,null,null
+FF,Jeff Samardzija,571976,Foul,null,null
+FS,Jeff Samardzija,571976,Foul,null,null
+FF,Jeff Samardzija,572114,Called Strike,null,null
+CU,Jeff Samardzija,572114,Called Strike,null,null
+FF,Jeff Samardzija,572114,Ball,null,null
+SL,Jeff Samardzija,572114,Swinging Strike,null,null
+CU,Jeff Samardzija,641319,Called Strike,null,null
+FS,Jeff Samardzija,641319,Swinging Strike,null,null
+FS,Jeff Samardzija,641319,Foul,null,null
+FT,Jeff Samardzija,641319,Ball,null,null
+FS,Jeff Samardzija,641319,Ball,null,null
+FS,Jeff Samardzija,641319,Ball,null,null
+FT,Jeff Samardzija,641319,"In play, out(s)",83.6,-22.75
+FT,Jeff Samardzija,595978,Ball,null,null
+CU,Jeff Samardzija,595978,Ball,null,null
+CU,Jeff Samardzija,595978,Foul,null,null
+CU,Jeff Samardzija,595978,Called Strike,null,null
+FF,Jeff Samardzija,595978,Foul,null,null
+FF,Jeff Samardzija,595978,"In play, no out",106.7,11.86
+CU,Jeff Samardzija,596143,Ball,null,null
+CU,Jeff Samardzija,596143,Ball,null,null
+FF,Jeff Samardzija,596143,Foul,null,null
+FF,Jeff Samardzija,596143,Foul,null,null
+CU,Jeff Samardzija,596143,Ball,null,null
+FF,Jeff Samardzija,592669,"In play, out(s)",98.7,-36.26
+CU,Jeff Samardzija,592669,Swinging Strike,null,null
+FS,Jeff Samardzija,608671,"In play, out(s)",97.1,-24
+FF,Jeff Samardzija,543184,Foul,null,null
+CU,Jeff Samardzija,543184,Ball,null,null
+FF,Jeff Samardzija,543184,Ball,null,null
+FF,Jeff Samardzija,543184,Ball,null,null
+FT,Jeff Samardzija,543184,Foul Bunt,null,null
+FF,Jeff Samardzija,543184,"In play, no out",null,null
+FF,Jeff Samardzija,571976,"In play, out(s)",93.3,5.9
+FF,Jeff Samardzija,622534,Ball,null,null
+FF,Jeff Samardzija,622534,"In play, out(s)",77.5,-51.89
+FF,Jeff Samardzija,622534,Ball,null,null
+FS,Jeff Samardzija,572761,Ball,null,null
+FF,Jeff Samardzija,572761,"In play, no out",105.5,12.56
+FF,Jeff Samardzija,572761,Ball,null,null
+FF,Jeff Samardzija,572761,Called Strike,null,null
+FF,Jeff Samardzija,572761,Foul,null,null
+FT,Jeff Samardzija,649557,"In play, out(s)",107.4,0.24
+FT,Jeff Samardzija,649557,Called Strike,null,null
+FT,Jeff Samardzija,649557,Ball,null,null
+FT,Jeff Samardzija,649557,Foul,null,null
+FF,Jeff Samardzija,461235,Ball,null,null
+FS,Jeff Samardzija,461235,Ball,null,null
+FT,Jeff Samardzija,461235,"In play, run(s)",102.6,27.62
+FT,Jeff Samardzija,572039,Ball,null,null
+SL,Jeff Samardzija,572039,"In play, out(s)",72.8,-2.01
+SL,Jeff Samardzija,572039,Ball,null,null
+SL,Jeff Samardzija,572039,Swinging Strike,null,null
+SL,Jeff Samardzija,572039,Foul,null,null
+SL,Jeff Samardzija,571431,Foul,null,null
+SL,Jeff Samardzija,571431,Ball,null,null
+FS,Jeff Samardzija,571431,Foul,null,null
+FT,Jeff Samardzija,571431,Ball,null,null
+FF,Jeff Samardzija,571431,Ball,null,null
+FF,Jeff Samardzija,571431,Ball,null,null
+FF,Jeff Samardzija,571431,Foul,null,null
+SL,Jeff Samardzija,571431,Foul,null,null
+FT,Jeff Samardzija,425877,"In play, out(s)",80.3,-30.06
+FT,Jeff Samardzija,545341,Called Strike,null,null
+FT,Jeff Samardzija,545341,"In play, out(s)",87.1,-13.59
+FT,Jeff Samardzija,543939,Ball,null,null
+FS,Jeff Samardzija,543939,"In play, no out",null,null
+FF,Jeff Samardzija,543939,Ball,null,null
+FT,Jeff Samardzija,543939,Foul,null,null
+FS,Jeff Samardzija,543939,Swinging Strike,null,null
+SL,Jeff Samardzija,502190,Ball,null,null
+SL,Jeff Samardzija,502190,Ball,null,null
+FF,Jeff Samardzija,502190,"In play, out(s)",null,null
+FT,Jeff Samardzija,572761,"In play, out(s)",100.4,-3.44
+CU,Jeff Samardzija,572761,Ball In Dirt,null,null
+FF,Jeff Samardzija,572761,Called Strike,null,null
+FS,Jeff Samardzija,572761,Ball In Dirt,null,null
+CU,Jeff Samardzija,572761,Called Strike,null,null
+FT,Jeff Samardzija,649557,Ball,null,null
+FT,Jeff Samardzija,649557,"In play, out(s)",null,null
+SL,Jeff Samardzija,461235,Swinging Strike,null,null
+FS,Jeff Samardzija,461235,Ball,null,null
+FT,Jeff Samardzija,461235,Foul,null,null
+SL,Jeff Samardzija,461235,Swinging Strike,null,null
+FF,Jeff Samardzija,572039,Foul Tip,null,null
+CU,Jeff Samardzija,572039,Swinging Strike,null,null
+FF,Jeff Samardzija,572039,Swinging Strike,null,null
+FT,Jeff Samardzija,571431,Foul,null,null
+FS,Jeff Samardzija,571431,Ball,null,null
+SL,Jeff Samardzija,571431,"In play, no out",82.1,14.79
+FT,Jeff Samardzija,425877,Called Strike,null,null
+FT,Jeff Samardzija,425877,Ball,null,null
+FT,Jeff Samardzija,425877,Ball,null,null
+SL,Jeff Samardzija,425877,Ball,null,null
+SL,Jeff Samardzija,425877,Ball,null,null
+FT,Jeff Samardzija,545341,Called Strike,null,null
+FT,Jeff Samardzija,545341,Called Strike,null,null
+CU,Jeff Samardzija,545341,Ball In Dirt,null,null
+FT,Jeff Samardzija,545341,Foul Tip,null,null
+FF,Jeff Samardzija,543939,Ball,null,null
+FS,Jeff Samardzija,543939,Foul,null,null
+FT,Jeff Samardzija,543939,Ball,null,null
+SL,Jeff Samardzija,543939,Ball,null,null
+FT,Jeff Samardzija,543939,Ball,null,null
+FF,Jeff Samardzija,543939,Swinging Strike,null,null
+CU,Jeff Samardzija,649557,Ball In Dirt,null,null
+CU,Jeff Samardzija,649557,Ball,null,null
+SL,Jeff Samardzija,649557,Foul,null,null
+FT,Jeff Samardzija,649557,"In play, out(s)",109.5,-12.3
+SL,Jeff Samardzija,461235,Ball,null,null
+SL,Jeff Samardzija,461235,Ball,null,null
+FS,Jeff Samardzija,461235,"In play, out(s)",69.7,15.63
+FS,Jeff Samardzija,461235,Swinging Strike,null,null
+FT,Jeff Samardzija,461235,Swinging Strike,null,null
+FS,Jeff Samardzija,572039,Ball,null,null
+FF,Jeff Samardzija,572039,"In play, out(s)",76.5,14.34
+FF,Jeff Samardzija,572039,Foul,null,null
+CU,Jeff Samardzija,572039,Ball,null,null
+SL,Jeff Samardzija,572039,Ball,null,null
+SL,Jeff Samardzija,572039,Foul,null,null
+FF,Jeff Samardzija,576397,Swinging Strike,null,null
+CU,Jeff Samardzija,576397,Called Strike,null,null
+FF,Jeff Samardzija,576397,Swinging Strike,null,null
+CU,Jeff Samardzija,425877,Ball,null,null
+FT,Jeff Samardzija,425877,"In play, no out",88.8,19.7
+FT,Jeff Samardzija,545341,Ball,null,null
+FT,Jeff Samardzija,545341,Foul,null,null
+FT,Jeff Samardzija,545341,Ball,null,null
+FT,Jeff Samardzija,545341,Foul,null,null
+SL,Jeff Samardzija,545341,"In play, out(s)",98.9,-0.09
+FT,Jeff Samardzija,545341,Called Strike,null,null
+FT,Jeff Samardzija,545341,Called Strike,null,null
+CU,Jeff Samardzija,545341,Foul,null,null
+FF,Jeff Samardzija,543939,Ball,null,null
+FS,Jeff Samardzija,543939,Ball,null,null
+SL,Jeff Samardzija,543939,Ball,null,null
+FF,Jeff Samardzija,543939,Ball,null,null
+SL,Jeff Samardzija,502190,Foul Bunt,null,null
+FF,Jeff Samardzija,502190,"In play, out(s)",null,null
+FF,Jeff Samardzija,572761,Called Strike,null,null
+SL,Jeff Samardzija,572761,"In play, out(s)",84.5,-17.24
+FT,Jeff Samardzija,542455,Foul,null,null
+FS,Jeff Samardzija,542455,"In play, out(s)",76.6,-0.84
+FS,Jeff Samardzija,542455,Ball,null,null
+FF,Jeff Samardzija,445055,Foul,null,null
+FF,Jeff Samardzija,445055,Ball,null,null
+CU,Jeff Samardzija,445055,Called Strike,null,null
+FT,Jeff Samardzija,445055,"In play, out(s)",92.9,2.68
+CU,Jeff Samardzija,596143,Called Strike,null,null
+FF,Jeff Samardzija,596143,Foul,null,null
+SL,Jeff Samardzija,596143,Ball,null,null
+SL,Jeff Samardzija,596143,Swinging Strike,null,null
+FF,Jeff Samardzija,596143,Called Strike,null,null
+FF,Jeff Samardzija,543105,Ball,null,null
+FF,Jeff Samardzija,543105,Foul,null,null
+FS,Jeff Samardzija,543105,Foul,null,null
+FF,Jeff Samardzija,543105,Ball,null,null
+FF,Jeff Samardzija,543105,Ball,null,null
+FT,Jeff Samardzija,543105,Foul,null,null
+FS,Jeff Samardzija,543105,Foul,null,null
+FT,Jeff Samardzija,543105,Ball,null,null
+FT,Jeff Samardzija,572114,Ball,null,null
+FS,Jeff Samardzija,572114,Ball In Dirt,null,null
+FT,Jeff Samardzija,572114,Foul,null,null
+FF,Jeff Samardzija,572114,Foul (Runner Going),null,null
+SL,Jeff Samardzija,572114,Ball In Dirt,null,null
+FT,Jeff Samardzija,572114,Foul,null,null
+CU,Jeff Samardzija,572114,Called Strike,null,null
+CU,Jeff Samardzija,518560,Called Strike,null,null
+CU,Jeff Samardzija,518560,Swinging Strike,null,null
+FF,Jeff Samardzija,518560,Swinging Strike,null,null
+FC,Jeff Samardzija,518560,Ball,null,null
+FF,Jeff Samardzija,572114,Ball,null,null
+FF,Jeff Samardzija,572114,Swinging Strike,null,null
+CU,Jeff Samardzija,572114,Called Strike,null,null
+CU,Jeff Samardzija,572114,Swinging Strike,null,null
+CU,Jeff Samardzija,572114,Foul,null,null
+CU,Jeff Samardzija,542455,Swinging Strike (Blocked),null,null
+FS,Jeff Samardzija,542455,Foul,null,null
+FT,Jeff Samardzija,542455,Swinging Strike,null,null
+CU,Jeff Samardzija,543105,Called Strike,null,null
+FF,Jeff Samardzija,543105,Ball,null,null
+FC,Jeff Samardzija,543105,Ball,null,null
+FF,Jeff Samardzija,543105,Foul,null,null
+CU,Jeff Samardzija,543105,Swinging Strike,null,null
+FF,Jeff Samardzija,543105,Swinging Strike,null,null
+FS,Jeff Samardzija,543105,Called Strike,null,null
+FF,Jeff Samardzija,518560,"In play, out(s)",null,null
+CU,Jeff Samardzija,518560,Ball,null,null
+FS,Jeff Samardzija,500208,"In play, run(s)",74.1,-11.75
+FF,Jeff Samardzija,506560,Foul,null,null
+FS,Jeff Samardzija,506560,"In play, out(s)",87.2,-2.79
+FT,Jeff Samardzija,506560,Called Strike,null,null
+CU,Jeff Samardzija,506560,Ball,null,null
+CU,Jeff Samardzija,542455,Called Strike,null,null
+SL,Jeff Samardzija,542455,"In play, out(s)",101.4,-1.76
+CU,Jeff Samardzija,542455,Ball,null,null
+FF,Jeff Samardzija,542455,Foul,null,null
+FT,Jeff Samardzija,516949,"In play, no out",68.2,26.82
+FF,Jeff Samardzija,516949,Ball,null,null
+FT,Jeff Samardzija,596143,"In play, no out",94.4,15.87
+FF,Jeff Samardzija,445055,Swinging Strike,null,null
+SL,Jeff Samardzija,445055,"In play, out(s)",83.9,64.71
+CU,Jeff Samardzija,445055,Called Strike,null,null
+FT,Jeff Samardzija,543105,Ball,null,null
+FT,Jeff Samardzija,543105,Called Strike,null,null
+FF,Jeff Samardzija,543105,Foul,null,null
+CU,Jeff Samardzija,543105,Foul,null,null
+FS,Jeff Samardzija,543105,Ball,null,null
+FF,Jeff Samardzija,543105,"In play, out(s)",65.4,69.84
+FT,Jeff Samardzija,500208,"In play, out(s)",85.6,-17.59
+CU,Jeff Samardzija,516949,Ball,null,null
+FS,Jeff Samardzija,516949,Ball In Dirt,null,null
+FF,Jeff Samardzija,516949,Ball,null,null
+FF,Jeff Samardzija,516949,Foul,null,null
+CU,Jeff Samardzija,516949,Called Strike,null,null
+CU,Jeff Samardzija,516949,"In play, out(s)",67.1,-45.73
+CU,Jeff Samardzija,596143,"In play, no out",96.8,14.57
+FF,Jeff Samardzija,445055,"In play, no out",66.6,28.27
+FF,Jeff Samardzija,445055,Foul,null,null
+FS,Jeff Samardzija,506560,"In play, no out",100.6,2.55
+CU,Jeff Samardzija,506560,Swinging Strike,null,null
+CU,Jeff Samardzija,500208,"In play, run(s)",97.5,-7.09
+CU,Jeff Samardzija,506560,"In play, out(s)",91.6,19.71
+FT,Jeff Samardzija,516949,Ball,null,null
+FF,Jeff Samardzija,516949,Swinging Strike,null,null
+FF,Jeff Samardzija,516949,Foul,null,null
+FT,Jeff Samardzija,516949,Ball,null,null
+SL,Jeff Samardzija,516949,Called Strike,null,null
+SL,Jeff Samardzija,516949,"In play, run(s)",92.8,32.04
+FS,Jeff Samardzija,572114,Foul,null,null
+FS,Jeff Samardzija,572114,Ball,null,null
+CU,Jeff Samardzija,572114,"In play, no out",107.2,15.59
+SL,Jeff Samardzija,571448,Swinging Strike,null,null
+SL,Jeff Samardzija,571448,"In play, no out",67,39.3
+CU,Jeff Samardzija,571448,Called Strike,null,null
+FF,Jeff Samardzija,571448,Foul,null,null
+FS,Jeff Samardzija,621311,Swinging Strike (Blocked),null,null
+SL,Jeff Samardzija,621311,Swinging Strike,null,null
+FF,Jeff Samardzija,621311,Foul,null,null
+FF,Jeff Samardzija,467827,Ball,null,null
+FF,Jeff Samardzija,467827,Foul,null,null
+CU,Jeff Samardzija,467827,Called Strike,null,null
+SL,Jeff Samardzija,467827,Foul,null,null
+FF,Jeff Samardzija,467827,Swinging Strike,null,null
+SL,Jeff Samardzija,518614,Ball,null,null
+FT,Jeff Samardzija,518614,Called Strike,null,null
+SL,Jeff Samardzija,518614,Swinging Strike,null,null
+SL,Jeff Samardzija,518614,Foul,null,null
+FF,Jeff Samardzija,471865,Foul,null,null
+FF,Jeff Samardzija,471865,Ball,null,null
+FT,Jeff Samardzija,471865,Foul,null,null
+FF,Jeff Samardzija,471865,Foul,null,null
+FF,Jeff Samardzija,471865,Ball,null,null
+SL,Jeff Samardzija,471865,Foul,null,null
+SL,Jeff Samardzija,471865,Foul,null,null
+SL,Jeff Samardzija,471865,Swinging Strike,null,null
+FF,Jeff Samardzija,571448,Foul,null,null
+FF,Jeff Samardzija,571448,Foul,null,null
+FF,Jeff Samardzija,571448,Ball,null,null
+FF,Jeff Samardzija,571448,Swinging Strike,null,null
+FF,Jeff Samardzija,621311,Foul,null,null
+FF,Jeff Samardzija,621311,Ball,null,null
+SL,Jeff Samardzija,621311,Foul,null,null
+FF,Jeff Samardzija,621311,Foul,null,null
+SL,Jeff Samardzija,621311,Ball,null,null
+FF,Jeff Samardzija,621311,Foul,null,null
+FF,Jeff Samardzija,621311,Called Strike,null,null
+SL,Jeff Samardzija,467827,Ball,null,null
+FT,Jeff Samardzija,467827,Called Strike,null,null
+SL,Jeff Samardzija,467827,Called Strike,null,null
+FF,Jeff Samardzija,467827,Ball,null,null
+FT,Jeff Samardzija,467827,"In play, no out",99,8.92
+CU,Jeff Samardzija,518614,Ball,null,null
+CU,Jeff Samardzija,518614,Ball,null,null
+CU,Jeff Samardzija,518614,"In play, out(s)",85.7,9.55
+SL,Jeff Samardzija,518614,Called Strike,null,null
+FF,Jeff Samardzija,518614,Foul,null,null
+FF,Jeff Samardzija,547172,"In play, out(s)",98.8,24.52
+FF,Jeff Samardzija,542881,Foul,null,null
+FF,Jeff Samardzija,542881,"In play, out(s)",68.7,-50.1
+FF,Jeff Samardzija,542881,Called Strike,null,null
+CU,Jeff Samardzija,606132,Ball,null,null
+FF,Jeff Samardzija,606132,Ball,null,null
+CU,Jeff Samardzija,606132,Ball,null,null
+FF,Jeff Samardzija,606132,Ball,null,null
+CU,Jeff Samardzija,518934,Ball,null,null
+CU,Jeff Samardzija,518934,"In play, run(s)",97.6,-5.37
+CU,Jeff Samardzija,518934,Called Strike,null,null
+CU,Jeff Samardzija,518934,Swinging Strike,null,null
+SL,Jeff Samardzija,547172,Called Strike,null,null
+FF,Jeff Samardzija,547172,"In play, no out",99.3,21.59
+SL,Jeff Samardzija,547172,Ball,null,null
+FF,Jeff Samardzija,547172,Ball,null,null
+SL,Jeff Samardzija,606132,Foul,null,null
+FF,Jeff Samardzija,606132,Ball,null,null
+SL,Jeff Samardzija,606132,"In play, run(s)",81.3,36.04
+SL,Jeff Samardzija,606132,Foul,null,null
+FF,Jeff Samardzija,518934,Ball,null,null
+FF,Jeff Samardzija,518934,Foul,null,null
+FF,Jeff Samardzija,518934,Called Strike,null,null
+CU,Jeff Samardzija,518934,Ball,null,null
+SL,Jeff Samardzija,518934,Swinging Strike,null,null
+FF,Jeff Samardzija,471865,Ball,null,null
+FF,Jeff Samardzija,471865,Called Strike,null,null
+FF,Jeff Samardzija,471865,Called Strike,null,null
+FF,Jeff Samardzija,471865,Foul,null,null
+FS,Jeff Samardzija,471865,Ball,null,null
+FF,Jeff Samardzija,471865,Ball,null,null
+SL,Jeff Samardzija,471865,Foul Tip,null,null
+SL,Jeff Samardzija,571448,"In play, out(s)",87.4,57.48
+FT,Jeff Samardzija,571448,Foul,null,null
+CU,Jeff Samardzija,571448,Called Strike,null,null
+SL,Jeff Samardzija,621311,"In play, out(s)",null,null
+CU,Jeff Samardzija,621311,Called Strike,null,null
+FS,Jeff Samardzija,467827,Foul,null,null
+FF,Jeff Samardzija,467827,Foul,null,null
+FF,Jeff Samardzija,467827,Ball,null,null
+FF,Jeff Samardzija,467827,Ball,null,null
+SL,Jeff Samardzija,467827,"In play, out(s)",79,-18.03
+SL,Jeff Samardzija,518614,"In play, out(s)",96,21.28
+FF,Jeff Samardzija,518614,Called Strike,null,null
+CU,Jeff Samardzija,547172,Called Strike,null,null
+SL,Jeff Samardzija,547172,Foul,null,null
+CU,Jeff Samardzija,547172,Swinging Strike (Blocked),null,null
+CU,Jeff Samardzija,547172,Called Strike,null,null
+FF,Jeff Samardzija,547172,Foul,null,null
+FF,Jeff Samardzija,542881,Foul,null,null
+FF,Jeff Samardzija,542881,Ball,null,null
+FF,Jeff Samardzija,542881,"In play, out(s)",null,null
+FF,Jeff Samardzija,606132,Ball,null,null
+SL,Jeff Samardzija,606132,"In play, out(s)",104.5,5.69
+FF,Jeff Samardzija,606132,Called Strike,null,null
+FF,Jeff Samardzija,471865,"In play, out(s)",null,null
+CU,Jeff Samardzija,471865,Ball,null,null
+SL,Jeff Samardzija,518934,Called Strike,null,null
+FF,Jeff Samardzija,518934,Ball,null,null
+FF,Jeff Samardzija,518934,"In play, out(s)",91.6,29.1
+FT,Jeff Samardzija,519203,Foul,null,null
+FF,Jeff Samardzija,519203,Foul,null,null
+FF,Jeff Samardzija,519203,Called Strike,null,null
+FC,Jeff Samardzija,519203,"In play, out(s)",91.4,-18.42
+FF,Jeff Samardzija,458085,"In play, run(s)",88.3,0.36
+FF,Jeff Samardzija,451594,Ball,null,null
+FS,Jeff Samardzija,451594,Foul,null,null
+FF,Jeff Samardzija,451594,Foul,null,null
+FF,Jeff Samardzija,451594,Foul,null,null
+SL,Jeff Samardzija,451594,Foul,null,null
+FS,Jeff Samardzija,451594,Foul,null,null
+FF,Jeff Samardzija,451594,Called Strike,null,null
+SL,Jeff Samardzija,451594,Foul,null,null
+FS,Jeff Samardzija,451594,Foul,null,null
+FS,Jeff Samardzija,451594,Ball,null,null
+FF,Jeff Samardzija,451594,Foul,null,null
+CU,Jeff Samardzija,451594,Ball,null,null
+FF,Jeff Samardzija,451594,Ball,null,null
+FT,Jeff Samardzija,608365,Ball,null,null
+SL,Jeff Samardzija,608365,Foul,null,null
+FS,Jeff Samardzija,608365,Swinging Strike,null,null
+FF,Jeff Samardzija,608365,Ball,null,null
+FT,Jeff Samardzija,608365,Foul,null,null
+IN,Jeff Samardzija,424325,Intent Ball,null,null
+IN,Jeff Samardzija,424325,Intent Ball,null,null
+IN,Jeff Samardzija,424325,Intent Ball,null,null
+IN,Jeff Samardzija,424325,Intent Ball,null,null
+FF,Jeff Samardzija,543557,Ball,null,null
+CU,Jeff Samardzija,543557,Ball,null,null
+FT,Jeff Samardzija,543557,Swinging Strike,null,null
+FT,Jeff Samardzija,543557,Foul,null,null
+FT,Jeff Samardzija,543557,Swinging Strike,null,null
+CU,Jeff Samardzija,450314,Ball,null,null
+CU,Jeff Samardzija,450314,Ball,null,null
+FT,Jeff Samardzija,450314,Swinging Strike,null,null
+FT,Jeff Samardzija,450314,Foul,null,null
+FF,Jeff Samardzija,450314,Called Strike,null,null
+CU,Jeff Samardzija,450314,Ball,null,null
+FT,Jeff Samardzija,450314,Called Strike,null,null
+FT,Jeff Samardzija,424325,Ball,null,null
+FT,Jeff Samardzija,424325,Called Strike,null,null
+FT,Jeff Samardzija,424325,Foul,null,null
+FT,Jeff Samardzija,424325,Foul,null,null
+CU,Jeff Samardzija,424325,Ball,null,null
+FS,Jeff Samardzija,424325,Called Strike,null,null
+FT,Jeff Samardzija,424325,Ball,null,null
+SL,Jeff Samardzija,424325,Ball,null,null
+FT,Jeff Samardzija,518792,"In play, out(s)",70.3,-21.13
+SL,Jeff Samardzija,608365,Swinging Strike,null,null
+CU,Jeff Samardzija,608365,Ball,null,null
+CU,Jeff Samardzija,608365,"In play, out(s)",84.6,-12.85
+FS,Jeff Samardzija,519203,Ball,null,null
+FS,Jeff Samardzija,519203,Ball,null,null
+FT,Jeff Samardzija,519203,"In play, out(s)",105.5,3.45
+CU,Jeff Samardzija,519203,Called Strike,null,null
+CU,Jeff Samardzija,458085,Foul,null,null
+FF,Jeff Samardzija,458085,Foul,null,null
+FF,Jeff Samardzija,458085,"In play, out(s)",97.8,32.78
+FT,Jeff Samardzija,600303,Foul,null,null
+FF,Jeff Samardzija,600303,"In play, out(s)",94.4,21.28
+CU,Jeff Samardzija,600303,Called Strike,null,null
+FT,Jeff Samardzija,451594,Ball,null,null
+CU,Jeff Samardzija,451594,Ball,null,null
+CU,Jeff Samardzija,451594,Called Strike,null,null
+FF,Jeff Samardzija,451594,"In play, out(s)",81.3,20.15
+FF,Jeff Samardzija,518792,Foul,null,null
+FT,Jeff Samardzija,518792,Ball,null,null
+FF,Jeff Samardzija,518792,Called Strike,null,null
+FS,Jeff Samardzija,518792,"In play, run(s)",76.6,14.1
+CU,Jeff Samardzija,450314,Ball,null,null
+CU,Jeff Samardzija,450314,Called Strike,null,null
+FT,Jeff Samardzija,450314,Ball,null,null
+FT,Jeff Samardzija,450314,Called Strike,null,null
+FF,Jeff Samardzija,450314,"In play, no out",90.4,12.06
+FC,Jeff Samardzija,592178,"In play, out(s)",96.8,33.91
+FT,Jeff Samardzija,592178,Ball,null,null
+SL,Jeff Samardzija,451594,Ball,null,null
+FF,Jeff Samardzija,451594,"In play, no out",87.6,0.62
+CU,Jeff Samardzija,451594,Called Strike,null,null
+CU,Jeff Samardzija,451594,Called Strike,null,null
+SL,Jeff Samardzija,592178,"In play, out(s)",99.3,40.43
+FT,Jeff Samardzija,592178,Called Strike,null,null
+FS,Jeff Samardzija,592178,Foul,null,null
+SL,Jeff Samardzija,592178,Foul,null,null
+FT,Jeff Samardzija,592178,"In play, run(s)",59.3,25.31
+FT,Jeff Samardzija,592178,Foul,null,null
+FS,Jeff Samardzija,592178,Ball,null,null
+FF,Jeff Samardzija,452095,"In play, out(s)",97.2,-16.01
+FF,Jeff Samardzija,542255,Foul,null,null
+FS,Jeff Samardzija,542255,"In play, no out",95.1,16.29
+FF,Jeff Samardzija,542255,Called Strike,null,null
+CU,Jeff Samardzija,518692,"In play, no out",93.3,32.23
+FT,Jeff Samardzija,518692,Foul,null,null
+FT,Jeff Samardzija,461314,Swinging Strike,null,null
+SL,Jeff Samardzija,461314,Swinging Strike,null,null
+CU,Jeff Samardzija,461314,Called Strike,null,null
+FT,Jeff Samardzija,461314,Ball,null,null
+CU,Jeff Samardzija,455976,Foul,null,null
+FF,Jeff Samardzija,455976,Foul,null,null
+FF,Jeff Samardzija,455976,Foul,null,null
+CU,Jeff Samardzija,455976,Called Strike,null,null
+FS,Jeff Samardzija,455976,Swinging Strike (Blocked),null,null
+FT,Jeff Samardzija,452095,Foul,null,null
+CU,Jeff Samardzija,452095,Ball,null,null
+FT,Jeff Samardzija,452095,Ball,null,null
+FF,Jeff Samardzija,452095,Ball,null,null
+FT,Jeff Samardzija,452095,Ball,null,null
+FF,Jeff Samardzija,607054,"In play, no out",99.6,3.57
+CU,Jeff Samardzija,607054,Called Strike,null,null
+CU,Jeff Samardzija,621020,"In play, no out",71.3,-45.86
+CU,Jeff Samardzija,621020,Called Strike,null,null
+FF,Jeff Samardzija,503444,Ball,null,null
+FT,Jeff Samardzija,503444,Called Strike,null,null
+FT,Jeff Samardzija,503444,Ball,null,null
+FF,Jeff Samardzija,503444,Called Strike,null,null
+FT,Jeff Samardzija,503444,"In play, out(s)",89.5,-41.36
+CU,Jeff Samardzija,542255,Ball In Dirt,null,null
+CU,Jeff Samardzija,542255,Called Strike,null,null
+FT,Jeff Samardzija,542255,Foul,null,null
+FS,Jeff Samardzija,542255,Ball In Dirt,null,null
+CU,Jeff Samardzija,542255,Swinging Strike (Blocked),null,null
+FT,Jeff Samardzija,611177,Called Strike,null,null
+FF,Jeff Samardzija,611177,Foul,null,null
+CU,Jeff Samardzija,611177,"In play, out(s)",105.8,8.51
+FT,Jeff Samardzija,611177,Ball,null,null
+FT,Jeff Samardzija,518692,Ball,null,null
+FT,Jeff Samardzija,518692,Called Strike,null,null
+FT,Jeff Samardzija,518692,Ball,null,null
+FT,Jeff Samardzija,518692,Swinging Strike,null,null
+FT,Jeff Samardzija,518692,Ball,null,null
+FT,Jeff Samardzija,518692,Swinging Strike,null,null
+CU,Jeff Samardzija,461314,Swinging Strike,null,null
+FS,Jeff Samardzija,461314,Swinging Strike,null,null
+CU,Jeff Samardzija,461314,Ball,null,null
+FT,Jeff Samardzija,461314,Foul,null,null
+FT,Jeff Samardzija,455976,Foul,null,null
+FT,Jeff Samardzija,455976,Called Strike,null,null
+FS,Jeff Samardzija,455976,"In play, out(s)",86.6,20.04
+FS,Jeff Samardzija,607054,Swinging Strike,null,null
+FT,Jeff Samardzija,607054,Ball,null,null
+FF,Jeff Samardzija,607054,Called Strike,null,null
+FS,Jeff Samardzija,607054,Foul,null,null
+FF,Jeff Samardzija,607054,Foul,null,null
+FF,Jeff Samardzija,607054,Foul,null,null
+FS,Jeff Samardzija,607054,Ball,null,null
+FS,Jeff Samardzija,607054,Ball,null,null
+CU,Jeff Samardzija,607054,Ball,null,null
+CU,Jeff Samardzija,621020,Called Strike,null,null
+FT,Jeff Samardzija,621020,"In play, out(s)",86.8,-23.52
+FT,Jeff Samardzija,621020,Called Strike,null,null
+FT,Jeff Samardzija,503444,Called Strike,null,null
+FT,Jeff Samardzija,503444,Foul,null,null
+FT,Jeff Samardzija,503444,Ball,null,null
+FT,Jeff Samardzija,503444,Swinging Strike,null,null
+FT,Jeff Samardzija,503444,Ball,null,null
+FF,Jeff Samardzija,503444,Foul,null,null
+FT,Jeff Samardzija,503444,"In play, out(s)",97,-8.86
+FF,Jeff Samardzija,611177,Called Strike,null,null
+FS,Jeff Samardzija,611177,Foul,null,null
+FF,Jeff Samardzija,611177,"In play, out(s)",59,-28.97
+FT,Jeff Samardzija,611177,Called Strike,null,null
+FS,Jeff Samardzija,518692,"In play, no out",90.1,4.98
+FS,Jeff Samardzija,518692,Swinging Strike,null,null
+CU,Jeff Samardzija,461314,Called Strike,null,null
+CU,Jeff Samardzija,461314,"In play, out(s)",102.5,1.95
+CU,Jeff Samardzija,461314,Ball,null,null
+FT,Jeff Samardzija,452095,Ball,null,null
+FF,Jeff Samardzija,452095,Foul,null,null
+FF,Jeff Samardzija,452095,Swinging Strike,null,null
+FT,Jeff Samardzija,452095,Foul,null,null
+FT,Jeff Samardzija,607054,Foul,null,null
+FF,Jeff Samardzija,607054,Ball,null,null
+CU,Jeff Samardzija,607054,"In play, out(s)",97.1,20.64
+FF,Jeff Samardzija,621020,"In play, out(s)",43.4,-20.5
+FF,Jeff Samardzija,621020,Called Strike,null,null
+FT,Jeff Samardzija,488818,Ball,null,null
+FF,Jeff Samardzija,488818,Ball,null,null
+FT,Jeff Samardzija,488818,Ball,null,null
+FT,Jeff Samardzija,488818,Ball,null,null
+CU,Jeff Samardzija,542255,Foul,null,null
+FF,Jeff Samardzija,542255,Called Strike,null,null
+FT,Jeff Samardzija,542255,"In play, out(s)",null,null
+FT,Jeff Samardzija,611177,"In play, out(s)",87.2,-31.57
+FT,Jeff Samardzija,611177,Called Strike,null,null
+FT,Jeff Samardzija,518692,Foul,null,null
+FF,Jeff Samardzija,518692,Ball,null,null
+FS,Jeff Samardzija,518692,"In play, out(s)",98.9,45.28
+FS,Jeff Samardzija,518692,Ball,null,null
+FT,Jeff Samardzija,518692,Foul,null,null
+FT,Jeff Samardzija,542255,"In play, out(s)",97.5,-21.13
+FT,Jeff Samardzija,611177,Ball,null,null
+FF,Jeff Samardzija,611177,Foul,null,null
+CU,Jeff Samardzija,611177,"In play, out(s)",89.6,-13.55
+FT,Jeff Samardzija,455976,"In play, no out",102.5,10.21
+FF,Jeff Samardzija,434158,"In play, out(s)",91.2,46.17
+FS,Jeff Samardzija,434158,Ball,null,null
+FS,Jeff Samardzija,408314,Swinging Strike,null,null
+FF,Jeff Samardzija,408314,"In play, out(s)",89.9,3.45
+FF,Jeff Samardzija,408314,Called Strike,null,null
+FF,Jeff Samardzija,493316,"In play, out(s)",82.6,34.8
+FF,Jeff Samardzija,493316,Called Strike,null,null
+FF,Jeff Samardzija,493316,Foul Tip,null,null
+FF,Jeff Samardzija,457803,"In play, out(s)",90.6,63.71
+FF,Jeff Samardzija,435522,Ball,null,null
+FS,Jeff Samardzija,435522,"In play, out(s)",93.2,37.7
+FF,Jeff Samardzija,435522,Called Strike,null,null
+FF,Jeff Samardzija,425766,"In play, out(s)",78.1,30.5
+FF,Jeff Samardzija,425766,Ball,null,null
+FS,Jeff Samardzija,452678,Ball,null,null
+FT,Jeff Samardzija,452678,Foul,null,null
+CU,Jeff Samardzija,452678,Ball,null,null
+FS,Jeff Samardzija,452678,Called Strike,null,null
+CU,Jeff Samardzija,452678,Called Strike,null,null
+FF,Jeff Samardzija,452678,Swinging Strike,null,null
+FF,Jeff Samardzija,425784,Ball,null,null
+FF,Jeff Samardzija,425784,Called Strike,null,null
+FT,Jeff Samardzija,425784,Foul,null,null
+CU,Jeff Samardzija,425784,Ball,null,null
+FT,Jeff Samardzija,425784,Ball,null,null
+FF,Jeff Samardzija,425784,Swinging Strike,null,null
+FF,Jeff Samardzija,592789,Foul,null,null
+FF,Jeff Samardzija,592789,Foul,null,null
+CU,Jeff Samardzija,592789,Ball,null,null
+CU,Jeff Samardzija,592789,Ball,null,null
+FF,Jeff Samardzija,592789,Ball,null,null
+FF,Jeff Samardzija,592789,Called Strike,null,null
+FS,Jeff Samardzija,592789,Ball,null,null
+FF,Jeff Samardzija,592789,Foul,null,null
+FS,Jeff Samardzija,434158,Ball,null,null
+CU,Jeff Samardzija,434158,Called Strike,null,null
+FT,Jeff Samardzija,434158,Called Strike,null,null
+FF,Jeff Samardzija,434158,Foul,null,null
+FT,Jeff Samardzija,493316,Ball,null,null
+CU,Jeff Samardzija,493316,Foul,null,null
+FF,Jeff Samardzija,493316,Foul,null,null
+CU,Jeff Samardzija,493316,Ball,null,null
+FF,Jeff Samardzija,493316,Foul,null,null
+FS,Jeff Samardzija,493316,Swinging Strike,null,null
+FF,Jeff Samardzija,457803,Called Strike,null,null
+FS,Jeff Samardzija,457803,Ball,null,null
+FT,Jeff Samardzija,457803,Foul,null,null
+FF,Jeff Samardzija,457803,Foul,null,null
+FS,Jeff Samardzija,457803,Ball,null,null
+FF,Jeff Samardzija,457803,Ball,null,null
+CU,Jeff Samardzija,457803,"In play, out(s)",88.3,31.51
+FF,Jeff Samardzija,435522,"In play, out(s)",72.5,47.61
+FF,Jeff Samardzija,435522,Ball,null,null
+FS,Jeff Samardzija,452678,Swinging Strike,null,null
+FF,Jeff Samardzija,452678,Swinging Strike,null,null
+FS,Jeff Samardzija,452678,Swinging Strike,null,null
+CU,Jeff Samardzija,425784,Ball,null,null
+SL,Jeff Samardzija,425784,Foul,null,null
+CU,Jeff Samardzija,425784,"In play, out(s)",null,null
+FF,Jeff Samardzija,425784,Foul,null,null
+CU,Jeff Samardzija,425784,Called Strike,null,null
+FS,Jeff Samardzija,592789,Swinging Strike,null,null
+FS,Jeff Samardzija,592789,Ball,null,null
+FS,Jeff Samardzija,592789,Swinging Strike,null,null
+FF,Jeff Samardzija,592789,Ball,null,null
+SL,Jeff Samardzija,592789,Called Strike,null,null
+FT,Jeff Samardzija,434158,"In play, no out",98.6,20.38
+FS,Jeff Samardzija,434158,Ball,null,null
+FS,Jeff Samardzija,493316,"In play, run(s)",110.5,29.17
+CU,Jeff Samardzija,493316,Ball,null,null
+CU,Jeff Samardzija,457803,Foul,null,null
+FF,Jeff Samardzija,457803,Foul,null,null
+SL,Jeff Samardzija,457803,"In play, out(s)",96.1,23.14
+FF,Jeff Samardzija,457803,Foul,null,null
+FS,Jeff Samardzija,457803,Ball,null,null
+FS,Jeff Samardzija,435522,Foul,null,null
+CU,Jeff Samardzija,435522,Ball,null,null
+FF,Jeff Samardzija,435522,Foul,null,null
+CU,Jeff Samardzija,435522,Swinging Strike,null,null
+FF,Jeff Samardzija,425766,"In play, no out",null,null
+FF,Jeff Samardzija,425766,Foul,null,null
+CU,Jeff Samardzija,452678,Ball,null,null
+FT,Jeff Samardzija,452678,"In play, out(s)",96.8,-6.97
+FS,Jeff Samardzija,452678,Ball,null,null
+FF,Jeff Samardzija,408314,Ball,null,null
+FS,Jeff Samardzija,408314,Foul,null,null
+FS,Jeff Samardzija,408314,"In play, out(s)",null,null
+CU,Jeff Samardzija,408314,Called Strike,null,null
+FF,Jeff Samardzija,408314,Ball,null,null
+FF,Jeff Samardzija,425766,Ball,null,null
+FF,Jeff Samardzija,425766,Foul,null,null
+CU,Jeff Samardzija,425766,Called Strike,null,null
+FS,Jeff Samardzija,425766,Ball,null,null
+FF,Jeff Samardzija,425766,Ball,null,null
+FF,Jeff Samardzija,425766,"In play, out(s)",95.8,-6.78
+CU,Jeff Samardzija,408314,Called Strike,null,null
+FS,Jeff Samardzija,408314,Ball,null,null
+FS,Jeff Samardzija,408314,Ball,null,null
+FT,Jeff Samardzija,408314,"In play, out(s)",80.8,51.1
+FF,Jeff Samardzija,543281,"In play, out(s)",null,null
+CU,Jeff Samardzija,543281,Called Strike,null,null
+FT,Jeff Samardzija,543281,Ball,null,null
+FF,Jeff Samardzija,543281,Called Strike,null,null
+FF,Jeff Samardzija,543281,"In play, out(s)",78.5,-2.87
+SL,Jeff Samardzija,457705,"In play, no out",91.4,8.12
+SL,Jeff Samardzija,457705,Called Strike,null,null
+FF,Jeff Samardzija,457705,Ball,null,null
+FT,Jeff Samardzija,628356,Called Strike,null,null
+CU,Jeff Samardzija,628356,"In play, out(s)",null,null
+FT,Jeff Samardzija,628356,Ball,null,null
+CU,Jeff Samardzija,628356,Ball In Dirt,null,null
+SL,Jeff Samardzija,628356,Called Strike,null,null
+CU,Jeff Samardzija,465041,Ball,null,null
+FF,Jeff Samardzija,465041,Foul,null,null
+FF,Jeff Samardzija,465041,Ball,null,null
+SL,Jeff Samardzija,465041,"In play, no out",100.7,22.38
+FF,Jeff Samardzija,444379,Ball,null,null
+FT,Jeff Samardzija,444379,"In play, run(s)",104.3,15.01
+FT,Jeff Samardzija,474568,Ball,null,null
+CU,Jeff Samardzija,474568,Ball,null,null
+FT,Jeff Samardzija,474568,Ball,null,null
+FT,Jeff Samardzija,474568,Swinging Strike,null,null
+FT,Jeff Samardzija,474568,Ball,null,null
+FF,Jeff Samardzija,516782,Swinging Strike,null,null
+FF,Jeff Samardzija,516782,Called Strike,null,null
+FF,Jeff Samardzija,516782,Foul,null,null
+FF,Jeff Samardzija,457705,Called Strike,null,null
+FT,Jeff Samardzija,457705,Foul,null,null
+FT,Jeff Samardzija,457705,Swinging Strike,null,null
+CU,Jeff Samardzija,457705,Called Strike,null,null
+FF,Jeff Samardzija,457705,Ball,null,null
+FT,Jeff Samardzija,570256,Foul,null,null
+CU,Jeff Samardzija,570256,Foul,null,null
+FF,Jeff Samardzija,570256,Foul,null,null
+CU,Jeff Samardzija,570256,Ball,null,null
+FF,Jeff Samardzija,570256,Ball,null,null
+FT,Jeff Samardzija,570256,Swinging Strike,null,null
+FF,Jeff Samardzija,570256,Foul,null,null
+FF,Jeff Samardzija,570256,Ball,null,null
+FF,Jeff Samardzija,570256,Foul,null,null
+SL,Jeff Samardzija,570256,"In play, out(s)",76.3,37.92
+CU,Jeff Samardzija,628356,Swinging Strike,null,null
+FF,Jeff Samardzija,628356,"In play, out(s)",102.7,2.1
+FF,Jeff Samardzija,465041,"In play, out(s)",75.1,-19.42
+FF,Jeff Samardzija,465041,Foul,null,null
+FT,Jeff Samardzija,465041,Ball,null,null
+CU,Jeff Samardzija,444379,Called Strike,null,null
+FT,Jeff Samardzija,444379,Ball,null,null
+FF,Jeff Samardzija,444379,Called Strike,null,null
+CU,Jeff Samardzija,444379,Ball,null,null
+FS,Jeff Samardzija,444379,Swinging Strike,null,null
+FS,Jeff Samardzija,444379,Ball,null,null
+FF,Jeff Samardzija,592791,"In play, no out",96.2,4.55
+CU,Jeff Samardzija,543281,Called Strike,null,null
+FT,Jeff Samardzija,543281,Ball,null,null
+FT,Jeff Samardzija,543281,"In play, out(s)",64,-3.58
+FF,Jeff Samardzija,543281,Ball,null,null
+FF,Jeff Samardzija,543281,Foul,null,null
+FF,Jeff Samardzija,516782,Swinging Strike,null,null
+FF,Jeff Samardzija,516782,Swinging Strike,null,null
+FF,Jeff Samardzija,516782,Ball,null,null
+FF,Jeff Samardzija,516782,Ball,null,null
+SL,Jeff Samardzija,516782,Foul,null,null
+FF,Jeff Samardzija,457705,Ball,null,null
+CU,Jeff Samardzija,457705,Ball,null,null
+FF,Jeff Samardzija,457705,"In play, no out",101.9,28.96
+FF,Jeff Samardzija,457705,Foul,null,null
+SL,Jeff Samardzija,457705,Ball,null,null
+FT,Jeff Samardzija,570256,Ball,null,null
+CU,Jeff Samardzija,570256,"In play, run(s)",101.6,-2.13
+SL,Jeff Samardzija,628356,Ball,null,null
+FF,Jeff Samardzija,628356,Ball,null,null
+SL,Jeff Samardzija,628356,Foul,null,null
+CU,Jeff Samardzija,628356,"In play, out(s)",91.7,27.07
+SL,Jeff Samardzija,628356,Foul,null,null
+CU,Jeff Samardzija,628356,Called Strike,null,null
+SL,Jeff Samardzija,465041,Called Strike,null,null
+FT,Jeff Samardzija,465041,Called Strike,null,null
+FF,Jeff Samardzija,465041,Ball,null,null
+CU,Jeff Samardzija,465041,Called Strike,null,null
+FT,Jeff Samardzija,570256,Ball,null,null
+CU,Jeff Samardzija,570256,"In play, run(s)",68.9,-41.62
+CU,Jeff Samardzija,570256,Swinging Strike (Blocked),null,null
+FF,Jeff Samardzija,570256,Ball,null,null
+FF,Jeff Samardzija,474568,Ball,null,null
+FC,Jeff Samardzija,474568,"In play, out(s)",68.6,1.57
+CU,Jeff Samardzija,592791,Swinging Strike,null,null
+CU,Jeff Samardzija,592791,"In play, out(s)",null,null
+null,Jeff Samardzija,592791,Foul Bunt,null,null
+null,Jeff Samardzija,592791,Ball In Dirt,null,null
+SL,Jeff Samardzija,516782,Foul,null,null
+FS,Jeff Samardzija,516782,"In play, no out",101.7,6.49
+FF,Jeff Samardzija,516782,Called Strike,null,null
+CU,Jeff Samardzija,516782,Foul,null,null
+FF,Jeff Samardzija,543829,Called Strike,null,null
+FF,Jeff Samardzija,543829,Ball,null,null
+FF,Jeff Samardzija,543829,Ball,null,null
+FF,Jeff Samardzija,543829,"In play, out(s)",98,-14.25
+FF,Jeff Samardzija,445988,"In play, out(s)",81.8,-46.1
+FF,Jeff Samardzija,592885,Foul,null,null
+CU,Jeff Samardzija,592885,Called Strike,null,null
+FF,Jeff Samardzija,592885,Ball,null,null
+FF,Jeff Samardzija,592885,Ball,null,null
+SL,Jeff Samardzija,592885,"In play, out(s)",92.5,-5.38
+FT,Jeff Samardzija,542303,Called Strike,null,null
+FT,Jeff Samardzija,542303,Foul,null,null
+FF,Jeff Samardzija,542303,"In play, no out",95.5,-2.72
+CU,Jeff Samardzija,542303,Called Strike,null,null
+SL,Jeff Samardzija,542303,Ball,null,null
+FF,Jeff Samardzija,518618,"In play, out(s)",67.2,18.07
+CU,Jeff Samardzija,400085,"In play, out(s)",81.1,-18.63
+CU,Jeff Samardzija,592663,Foul,null,null
+FF,Jeff Samardzija,592663,Foul,null,null
+CU,Jeff Samardzija,592663,Foul,null,null
+FF,Jeff Samardzija,592663,Foul,null,null
+FT,Jeff Samardzija,592663,Called Strike,null,null
+FT,Jeff Samardzija,592663,Foul,null,null
+FF,Jeff Samardzija,592663,Ball,null,null
+FF,Jeff Samardzija,592663,Foul,null,null
+FT,Jeff Samardzija,592663,Called Strike,null,null
+CU,Jeff Samardzija,588751,Ball,null,null
+CU,Jeff Samardzija,588751,Ball,null,null
+SL,Jeff Samardzija,588751,Swinging Strike,null,null
+FF,Jeff Samardzija,588751,Called Strike,null,null
+FF,Jeff Samardzija,588751,Foul,null,null
+FS,Jeff Samardzija,543829,Ball,null,null
+CU,Jeff Samardzija,543829,Foul,null,null
+FF,Jeff Samardzija,543829,"In play, out(s)",66.4,-40.89
+FT,Jeff Samardzija,543829,Called Strike,null,null
+FT,Jeff Samardzija,592885,"In play, out(s)",89.8,20.99
+CU,Jeff Samardzija,542303,Ball,null,null
+FF,Jeff Samardzija,542303,"In play, out(s)",79.1,-4.99
+FT,Jeff Samardzija,518618,"In play, out(s)",71.8,39.73
+CU,Jeff Samardzija,518618,Called Strike,null,null
+SL,Jeff Samardzija,400085,Ball,null,null
+CU,Jeff Samardzija,400085,"In play, no out",84.7,10.81
+FT,Jeff Samardzija,592663,Ball,null,null
+FF,Jeff Samardzija,592663,Ball,null,null
+FF,Jeff Samardzija,592663,Ball,null,null
+FT,Jeff Samardzija,592663,Ball,null,null
+SL,Jeff Samardzija,519317,Swinging Strike,null,null
+SL,Jeff Samardzija,519317,Ball,null,null
+SL,Jeff Samardzija,519317,"In play, out(s)",98.4,41.1
+SL,Jeff Samardzija,519317,Ball,null,null
+SL,Jeff Samardzija,519317,Ball,null,null
+FF,Jeff Samardzija,543829,Ball,null,null
+CU,Jeff Samardzija,543829,Ball,null,null
+SL,Jeff Samardzija,543829,Ball,null,null
+FF,Jeff Samardzija,543829,Called Strike,null,null
+FF,Jeff Samardzija,543829,Ball,null,null
+FT,Jeff Samardzija,592885,Foul,null,null
+FT,Jeff Samardzija,592885,Ball,null,null
+CU,Jeff Samardzija,592885,Swinging Strike,null,null
+SL,Jeff Samardzija,592885,Swinging Strike,null,null
+FF,Jeff Samardzija,542303,Foul,null,null
+SL,Jeff Samardzija,542303,Ball,null,null
+CU,Jeff Samardzija,542303,Ball,null,null
+SL,Jeff Samardzija,542303,Ball,null,null
+CU,Jeff Samardzija,542303,Called Strike,null,null
+SL,Jeff Samardzija,542303,Ball,null,null
+FF,Jeff Samardzija,588751,Foul,null,null
+FF,Jeff Samardzija,588751,Called Strike,null,null
+SL,Jeff Samardzija,588751,"In play, out(s)",85.3,29.56
+CU,Jeff Samardzija,475479,Called Strike,null,null
+FT,Jeff Samardzija,475479,"In play, out(s)",null,null
+FF,Jeff Samardzija,475479,Called Strike,null,null
+SL,Jeff Samardzija,475479,Ball,null,null
+SL,Jeff Samardzija,445988,"In play, out(s)",77.8,-13.3
+FF,Jeff Samardzija,445988,Called Strike,null,null
+SL,Jeff Samardzija,445988,Called Strike,null,null
+FT,Jeff Samardzija,445988,Foul,null,null
+SL,Jeff Samardzija,445988,Ball,null,null
+SL,Jeff Samardzija,445988,Foul,null,null
+SL,Jeff Samardzija,445988,"In play, out(s)",85.5,48.93
+FF,Jeff Samardzija,445988,Foul,null,null
+CU,Jeff Samardzija,445988,Ball,null,null
+FF,Jeff Samardzija,607208,Foul,null,null
+SL,Jeff Samardzija,607208,"In play, out(s)",94.3,36.79
+FF,Jeff Samardzija,607208,Called Strike,null,null
+FF,Jeff Samardzija,607208,Foul,null,null
+SL,Jeff Samardzija,607208,Ball,null,null
+FF,Jeff Samardzija,150029,Called Strike,null,null
+FF,Jeff Samardzija,150029,"In play, no out",98,-4.71
+FF,Jeff Samardzija,150029,Ball,null,null
+SL,Jeff Samardzija,547180,Ball,null,null
+FF,Jeff Samardzija,547180,Called Strike,null,null
+FT,Jeff Samardzija,547180,"In play, no out",76,6.04
+FF,Jeff Samardzija,502517,Ball,null,null
+FF,Jeff Samardzija,502517,"In play, run(s)",79.9,20.92
+SL,Jeff Samardzija,502517,Called Strike,null,null
+FS,Jeff Samardzija,467092,"In play, run(s)",93.5,22.61
+SL,Jeff Samardzija,543685,Called Strike,null,null
+FT,Jeff Samardzija,543685,Ball,null,null
+SL,Jeff Samardzija,543685,"In play, out(s)",64.2,-33.5
+FF,Jeff Samardzija,519208,"In play, out(s)",111.3,16.54
+FF,Jeff Samardzija,457787,Foul,null,null
+SL,Jeff Samardzija,457787,Foul Tip,null,null
+FF,Jeff Samardzija,457787,Called Strike,null,null
+FF,Jeff Samardzija,457787,Ball,null,null
+FF,Jeff Samardzija,457787,Ball,null,null
+FF,Jeff Samardzija,461829,Foul,null,null
+FF,Jeff Samardzija,461829,Called Strike,null,null
+FF,Jeff Samardzija,461829,Swinging Strike,null,null
+FF,Jeff Samardzija,607208,Ball,null,null
+FF,Jeff Samardzija,607208,Called Strike,null,null
+SL,Jeff Samardzija,607208,"In play, no out",74,44.05
+FT,Jeff Samardzija,150029,Ball,null,null
+FF,Jeff Samardzija,150029,"In play, out(s)",97.2,42.99
+FS,Jeff Samardzija,150029,Ball In Dirt,null,null
+FF,Jeff Samardzija,150029,Ball,null,null
+FS,Jeff Samardzija,547180,Foul,null,null
+FF,Jeff Samardzija,547180,Foul,null,null
+FC,Jeff Samardzija,547180,Ball In Dirt,null,null
+FF,Jeff Samardzija,547180,"In play, run(s)",84.6,26.22
+FS,Jeff Samardzija,547180,Ball,null,null
+SL,Jeff Samardzija,547180,Foul,null,null
+FF,Jeff Samardzija,547180,Foul,null,null
+FF,Jeff Samardzija,502517,Ball,null,null
+FF,Jeff Samardzija,502517,Ball,null,null
+SL,Jeff Samardzija,502517,"In play, out(s)",100.2,5.91
+FS,Jeff Samardzija,467092,Swinging Strike,null,null
+SL,Jeff Samardzija,467092,Called Strike,null,null
+SL,Jeff Samardzija,467092,Called Strike,null,null
+SL,Jeff Samardzija,467092,Ball,null,null
+SL,Jeff Samardzija,543685,Ball,null,null
+FF,Jeff Samardzija,543685,Ball,null,null
+FS,Jeff Samardzija,543685,Ball,null,null
+FT,Jeff Samardzija,543685,Ball,null,null
+FS,Jeff Samardzija,519208,Called Strike,null,null
+FT,Jeff Samardzija,519208,Ball,null,null
+FS,Jeff Samardzija,519208,Ball,null,null
+FF,Jeff Samardzija,519208,Ball,null,null
+FS,Jeff Samardzija,519208,Ball,null,null
+FF,Jeff Samardzija,457787,"In play, out(s)",101.4,8.47
+SL,Jeff Samardzija,457787,Called Strike,null,null
+FF,Jeff Samardzija,461829,Called Strike,null,null
+FS,Jeff Samardzija,461829,"In play, out(s)",90.1,36.37
+SL,Jeff Samardzija,607208,Ball,null,null
+SL,Jeff Samardzija,607208,Foul,null,null
+FF,Jeff Samardzija,607208,"In play, run(s)",106.4,18.89
+SL,Jeff Samardzija,150029,Called Strike,null,null
+FF,Jeff Samardzija,150029,Foul,null,null
+SL,Jeff Samardzija,150029,Ball,null,null
+SL,Jeff Samardzija,150029,"In play, out(s)",93.5,23.18
+SL,Jeff Samardzija,150029,Called Strike,null,null
+FS,Jeff Samardzija,547180,Ball,null,null
+SL,Jeff Samardzija,547180,Ball,null,null
+FT,Jeff Samardzija,547180,Foul,null,null
+SL,Jeff Samardzija,547180,Called Strike,null,null
+FF,Jeff Samardzija,547180,Foul,null,null
+SL,Jeff Samardzija,547180,Ball,null,null
+FT,Jeff Samardzija,547180,"In play, out(s)",99.9,15.54
+FF,Jeff Samardzija,502517,Ball,null,null
+SL,Jeff Samardzija,502517,Foul,null,null
+FS,Jeff Samardzija,502517,"In play, out(s)",100.2,45.08
+SL,Jeff Samardzija,502517,Ball,null,null
+FF,Jeff Samardzija,502517,Ball,null,null
+SL,Jeff Samardzija,467092,Ball,null,null
+FF,Jeff Samardzija,467092,Foul,null,null
+FF,Jeff Samardzija,467092,Ball,null,null
+SL,Jeff Samardzija,467092,Ball,null,null
+SL,Jeff Samardzija,467092,"In play, run(s)",106.6,21.96
+SL,Jeff Samardzija,543685,Ball,null,null
+FF,Jeff Samardzija,543685,Foul,null,null
+SL,Jeff Samardzija,543685,Foul,null,null
+SL,Jeff Samardzija,543685,Swinging Strike,null,null
+FS,Jeff Samardzija,543685,Called Strike,null,null
+FF,Jeff Samardzija,543685,Swinging Strike,null,null
+FS,Jeff Samardzija,543685,Foul,null,null
+FF,Jeff Samardzija,543685,Ball,null,null
+FT,Jeff Samardzija,519208,Called Strike,null,null
+FF,Jeff Samardzija,519208,Ball,null,null
+FS,Jeff Samardzija,519208,"In play, out(s)",null,null
+SL,Jeff Samardzija,457787,Swinging Strike,null,null
+FF,Jeff Samardzija,457787,Foul,null,null
+SL,Jeff Samardzija,457787,Called Strike,null,null
+SL,Jeff Samardzija,457787,Swinging Strike,null,null
+SL,Jeff Samardzija,607208,Ball,null,null
+SL,Jeff Samardzija,607208,Called Strike,null,null
+SL,Jeff Samardzija,607208,"In play, out(s)",79.6,-25.97
+SL,Jeff Samardzija,502317,"In play, out(s)",72.3,87.82
+FF,Jeff Samardzija,502317,Called Strike,null,null
+SL,Jeff Samardzija,502317,Ball,null,null
+FF,Jeff Samardzija,519184,Called Strike,null,null
+FF,Jeff Samardzija,519184,"In play, out(s)",81.9,29.05
+FF,Jeff Samardzija,547180,Called Strike,null,null
+FF,Jeff Samardzija,547180,Ball,null,null
+SL,Jeff Samardzija,547180,"In play, out(s)",103.8,9.81
+FF,Jeff Samardzija,502517,"In play, out(s)",86.1,4.99
+FF,Jeff Samardzija,467092,Called Strike,null,null
+FC,Jeff Samardzija,467092,Called Strike,null,null
+SL,Jeff Samardzija,467092,Swinging Strike,null,null
+FF,Jeff Samardzija,150029,Ball,null,null
+FT,Jeff Samardzija,150029,Ball,null,null
+FF,Jeff Samardzija,150029,Called Strike,null,null
+FT,Jeff Samardzija,150029,Ball,null,null
+FC,Jeff Samardzija,150029,Called Strike,null,null
+FF,Jeff Samardzija,150029,Ball,null,null
+SL,Jeff Samardzija,519208,Ball,null,null
+SL,Jeff Samardzija,519208,"In play, out(s)",null,null
+SL,Jeff Samardzija,594694,Called Strike,null,null
+FT,Jeff Samardzija,594694,Called Strike,null,null
+SL,Jeff Samardzija,594694,Ball,null,null
+SL,Jeff Samardzija,594694,"In play, out(s)",56.7,-54.09
+SL,Jeff Samardzija,519184,Ball,null,null
+FF,Jeff Samardzija,519184,Ball,null,null
+FF,Jeff Samardzija,519184,Called Strike,null,null
+FC,Jeff Samardzija,519184,Ball,null,null
+FF,Jeff Samardzija,519184,Foul,null,null
+FF,Jeff Samardzija,519184,Ball,null,null
+FT,Jeff Samardzija,547180,Called Strike,null,null
+FT,Jeff Samardzija,547180,Foul,null,null
+FT,Jeff Samardzija,547180,Ball,null,null
+FF,Jeff Samardzija,547180,Foul,null,null
+SL,Jeff Samardzija,547180,Ball In Dirt,null,null
+FT,Jeff Samardzija,547180,Foul,null,null
+SL,Jeff Samardzija,547180,"In play, out(s)",94.7,-8.23
+FF,Jeff Samardzija,467092,Called Strike,null,null
+FT,Jeff Samardzija,467092,Ball,null,null
+null,Jeff Samardzija,467092,"In play, no out",100.5,24.4
+SL,Jeff Samardzija,519208,Ball,null,null
+FF,Jeff Samardzija,519208,Swinging Strike,null,null
+SL,Jeff Samardzija,519208,Ball,null,null
+FF,Jeff Samardzija,519208,"In play, out(s)",92.7,48.13
+FF,Jeff Samardzija,543685,Swinging Strike,null,null
+FF,Jeff Samardzija,543685,Ball,null,null
+FF,Jeff Samardzija,543685,"In play, out(s)",96.8,30.06
+FF,Jeff Samardzija,594694,Foul,null,null
+FC,Jeff Samardzija,594694,Ball,null,null
+FF,Jeff Samardzija,594694,"In play, no out",94,9.43
+FC,Jeff Samardzija,453286,"In play, out(s)",null,null
+FF,Jeff Samardzija,519184,Ball,null,null
+SL,Jeff Samardzija,519184,Ball,null,null
+FF,Jeff Samardzija,519184,"In play, run(s)",102,4.27
+FS,Jeff Samardzija,547180,Ball In Dirt,null,null
+SL,Jeff Samardzija,547180,Ball,null,null
+FC,Jeff Samardzija,547180,Foul,null,null
+SL,Jeff Samardzija,547180,"In play, out(s)",null,null
+FF,Jeff Samardzija,502517,"In play, run(s)",106.2,28.21
+SL,Jeff Samardzija,467092,Foul,null,null
+FF,Jeff Samardzija,467092,Ball,null,null
+SL,Jeff Samardzija,467092,Swinging Strike,null,null
+SL,Jeff Samardzija,467092,"In play, out(s)",65.2,-37.46
+SL,Jeff Samardzija,150029,Called Strike,null,null
+SL,Jeff Samardzija,150029,Ball,null,null
+FT,Jeff Samardzija,150029,"In play, no out",104.6,14.37
+SL,Jeff Samardzija,543685,Called Strike,null,null
+FT,Jeff Samardzija,543685,Ball,null,null
+SL,Jeff Samardzija,543685,"In play, run(s)",100.1,0.13
+FT,Jeff Samardzija,453286,Called Strike,null,null
+FS,Jeff Samardzija,453286,Swinging Strike,null,null
+SL,Jeff Samardzija,453286,Foul,null,null
+FF,Jeff Samardzija,453286,Swinging Strike,null,null
+FF,Jeff Samardzija,453286,Ball,null,null
+FF,Jeff Samardzija,453286,Called Strike,null,null
+FF,Jeff Samardzija,453286,"In play, out(s)",null,null
+FC,Jeff Samardzija,594694,Foul,null,null
+FS,Jeff Samardzija,594694,Ball In Dirt,null,null
+SL,Jeff Samardzija,594694,Foul,null,null
+SL,Jeff Samardzija,594694,"In play, out(s)",86,-13.46
+FS,Jeff Samardzija,519208,Called Strike,null,null
+FS,Jeff Samardzija,519208,Ball,null,null
+FF,Jeff Samardzija,519208,"In play, out(s)",80,4.01
+SL,Jeff Samardzija,543685,Called Strike,null,null
+FF,Jeff Samardzija,543685,Ball,null,null
+SL,Jeff Samardzija,543685,"In play, out(s)",98,-13.19
+FF,Jeff Samardzija,502517,Called Strike,null,null
+FS,Jeff Samardzija,502517,Ball,null,null
+FF,Jeff Samardzija,502517,Foul,null,null
+FS,Jeff Samardzija,502517,Ball,null,null
+FF,Jeff Samardzija,502517,Ball,null,null
+FF,Jeff Samardzija,502517,"In play, out(s)",87.9,52.4
+FC,Jeff Samardzija,150029,Ball,null,null
+SL,Jeff Samardzija,150029,Ball,null,null
+FF,Jeff Samardzija,150029,Called Strike,null,null
+FC,Jeff Samardzija,150029,Ball,null,null
+SL,Jeff Samardzija,150029,Called Strike,null,null
+FF,Jeff Samardzija,150029,Foul,null,null
+FC,Jeff Samardzija,150029,Foul,null,null
+SL,Jeff Samardzija,150029,Foul,null,null
+FF,Jeff Samardzija,150029,"In play, run(s)",92.7,6.94
+FF,Jeff Samardzija,136860,"In play, run(s)",92.7,35.58
+FF,Jeff Samardzija,136860,Ball,null,null
+FF,Jeff Samardzija,435263,"In play, out(s)",77.7,9.75
+SL,Jeff Samardzija,516770,Called Strike,null,null
+FF,Jeff Samardzija,516770,Called Strike,null,null
+FF,Jeff Samardzija,516770,"In play, out(s)",88.2,-31.47
+FT,Jeff Samardzija,544369,Foul,null,null
+FF,Jeff Samardzija,544369,Ball,null,null
+FF,Jeff Samardzija,544369,Foul,null,null
+FF,Jeff Samardzija,544369,Called Strike,null,null
+SL,Jeff Samardzija,544369,Foul,null,null
+SL,Jeff Samardzija,544369,Foul,null,null
+FF,Jeff Samardzija,544369,"In play, out(s)",86.2,22.04
+FF,Jeff Samardzija,407893,Foul,null,null
+FF,Jeff Samardzija,407893,"In play, run(s)",102.7,30.32
+SL,Jeff Samardzija,407893,Ball,null,null
+FF,Jeff Samardzija,452104,"In play, out(s)",71.2,17.56
+SL,Jeff Samardzija,452104,Called Strike,null,null
+FF,Jeff Samardzija,543305,"In play, no out",94,-7.37
+SL,Jeff Samardzija,458731,Called Strike,null,null
+FC,Jeff Samardzija,458731,"In play, out(s)",86.7,-5.97
+FF,Jeff Samardzija,458731,Foul,null,null
+SL,Jeff Samardzija,453056,"In play, out(s)",104.1,17.03
+FS,Jeff Samardzija,453056,Called Strike,null,null
+SL,Jeff Samardzija,136860,Swinging Strike,null,null
+FF,Jeff Samardzija,136860,Ball,null,null
+SL,Jeff Samardzija,136860,Swinging Strike,null,null
+SL,Jeff Samardzija,136860,Ball,null,null
+FS,Jeff Samardzija,136860,Ball,null,null
+SL,Jeff Samardzija,136860,Swinging Strike,null,null
+FF,Jeff Samardzija,435263,Ball,null,null
+FF,Jeff Samardzija,435263,"In play, out(s)",73.6,35.67
+FF,Jeff Samardzija,435263,Called Strike,null,null
+SL,Jeff Samardzija,516770,Swinging Strike,null,null
+SL,Jeff Samardzija,516770,Called Strike,null,null
+FF,Jeff Samardzija,516770,Ball,null,null
+SL,Jeff Samardzija,516770,Swinging Strike (Blocked),null,null
+FS,Jeff Samardzija,544369,Ball,null,null
+FC,Jeff Samardzija,544369,Foul,null,null
+FF,Jeff Samardzija,544369,Foul,null,null
+FC,Jeff Samardzija,544369,Ball,null,null
+FF,Jeff Samardzija,544369,"In play, out(s)",76.3,31.19
+FS,Jeff Samardzija,407893,Ball,null,null
+FF,Jeff Samardzija,407893,Foul,null,null
+FF,Jeff Samardzija,407893,Foul,null,null
+SL,Jeff Samardzija,407893,Ball,null,null
+SL,Jeff Samardzija,407893,"In play, out(s)",91,-10.81
+FF,Jeff Samardzija,452104,Ball,null,null
+SL,Jeff Samardzija,452104,Called Strike,null,null
+SL,Jeff Samardzija,452104,Swinging Strike,null,null
+SL,Jeff Samardzija,452104,Called Strike,null,null
+FF,Jeff Samardzija,452104,Ball,null,null
+FC,Jeff Samardzija,543305,Ball,null,null
+SL,Jeff Samardzija,543305,Called Strike,null,null
+SL,Jeff Samardzija,543305,Ball,null,null
+SL,Jeff Samardzija,543305,Foul,null,null
+FF,Jeff Samardzija,543305,Ball,null,null
+SL,Jeff Samardzija,543305,Called Strike,null,null
+FC,Jeff Samardzija,543305,Ball,null,null
+FF,Jeff Samardzija,543305,Foul,null,null
+FC,Jeff Samardzija,458731,"In play, no out",86.3,17.23
+FC,Jeff Samardzija,453056,"In play, run(s)",102.4,-0.41
+FF,Jeff Samardzija,136860,Foul,null,null
+SL,Jeff Samardzija,136860,Swinging Strike,null,null
+FC,Jeff Samardzija,136860,"In play, no out",102,12.05
+FC,Jeff Samardzija,136860,Ball,null,null
+SL,Jeff Samardzija,136860,Ball,null,null
+SL,Jeff Samardzija,136860,Ball,null,null
+SL,Jeff Samardzija,516770,"In play, run(s)",96.5,11.54
+FF,Jeff Samardzija,544369,"In play, run(s)",102.5,23.31
+FF,Jeff Samardzija,544369,Ball In Dirt,null,null
+FF,Jeff Samardzija,453056,"In play, out(s)",101.2,-1.4
+FF,Jeff Samardzija,458731,Foul,null,null
+FF,Jeff Samardzija,458731,Foul,null,null
+FS,Jeff Samardzija,458731,Ball,null,null
+FF,Jeff Samardzija,458731,Foul,null,null
+SL,Jeff Samardzija,458731,Ball,null,null
+FF,Jeff Samardzija,458731,"In play, out(s)",94,37.87
+FF,Jeff Samardzija,458731,Ball,null,null
+FF,Jeff Samardzija,458731,Foul,null,null
+FF,Jeff Samardzija,458731,Foul,null,null
+FC,Jeff Samardzija,435263,Ball,null,null
+SL,Jeff Samardzija,435263,Swinging Strike,null,null
+SL,Jeff Samardzija,435263,Ball In Dirt,null,null
+SL,Jeff Samardzija,435263,"In play, no out",92.6,14.45
+FF,Jeff Samardzija,435263,Foul,null,null
+SL,Jeff Samardzija,435263,Ball,null,null
+FF,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,608671,Foul,null,null
+FS,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,571976,Ball,null,null
+FF,Jeff Samardzija,571976,Foul,null,null
+SL,Jeff Samardzija,571976,Ball,null,null
+FF,Jeff Samardzija,571976,Ball,null,null
+FF,Jeff Samardzija,571976,Foul,null,null
+SL,Jeff Samardzija,571976,Ball,null,null
+FF,Jeff Samardzija,461314,Called Strike,null,null
+FF,Jeff Samardzija,461314,Swinging Strike,null,null
+FF,Jeff Samardzija,461314,Swinging Strike,null,null
+FF,Jeff Samardzija,500208,Foul,null,null
+FS,Jeff Samardzija,500208,Ball,null,null
+FC,Jeff Samardzija,500208,"In play, run(s)",74.6,29.59
+FF,Jeff Samardzija,543105,Called Strike,null,null
+FC,Jeff Samardzija,543105,"In play, out(s)",102,39.14
+SL,Jeff Samardzija,519083,Ball,null,null
+SL,Jeff Samardzija,519083,Called Strike,null,null
+FF,Jeff Samardzija,519083,Ball,null,null
+FC,Jeff Samardzija,519083,Foul,null,null
+SL,Jeff Samardzija,519083,Called Strike,null,null
+FC,Jeff Samardzija,572114,Called Strike,null,null
+FS,Jeff Samardzija,572114,Swinging Strike,null,null
+FS,Jeff Samardzija,572114,Foul,null,null
+FC,Jeff Samardzija,572114,Ball,null,null
+SL,Jeff Samardzija,572114,Foul,null,null
+FF,Jeff Samardzija,572114,"In play, run(s)",99.2,33.8
+SL,Jeff Samardzija,493351,Called Strike,null,null
+SL,Jeff Samardzija,493351,"In play, no out",66.3,23.81
+FC,Jeff Samardzija,606131,Foul Bunt,null,null
+SL,Jeff Samardzija,606131,Missed Bunt,null,null
+SL,Jeff Samardzija,606131,Foul Bunt,null,null
+FF,Jeff Samardzija,608671,Foul,null,null
+FF,Jeff Samardzija,608671,"In play, out(s)",78.1,-62.7
+SL,Jeff Samardzija,571976,"In play, out(s)",86.5,27.44
+SL,Jeff Samardzija,461314,Ball,null,null
+SL,Jeff Samardzija,461314,"In play, run(s)",102.7,35.8
+FS,Jeff Samardzija,543105,Ball,null,null
+SL,Jeff Samardzija,543105,Swinging Strike,null,null
+FS,Jeff Samardzija,543105,Swinging Strike,null,null
+FS,Jeff Samardzija,543105,Ball,null,null
+SL,Jeff Samardzija,543105,Ball,null,null
+FT,Jeff Samardzija,543105,"In play, no out",94.8,0.29
+FF,Jeff Samardzija,519083,Foul (Runner Going),null,null
+SL,Jeff Samardzija,519083,"In play, out(s)",null,null
+FF,Jeff Samardzija,572114,Ball,null,null
+FF,Jeff Samardzija,572114,Ball,null,null
+FF,Jeff Samardzija,572114,Called Strike,null,null
+FF,Jeff Samardzija,572114,"In play, run(s)",103.5,32.7
+null,Jeff Samardzija,493351,Intent Ball,null,null
+IN,Jeff Samardzija,493351,Intent Ball,null,null
+IN,Jeff Samardzija,493351,Intent Ball,null,null
+IN,Jeff Samardzija,493351,Intent Ball,null,null
+FF,Jeff Samardzija,606131,"In play, out(s)",55.9,30.25
+SL,Jeff Samardzija,608671,Called Strike,null,null
+FF,Jeff Samardzija,608671,Swinging Strike,null,null
+FS,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,608671,Foul,null,null
+SL,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,608671,Ball,null,null
+FF,Jeff Samardzija,571976,Called Strike,null,null
+FF,Jeff Samardzija,571976,Foul,null,null
+FF,Jeff Samardzija,571976,Called Strike,null,null
+FF,Jeff Samardzija,461314,Called Strike,null,null
+FF,Jeff Samardzija,461314,Foul,null,null
+FF,Jeff Samardzija,461314,Foul,null,null
+FF,Jeff Samardzija,461314,Ball,null,null
+FF,Jeff Samardzija,461314,"In play, out(s)",65.7,-28.13
+FS,Jeff Samardzija,543105,Ball,null,null
+SL,Jeff Samardzija,543105,Swinging Strike,null,null
+FT,Jeff Samardzija,543105,Foul,null,null
+FS,Jeff Samardzija,543105,Foul,null,null
+FC,Jeff Samardzija,543105,Ball,null,null
+FS,Jeff Samardzija,543105,Ball,null,null
+SL,Jeff Samardzija,543105,"In play, out(s)",98.9,34.62
+FF,Jeff Samardzija,519083,Called Strike,null,null
+FT,Jeff Samardzija,519083,Swinging Strike,null,null
+FF,Jeff Samardzija,519083,Foul,null,null
+FF,Jeff Samardzija,519083,Ball,null,null
+FC,Jeff Samardzija,519083,Foul,null,null
+FC,Jeff Samardzija,519083,Ball,null,null
+FT,Jeff Samardzija,519083,Foul,null,null
+FF,Jeff Samardzija,519083,"In play, out(s)",null,null
+FF,Jeff Samardzija,500208,Ball,null,null
+FC,Jeff Samardzija,500208,Ball,null,null
+FF,Jeff Samardzija,500208,"In play, out(s)",null,null
+SL,Jeff Samardzija,500208,Called Strike,null,null
+FF,Jeff Samardzija,500208,Called Strike,null,null
+FC,Jeff Samardzija,500208,Ball,null,null
+FF,Jeff Samardzija,500208,Ball,null,null
+FF,Jeff Samardzija,500208,Foul,null,null
+FS,Jeff Samardzija,500208,Foul,null,null
+FF,Jeff Samardzija,500208,Foul,null,null
+FF,Jeff Samardzija,500208,Ball,null,null
+FC,Jeff Samardzija,500208,"In play, out(s)",null,null
+FF,Jeff Samardzija,572114,Foul,null,null
+FS,Jeff Samardzija,572114,Ball,null,null
+SL,Jeff Samardzija,572114,Called Strike,null,null
+FS,Jeff Samardzija,572114,Ball,null,null
+FF,Jeff Samardzija,572114,"In play, out(s)",82,4.21
+FF,Jeff Samardzija,516416,"In play, run(s)",105.7,37.36
+FS,Jeff Samardzija,456422,Foul,null,null
+FF,Jeff Samardzija,456422,Swinging Strike,null,null
+FC,Jeff Samardzija,456422,Ball,null,null
+FT,Jeff Samardzija,456422,Foul,null,null
+FF,Jeff Samardzija,502671,"In play, no out",100.5,16.76
+FT,Jeff Samardzija,502671,Foul,null,null
+FF,Jeff Samardzija,571875,Foul,null,null
+FC,Jeff Samardzija,571875,Ball,null,null
+FF,Jeff Samardzija,571875,Foul,null,null
+FF,Jeff Samardzija,571875,Foul,null,null
+FF,Jeff Samardzija,571875,Foul (Runner Going),null,null
+FT,Jeff Samardzija,571875,Ball,null,null
+SL,Jeff Samardzija,571875,Foul Tip,null,null
+FS,Jeff Samardzija,571875,Ball,null,null
+FT,Jeff Samardzija,571875,Ball,null,null
+SL,Jeff Samardzija,456078,Ball,null,null
+FF,Jeff Samardzija,456078,Ball,null,null
+SL,Jeff Samardzija,456078,Foul,null,null
+FT,Jeff Samardzija,456078,Ball,null,null
+SL,Jeff Samardzija,456078,Swinging Strike,null,null
+SL,Jeff Samardzija,456078,Foul,null,null
+SL,Jeff Samardzija,456078,Foul,null,null
+FT,Jeff Samardzija,456078,Foul,null,null
+FF,Jeff Samardzija,456078,"In play, out(s)",93,31.6
+SL,Jeff Samardzija,630111,"In play, run(s)",92.8,-4.37
+SL,Jeff Samardzija,630111,Swinging Strike,null,null
+FF,Jeff Samardzija,592273,Called Strike,null,null
+FF,Jeff Samardzija,592273,Swinging Strike,null,null
+FF,Jeff Samardzija,592273,Ball,null,null
+FF,Jeff Samardzija,592273,Swinging Strike,null,null
+FT,Jeff Samardzija,605113,"In play, out(s)",92.3,-18.17
+FC,Jeff Samardzija,605113,Called Strike,null,null
+FS,Jeff Samardzija,571578,Foul,null,null
+FS,Jeff Samardzija,571578,"In play, no out",94.9,-3.74
+FC,Jeff Samardzija,571578,Called Strike,null,null
+FF,Jeff Samardzija,571578,Ball,null,null
+FT,Jeff Samardzija,516416,Hit By Pitch,null,null
+SL,Jeff Samardzija,516416,Called Strike,null,null
+FS,Jeff Samardzija,502671,Ball,null,null
+FC,Jeff Samardzija,502671,Foul,null,null
+FT,Jeff Samardzija,502671,Swinging Strike,null,null
+FF,Jeff Samardzija,502671,Ball,null,null
+SL,Jeff Samardzija,502671,Called Strike,null,null
+FS,Jeff Samardzija,571875,Ball,null,null
+FS,Jeff Samardzija,571875,Ball,null,null
+SL,Jeff Samardzija,571875,"In play, out(s)",null,null
+FC,Jeff Samardzija,571875,Called Strike,null,null
+FS,Jeff Samardzija,456078,"In play, out(s)",80.5,7.07
+FS,Jeff Samardzija,630111,Ball,null,null
+FS,Jeff Samardzija,630111,Called Strike,null,null
+FC,Jeff Samardzija,630111,"In play, out(s)",95.7,41.6
+FS,Jeff Samardzija,592273,Foul,null,null
+FT,Jeff Samardzija,592273,Ball,null,null
+FT,Jeff Samardzija,592273,Foul,null,null
+FT,Jeff Samardzija,592273,Called Strike,null,null
+FF,Jeff Samardzija,592273,Ball,null,null
+FS,Jeff Samardzija,592273,Foul,null,null
+FC,Jeff Samardzija,592273,Foul,null,null
+SL,Jeff Samardzija,592273,Foul,null,null
+FS,Jeff Samardzija,592273,Ball,null,null
+FT,Jeff Samardzija,592273,"In play, out(s)",52.9,-15.37
+FC,Jeff Samardzija,605113,Ball,null,null
+FT,Jeff Samardzija,605113,Foul,null,null
+FS,Jeff Samardzija,605113,Called Strike,null,null
+FC,Jeff Samardzija,605113,Called Strike,null,null
+SL,Jeff Samardzija,605113,Swinging Strike,null,null
+FT,Jeff Samardzija,456422,"In play, out(s)",80.4,-4.31
+FF,Jeff Samardzija,571875,Ball,null,null
+FT,Jeff Samardzija,571875,Ball,null,null
+FF,Jeff Samardzija,571875,Ball,null,null
+FS,Jeff Samardzija,571875,Ball,null,null
+FC,Jeff Samardzija,571875,Called Strike,null,null
+FT,Jeff Samardzija,456078,Ball,null,null
+FC,Jeff Samardzija,456078,Called Strike,null,null
+SL,Jeff Samardzija,456078,Swinging Strike,null,null
+FT,Jeff Samardzija,456078,Ball,null,null
+SL,Jeff Samardzija,456078,Foul,null,null
+FS,Jeff Samardzija,630111,"In play, out(s)",108.3,-2.99
+FC,Jeff Samardzija,592273,Foul,null,null
+FT,Jeff Samardzija,592273,Swinging Strike,null,null
+FT,Jeff Samardzija,592273,Ball,null,null
+SL,Jeff Samardzija,592273,Swinging Strike,null,null
+FS,Jeff Samardzija,605113,Called Strike,null,null
+SL,Jeff Samardzija,605113,Ball,null,null
+FS,Jeff Samardzija,605113,Called Strike,null,null
+FS,Jeff Samardzija,605113,Ball,null,null
+FT,Jeff Samardzija,605113,Ball,null,null
+SL,Jeff Samardzija,605113,Ball,null,null
+FT,Jeff Samardzija,430001,Called Strike,null,null
+FS,Jeff Samardzija,430001,Ball,null,null
+FT,Jeff Samardzija,430001,"In play, no out",88.9,3.93
+FC,Jeff Samardzija,516416,Ball,null,null
+FC,Jeff Samardzija,516416,"In play, out(s)",44.9,15.62
+FS,Jeff Samardzija,516416,Called Strike,null,null
+FF,Jeff Samardzija,516416,Called Strike,null,null
+FF,Jeff Samardzija,571578,Foul,null,null
+FS,Jeff Samardzija,571578,Called Strike,null,null
+FF,Jeff Samardzija,571578,"In play, out(s)",null,null
+FT,Jeff Samardzija,571578,Ball,null,null
+FT,Jeff Samardzija,502671,Foul,null,null
+FF,Jeff Samardzija,502671,Ball,null,null
+FC,Jeff Samardzija,502671,"In play, out(s)",null,null
+FC,Jeff Samardzija,502671,Called Strike,null,null
+FT,Jeff Samardzija,456422,Ball,null,null
+FF,Jeff Samardzija,456422,Called Strike,null,null
+FF,Jeff Samardzija,456422,Foul,null,null
+FF,Jeff Samardzija,456422,Ball,null,null
+FC,Jeff Samardzija,456422,Ball,null,null
+FC,Jeff Samardzija,456422,"In play, out(s)",82.1,-11.17
+FF,Jeff Samardzija,543302,"In play, no out",null,null
+FC,Jeff Samardzija,543302,Foul,null,null
+FF,Jeff Samardzija,516416,Foul,null,null
+FS,Jeff Samardzija,516416,Foul Tip,null,null
+FC,Jeff Samardzija,516416,Called Strike,null,null
+FF,Jeff Samardzija,516416,Ball,null,null
+FS,Jeff Samardzija,456422,Swinging Strike,null,null
+FC,Jeff Samardzija,456422,Ball,null,null
+SL,Jeff Samardzija,456422,Called Strike,null,null
+FC,Jeff Samardzija,456422,Foul,null,null
+FS,Jeff Samardzija,502671,Ball,null,null
+FF,Jeff Samardzija,502671,Called Strike,null,null
+FF,Jeff Samardzija,502671,Foul,null,null
+SL,Jeff Samardzija,502671,Ball,null,null
+SL,Jeff Samardzija,502671,Swinging Strike,null,null
+FS,Jeff Samardzija,571875,Ball,null,null
+FC,Jeff Samardzija,571875,Called Strike,null,null
+SL,Jeff Samardzija,571875,"In play, out(s)",95.4,-18.58
+FF,Jeff Samardzija,630111,Foul,null,null
+FF,Jeff Samardzija,630111,Called Strike,null,null
+FC,Jeff Samardzija,630111,"In play, out(s)",97,36.76
+FS,Jeff Samardzija,594838,"In play, out(s)",null,null
+FF,Jeff Samardzija,594838,Called Strike,null,null
+FF,Jeff Samardzija,571578,"In play, no out",78.8,23.36
+FS,Jeff Samardzija,516416,"In play, no out",105.9,3.47
+FT,Jeff Samardzija,456422,"In play, run(s)",77.2,6.27
+FT,Jeff Samardzija,502671,Called Strike,null,null
+FC,Jeff Samardzija,502671,"In play, out(s)",85.9,42.15
+FF,Jeff Samardzija,502671,Ball,null,null
+FC,Jeff Samardzija,571875,Ball,null,null
+FS,Jeff Samardzija,571875,Foul,null,null
+FC,Jeff Samardzija,571875,Ball,null,null
+FS,Jeff Samardzija,571875,Called Strike,null,null
+FC,Jeff Samardzija,571875,Ball,null,null
+FF,Jeff Samardzija,571875,"In play, no out",95.1,3.07
+FF,Jeff Samardzija,456078,"In play, run(s)",106.8,14.17
+FF,Jeff Samardzija,456078,Ball,null,null
+FF,Jeff Samardzija,543302,"In play, run(s)",105.1,22.33
+FS,Jeff Samardzija,543302,Ball,null,null
+SL,Jeff Samardzija,594838,Ball,null,null
+SL,Jeff Samardzija,594838,Swinging Strike,null,null
+SL,Jeff Samardzija,594838,"In play, out(s)",97.4,24.88
+SL,Jeff Samardzija,594838,Ball,null,null
+FF,Jeff Samardzija,594838,Called Strike,null,null
+FF,Jeff Samardzija,571578,"In play, out(s)",100.9,-2.58
+FS,Jeff Samardzija,456422,Ball,null,null
+SL,Jeff Samardzija,456422,Called Strike,null,null
+FF,Jeff Samardzija,456422,Foul,null,null
+FT,Jeff Samardzija,456422,Called Strike,null,null
+FC,Jeff Samardzija,456422,"In play, out(s)",93.8,21.86
+FS,Jeff Samardzija,502671,Ball,null,null
+FF,Jeff Samardzija,502671,Called Strike,null,null
+FF,Jeff Samardzija,502671,Swinging Strike,null,null
+SL,Jeff Samardzija,502671,Ball,null,null
+SL,Jeff Samardzija,502671,"In play, out(s)",84.6,22.75
+FS,Jeff Samardzija,571875,"In play, no out",99,26.87
+FT,Jeff Samardzija,456078,Foul,null,null
+FF,Jeff Samardzija,456078,Foul,null,null
+SL,Jeff Samardzija,456078,Ball,null,null
+SL,Jeff Samardzija,456078,Called Strike,null,null
+FC,Jeff Samardzija,456078,Foul,null,null
+FF,Jeff Samardzija,456078,Foul,null,null
+SL,Jeff Samardzija,456078,Swinging Strike,null,null
+SL,Jeff Samardzija,543302,Ball,null,null
+FF,Jeff Samardzija,543302,Ball,null,null
+FC,Jeff Samardzija,543302,Foul,null,null
+FC,Jeff Samardzija,543302,Called Strike,null,null
+FF,Jeff Samardzija,543302,Foul,null,null
+FF,Jeff Samardzija,543302,Called Strike,null,null
+FF,Jeff Samardzija,598284,Ball,null,null
+FF,Jeff Samardzija,598284,"In play, out(s)",null,null
+SL,Jeff Samardzija,598284,Foul Tip,null,null
+FC,Jeff Samardzija,516416,Foul,null,null
+FC,Jeff Samardzija,516416,Ball,null,null
+SL,Jeff Samardzija,516416,"In play, out(s)",null,null
+FF,Jeff Samardzija,516416,Called Strike,null,null
+SL,Jeff Samardzija,502671,"In play, out(s)",93.2,45.36
+SL,Jeff Samardzija,516416,"In play, out(s)",102.5,-2.44
+FT,Jeff Samardzija,516416,Called Strike,null,null
+SL,Jeff Samardzija,594838,Ball,null,null
+FC,Jeff Samardzija,594838,Called Strike,null,null
+SL,Jeff Samardzija,594838,"In play, out(s)",null,null
+SL,Jeff Samardzija,630111,"In play, out(s)",73.5,-7.48
+FF,Jeff Samardzija,456078,Swinging Strike,null,null
+FF,Jeff Samardzija,456078,Ball,null,null
+FF,Jeff Samardzija,456078,"In play, out(s)",93.9,-3.02
+FF,Jeff Samardzija,456078,Called Strike,null,null
+SL,Jeff Samardzija,630111,"In play, out(s)",69.3,-3.62
+FT,Jeff Samardzija,456422,Called Strike,null,null
+FF,Jeff Samardzija,456422,"In play, no out",90.6,21.48
+FS,Jeff Samardzija,456422,Called Strike,null,null
+FC,Jeff Samardzija,456422,Ball,null,null
+FC,Jeff Samardzija,456422,Ball,null,null
+FC,Jeff Samardzija,456422,Ball,null,null
+FF,Jeff Samardzija,424825,Ball,null,null
+FF,Jeff Samardzija,424825,Foul,null,null
+FC,Jeff Samardzija,424825,"In play, out(s)",85.6,23.57
+FF,Jeff Samardzija,476704,Called Strike,null,null
+FS,Jeff Samardzija,476704,Ball,null,null
+FT,Jeff Samardzija,476704,Swinging Strike,null,null
+FC,Jeff Samardzija,476704,Swinging Strike,null,null
+FT,Jeff Samardzija,519390,Called Strike,null,null
+FT,Jeff Samardzija,519390,Ball,null,null
+FS,Jeff Samardzija,519390,Ball,null,null
+FT,Jeff Samardzija,519390,"In play, out(s)",89.5,40.94
+FF,Jeff Samardzija,502143,Foul,null,null
+FF,Jeff Samardzija,502143,"In play, no out",95.2,28.62
+FT,Jeff Samardzija,475174,Ball,null,null
+FT,Jeff Samardzija,475174,Ball,null,null
+FT,Jeff Samardzija,475174,Foul,null,null
+FC,Jeff Samardzija,475174,Ball,null,null
+FC,Jeff Samardzija,475174,Ball,null,null
+FC,Jeff Samardzija,543760,Swinging Strike,null,null
+SL,Jeff Samardzija,543760,Foul,null,null
+FF,Jeff Samardzija,543760,Ball,null,null
+SL,Jeff Samardzija,543760,"In play, run(s)",100.1,33.33
+FT,Jeff Samardzija,542993,"In play, out(s)",null,null
+FS,Jeff Samardzija,542993,Called Strike,null,null
+FF,Jeff Samardzija,542993,Foul,null,null
+FC,Jeff Samardzija,542993,Ball,null,null
+FF,Jeff Samardzija,542993,Foul,null,null
+SL,Jeff Samardzija,542993,Ball,null,null
+FF,Jeff Samardzija,596043,Foul,null,null
+FS,Jeff Samardzija,596043,Foul,null,null
+FF,Jeff Samardzija,596043,Foul,null,null
+SL,Jeff Samardzija,596043,Swinging Strike,null,null
+FT,Jeff Samardzija,424825,"In play, no out",101.5,15.65
+SL,Jeff Samardzija,476704,Called Strike,null,null
+FT,Jeff Samardzija,476704,Ball,null,null
+FT,Jeff Samardzija,476704,"In play, run(s)",98.7,17.6
+FS,Jeff Samardzija,519390,Ball,null,null
+FS,Jeff Samardzija,519390,"In play, out(s)",99,39.89
+SL,Jeff Samardzija,502143,Called Strike,null,null
+FT,Jeff Samardzija,502143,"In play, out(s)",74.7,-4.01
+SL,Jeff Samardzija,501981,Ball,null,null
+FS,Jeff Samardzija,501981,Called Strike,null,null
+FC,Jeff Samardzija,501981,Called Strike,null,null
+FC,Jeff Samardzija,501981,Foul,null,null
+SL,Jeff Samardzija,501981,"In play, out(s)",92.9,52.98
+FT,Jeff Samardzija,475174,Ball,null,null
+FS,Jeff Samardzija,475174,Ball,null,null
+SL,Jeff Samardzija,475174,Called Strike,null,null
+FT,Jeff Samardzija,475174,"In play, out(s)",101.4,6.49
+SL,Jeff Samardzija,543760,Called Strike,null,null
+FC,Jeff Samardzija,543760,Foul,null,null
+FC,Jeff Samardzija,543760,Ball,null,null
+FT,Jeff Samardzija,543760,"In play, out(s)",null,null
+FF,Jeff Samardzija,424825,Called Strike,null,null
+FF,Jeff Samardzija,424825,"In play, out(s)",81.6,29.47
+FF,Jeff Samardzija,476704,Foul,null,null
+FF,Jeff Samardzija,476704,Ball,null,null
+FS,Jeff Samardzija,476704,"In play, out(s)",87.1,31.98
+FT,Jeff Samardzija,519390,Ball,null,null
+FF,Jeff Samardzija,519390,"In play, out(s)",77.7,44.64
+FC,Jeff Samardzija,502143,"In play, no out",98.4,-1.12
+FT,Jeff Samardzija,502143,Swinging Strike,null,null
+FC,Jeff Samardzija,502143,Called Strike,null,null
+FC,Jeff Samardzija,502143,Ball,null,null
+FT,Jeff Samardzija,502143,Ball,null,null
+FT,Jeff Samardzija,501981,Foul,null,null
+FT,Jeff Samardzija,501981,Swinging Strike,null,null
+FC,Jeff Samardzija,501981,Foul,null,null
+SL,Jeff Samardzija,501981,"In play, out(s)",75.9,-7.99
+FS,Jeff Samardzija,475174,Swinging Strike,null,null
+FF,Jeff Samardzija,475174,Ball,null,null
+SL,Jeff Samardzija,475174,Called Strike,null,null
+FF,Jeff Samardzija,475174,Foul,null,null
+FS,Jeff Samardzija,475174,"In play, no out",106.6,8.15
+FF,Jeff Samardzija,543760,"In play, run(s)",97.7,7.99
+IN,Jeff Samardzija,542993,Intent Ball,null,null
+IN,Jeff Samardzija,542993,Intent Ball,null,null
+IN,Jeff Samardzija,542993,Intent Ball,null,null
+IN,Jeff Samardzija,542993,Intent Ball,null,null
+FC,Jeff Samardzija,596043,Ball,null,null
+FS,Jeff Samardzija,596043,Swinging Strike,null,null
+FF,Jeff Samardzija,596043,"In play, out(s)",102.3,5.24
+FS,Jeff Samardzija,542993,Ball,null,null
+FF,Jeff Samardzija,542993,Ball,null,null
+FC,Jeff Samardzija,542993,"In play, out(s)",null,null
+FC,Jeff Samardzija,596043,Swinging Strike,null,null
+FF,Jeff Samardzija,596043,"In play, out(s)",49.8,20.98
+SL,Jeff Samardzija,501981,Called Strike,null,null
+FT,Jeff Samardzija,501981,"In play, run(s)",111,16.38
+SL,Jeff Samardzija,446481,Called Strike,null,null
+SL,Jeff Samardzija,446481,Swinging Strike,null,null
+FF,Jeff Samardzija,446481,Ball,null,null
+FF,Jeff Samardzija,446481,Called Strike,null,null
+SL,Jeff Samardzija,455755,Called Strike,null,null
+FF,Jeff Samardzija,455755,Ball,null,null
+FT,Jeff Samardzija,455755,Ball,null,null
+FT,Jeff Samardzija,455755,Ball,null,null
+FT,Jeff Samardzija,455755,Foul,null,null
+SL,Jeff Samardzija,455755,Called Strike,null,null
+FF,Jeff Samardzija,455755,Ball,null,null
+FS,Jeff Samardzija,444379,Ball,null,null
+SL,Jeff Samardzija,444379,Foul,null,null
+FC,Jeff Samardzija,444379,Foul,null,null
+FC,Jeff Samardzija,444379,Ball,null,null
+FC,Jeff Samardzija,444379,Called Strike,null,null
+FS,Jeff Samardzija,444379,Swinging Strike,null,null
+SL,Jeff Samardzija,459964,Ball,null,null
+FT,Jeff Samardzija,459964,Ball,null,null
+FT,Jeff Samardzija,459964,Ball,null,null
+FT,Jeff Samardzija,459964,Ball,null,null
+FC,Jeff Samardzija,457705,Foul,null,null
+FF,Jeff Samardzija,457705,Foul,null,null
+FF,Jeff Samardzija,457705,"In play, out(s)",null,null
+FC,Jeff Samardzija,457705,Called Strike,null,null
+SL,Jeff Samardzija,457705,Foul,null,null
+SL,Jeff Samardzija,628356,"In play, out(s)",75.4,-26.35
+SL,Jeff Samardzija,446481,Foul,null,null
+FT,Jeff Samardzija,446481,Ball,null,null
+FC,Jeff Samardzija,446481,Ball,null,null
+FF,Jeff Samardzija,446481,"In play, out(s)",108,0.87
+SL,Jeff Samardzija,457705,Ball,null,null
+SL,Jeff Samardzija,457705,Called Strike,null,null
+FC,Jeff Samardzija,457705,Foul,null,null
+FF,Jeff Samardzija,457705,"In play, out(s)",null,null
+SL,Jeff Samardzija,457705,Ball,null,null
+FF,Jeff Samardzija,457705,Ball,null,null
+FC,Jeff Samardzija,543281,"In play, out(s)",81,-13.69
+FF,Jeff Samardzija,543281,Ball,null,null
+FF,Jeff Samardzija,543281,Foul,null,null
+FF,Jeff Samardzija,543281,Foul,null,null
+FC,Jeff Samardzija,444379,"In play, run(s)",100.6,29.56
+FS,Jeff Samardzija,570256,"In play, run(s)",97.7,32.22
+FF,Jeff Samardzija,459964,Ball,null,null
+FT,Jeff Samardzija,459964,Ball,null,null
+FT,Jeff Samardzija,459964,Foul,null,null
+FF,Jeff Samardzija,459964,"In play, run(s)",94.6,9.65
+FC,Jeff Samardzija,459964,Ball,null,null
+FC,Jeff Samardzija,459964,Foul,null,null
+FF,Jeff Samardzija,570256,Foul,null,null
+SL,Jeff Samardzija,570256,Ball,null,null
+FS,Jeff Samardzija,570256,Foul,null,null
+FF,Jeff Samardzija,570256,Foul,null,null
+FC,Jeff Samardzija,570256,Ball,null,null
+FF,Jeff Samardzija,570256,Called Strike,null,null
+SL,Jeff Samardzija,570256,Ball,null,null
+FC,Jeff Samardzija,570256,"In play, no out",82.7,13.69
+FF,Jeff Samardzija,543281,"In play, out(s)",null,null
+SL,Jeff Samardzija,628356,Swinging Strike,null,null
+SL,Jeff Samardzija,628356,"In play, run(s)",104.8,29.45
+FF,Jeff Samardzija,628356,Called Strike,null,null
+SL,Jeff Samardzija,434538,Ball,null,null
+FT,Jeff Samardzija,434538,Foul,null,null
+FF,Jeff Samardzija,434538,"In play, no out",92,7.89
+FC,Jeff Samardzija,523253,Swinging Strike,null,null
+FC,Jeff Samardzija,523253,Ball,null,null
+FC,Jeff Samardzija,523253,Called Strike,null,null
+FC,Jeff Samardzija,523253,Ball,null,null
+SL,Jeff Samardzija,523253,Ball,null,null
+FC,Jeff Samardzija,523253,"In play, out(s)",null,null
+SL,Jeff Samardzija,446334,Ball,null,null
+FC,Jeff Samardzija,446334,"In play, out(s)",101.2,6
+FC,Jeff Samardzija,446334,Foul,null,null
+FC,Jeff Samardzija,446334,Ball,null,null
+FF,Jeff Samardzija,489149,Ball,null,null
+FF,Jeff Samardzija,489149,Ball,null,null
+FF,Jeff Samardzija,489149,"In play, no out",103.8,-9.11
+FC,Jeff Samardzija,489149,Ball,null,null
+FC,Jeff Samardzija,489149,Foul,null,null
+FC,Jeff Samardzija,489149,Foul,null,null
+FC,Jeff Samardzija,456665,"In play, no out",94.5,10.47
+SL,Jeff Samardzija,456665,Called Strike,null,null
+FF,Jeff Samardzija,456665,Ball,null,null
+FC,Jeff Samardzija,572816,"In play, out(s)",76,62.05
+SL,Jeff Samardzija,457775,Foul,null,null
+FF,Jeff Samardzija,457775,Swinging Strike,null,null
+FF,Jeff Samardzija,457775,Ball,null,null
+SL,Jeff Samardzija,457775,Called Strike,null,null
+FF,Jeff Samardzija,543094,Called Strike,null,null
+FC,Jeff Samardzija,543094,"In play, out(s)",99.2,34.07
+FF,Jeff Samardzija,592200,Ball,null,null
+FC,Jeff Samardzija,592200,Swinging Strike,null,null
+SL,Jeff Samardzija,592200,Called Strike,null,null
+FC,Jeff Samardzija,592200,Called Strike,null,null
+SL,Jeff Samardzija,523253,Ball,null,null
+FF,Jeff Samardzija,523253,"In play, out(s)",95.5,29.13
+FC,Jeff Samardzija,523253,Ball,null,null
+SL,Jeff Samardzija,523253,Ball,null,null
+FF,Jeff Samardzija,523253,Swinging Strike,null,null
+FC,Jeff Samardzija,446334,Ball,null,null
+FF,Jeff Samardzija,446334,Foul,null,null
+SL,Jeff Samardzija,446334,Called Strike,null,null
+FF,Jeff Samardzija,446334,Called Strike,null,null
+FC,Jeff Samardzija,446334,Ball,null,null
+FC,Jeff Samardzija,456665,Ball,null,null
+FC,Jeff Samardzija,456665,Foul,null,null
+FF,Jeff Samardzija,456665,"In play, out(s)",91.8,-23.87
+FC,Jeff Samardzija,456665,Called Strike,null,null
+SL,Jeff Samardzija,456665,Swinging Strike,null,null
+FF,Jeff Samardzija,572816,Called Strike,null,null
+FC,Jeff Samardzija,572816,"In play, out(s)",98.4,56.29
+FF,Jeff Samardzija,457775,Ball,null,null
+FF,Jeff Samardzija,457775,Swinging Strike,null,null
+FF,Jeff Samardzija,457775,"In play, no out",94.3,10.55
+FC,Jeff Samardzija,457775,Swinging Strike,null,null
+FC,Jeff Samardzija,457775,Ball,null,null
+FF,Jeff Samardzija,543094,Ball,null,null
+FF,Jeff Samardzija,543094,"In play, out(s)",67.3,-4.24
+FC,Jeff Samardzija,592200,"In play, out(s)",93.7,38.91
+SL,Jeff Samardzija,523253,Ball,null,null
+FC,Jeff Samardzija,523253,Ball,null,null
+FC,Jeff Samardzija,523253,Called Strike,null,null
+FF,Jeff Samardzija,523253,Called Strike,null,null
+SL,Jeff Samardzija,523253,"In play, out(s)",91.3,1.75
+FC,Jeff Samardzija,543543,Ball,null,null
+FC,Jeff Samardzija,543543,Called Strike,null,null
+SL,Jeff Samardzija,543543,Called Strike,null,null
+FF,Jeff Samardzija,543543,Ball,null,null
+FC,Jeff Samardzija,543543,Ball,null,null
+FF,Jeff Samardzija,543543,Foul,null,null
+SL,Jeff Samardzija,543543,"In play, out(s)",100.3,50.43
+FC,Jeff Samardzija,446334,Called Strike,null,null
+FC,Jeff Samardzija,446334,"In play, out(s)",98.5,7.68
+FT,Jeff Samardzija,456665,"In play, out(s)",75.7,-33.5
+SL,Jeff Samardzija,456665,Ball,null,null
+FT,Jeff Samardzija,456665,Foul,null,null
+FC,Jeff Samardzija,572816,"In play, out(s)",98.5,42.03
+FC,Jeff Samardzija,572816,Ball,null,null
+FF,Jeff Samardzija,572816,Ball,null,null
+FF,Jeff Samardzija,572816,Called Strike,null,null
+FC,Jeff Samardzija,457775,Foul,null,null
+FC,Jeff Samardzija,457775,Called Strike,null,null
+SL,Jeff Samardzija,457775,Called Strike,null,null
+FC,Jeff Samardzija,543094,Ball,null,null
+SL,Jeff Samardzija,543094,Called Strike,null,null
+FT,Jeff Samardzija,543094,Ball,null,null
+FT,Jeff Samardzija,543094,Called Strike,null,null
+FF,Jeff Samardzija,543094,"In play, out(s)",93.3,41.84
+FC,Jeff Samardzija,592200,Swinging Strike,null,null
+FC,Jeff Samardzija,592200,"In play, out(s)",92.9,56.74
+SL,Jeff Samardzija,592200,Swinging Strike,null,null
+SL,Jeff Samardzija,592200,Ball,null,null
+SL,Jeff Samardzija,523253,Foul,null,null
+FF,Jeff Samardzija,523253,Ball,null,null
+FF,Jeff Samardzija,523253,Foul,null,null
+FC,Jeff Samardzija,523253,Foul,null,null
+FC,Jeff Samardzija,523253,Ball,null,null
+FC,Jeff Samardzija,523253,"In play, out(s)",null,null
+FT,Jeff Samardzija,489149,"In play, out(s)",null,null
+FT,Jeff Samardzija,446334,"In play, out(s)",93.8,-13.76
+SL,Jeff Samardzija,446334,Swinging Strike,null,null
+SL,Jeff Samardzija,446334,Swinging Strike,null,null
+FF,Jeff Samardzija,489149,Ball,null,null
+FT,Jeff Samardzija,489149,"In play, out(s)",104.7,-7.34
+FC,Jeff Samardzija,543543,Ball,null,null
+FC,Jeff Samardzija,543543,Ball,null,null
+FT,Jeff Samardzija,543543,Ball,null,null
+FF,Jeff Samardzija,543543,Foul,null,null
+FF,Jeff Samardzija,543543,"In play, out(s)",92.5,-22.19
+FC,Jeff Samardzija,543543,Foul,null,null
+FC,Jeff Samardzija,543543,"In play, out(s)",85.4,-28.81
+FC,Jeff Samardzija,543543,Called Strike,null,null
+FC,Jeff Samardzija,543543,Ball,null,null
+FC,Jeff Samardzija,543543,Foul,null,null
+FF,Jeff Samardzija,543543,Ball,null,null
+FF,Jeff Samardzija,543543,Ball,null,null
+FF,Jeff Samardzija,543543,Foul,null,null
+SL,Jeff Samardzija,543543,Ball,null,null
+FC,Jeff Samardzija,543543,"In play, run(s)",112.1,16.65
+SL,Jeff Samardzija,400284,Called Strike,null,null
+FS,Jeff Samardzija,400284,Foul,null,null
+FC,Jeff Samardzija,400284,Foul,null,null
+SL,Jeff Samardzija,400284,Ball,null,null
+FF,Jeff Samardzija,400284,Called Strike,null,null
+FC,Jeff Samardzija,400284,Ball,null,null
+FC,Jeff Samardzija,400284,Foul,null,null
+FF,Jeff Samardzija,400284,Swinging Strike,null,null
+FT,Jeff Samardzija,608369,Ball,null,null
+FC,Jeff Samardzija,608369,"In play, out(s)",80.1,3.24
+FF,Jeff Samardzija,608369,Ball,null,null
+FT,Jeff Samardzija,608369,Foul,null,null
+FF,Jeff Samardzija,457759,Foul,null,null
+FF,Jeff Samardzija,457759,"In play, no out",101.5,14.6
+FF,Jeff Samardzija,457759,Called Strike,null,null
+SL,Jeff Samardzija,457759,Ball,null,null
+FT,Jeff Samardzija,408236,Foul,null,null
+FC,Jeff Samardzija,408236,Ball,null,null
+FF,Jeff Samardzija,408236,"In play, out(s)",66.5,7.85
+FC,Jeff Samardzija,408236,Ball,null,null
+SL,Jeff Samardzija,408236,Foul,null,null
+FT,Jeff Samardzija,572204,Ball,null,null
+FT,Jeff Samardzija,572204,Called Strike,null,null
+FT,Jeff Samardzija,572204,"In play, no out",91.1,4.65
+FC,Jeff Samardzija,572204,Ball,null,null
+FT,Jeff Samardzija,572204,Called Strike,null,null
+SL,Jeff Samardzija,518735,Ball,null,null
+FT,Jeff Samardzija,518735,Called Strike,null,null
+FT,Jeff Samardzija,518735,Ball,null,null
+FC,Jeff Samardzija,518735,Ball,null,null
+FC,Jeff Samardzija,518735,"In play, run(s)",81.3,12.17
+FC,Jeff Samardzija,435062,Foul,null,null
+SL,Jeff Samardzija,435062,Ball In Dirt,null,null
+FF,Jeff Samardzija,435062,Ball,null,null
+FT,Jeff Samardzija,435062,Ball,null,null
+FF,Jeff Samardzija,435062,Foul,null,null
+FC,Jeff Samardzija,435062,Ball,null,null
+SL,Jeff Samardzija,400284,Swinging Strike (Blocked),null,null
+FC,Jeff Samardzija,400284,Swinging Strike,null,null
+FT,Jeff Samardzija,400284,Foul,null,null
+SL,Jeff Samardzija,457759,Ball,null,null
+FF,Jeff Samardzija,457759,Swinging Strike,null,null
+SL,Jeff Samardzija,457759,"In play, out(s)",97,37.74
+FC,Jeff Samardzija,457759,Ball,null,null
+SL,Jeff Samardzija,457759,Swinging Strike,null,null
+SL,Jeff Samardzija,457759,Ball,null,null
+FT,Jeff Samardzija,408236,Foul,null,null
+FT,Jeff Samardzija,408236,"In play, out(s)",null,null
+FT,Jeff Samardzija,408236,Ball,null,null
+FT,Jeff Samardzija,572204,Ball,null,null
+FC,Jeff Samardzija,572204,"In play, out(s)",92.3,26.48
+FF,Jeff Samardzija,572204,Called Strike,null,null
+SL,Jeff Samardzija,572204,Swinging Strike,null,null
+FF,Jeff Samardzija,592626,Ball,null,null
+FT,Jeff Samardzija,592626,Foul,null,null
+FF,Jeff Samardzija,592626,"In play, no out",100.1,27.45
+FT,Jeff Samardzija,592626,Called Strike,null,null
+FT,Jeff Samardzija,518735,Ball,null,null
+FF,Jeff Samardzija,518735,Called Strike,null,null
+null,Jeff Samardzija,518735,Ball,null,null
+SL,Jeff Samardzija,518735,Called Strike,null,null
+FF,Jeff Samardzija,518735,Ball,null,null
+SL,Jeff Samardzija,518735,Ball,null,null
+FS,Jeff Samardzija,435062,Ball,null,null
+FF,Jeff Samardzija,435062,Foul,null,null
+FT,Jeff Samardzija,435062,Foul,null,null
+FF,Jeff Samardzija,435062,Foul,null,null
+FT,Jeff Samardzija,435062,Ball,null,null
+FT,Jeff Samardzija,435062,Ball,null,null
+FF,Jeff Samardzija,435062,Called Strike,null,null
+FF,Jeff Samardzija,435062,"In play, no out",99.1,3.28
+FF,Jeff Samardzija,431148,Called Strike,null,null
+FF,Jeff Samardzija,431148,Swinging Strike,null,null
+FC,Jeff Samardzija,431148,"In play, out(s)",46.1,11.63
+SL,Jeff Samardzija,400284,"In play, out(s)",90.5,54.39
+SL,Jeff Samardzija,400284,Called Strike,null,null
+FS,Jeff Samardzija,608369,Ball,null,null
+FT,Jeff Samardzija,608369,Ball,null,null
+FC,Jeff Samardzija,608369,Called Strike,null,null
+FT,Jeff Samardzija,608369,Called Strike,null,null
+FT,Jeff Samardzija,608369,Swinging Strike,null,null
+null,Jeff Samardzija,457759,Ball,null,null
+SL,Jeff Samardzija,457759,Called Strike,null,null
+FF,Jeff Samardzija,457759,Ball,null,null
+null,Jeff Samardzija,457759,"In play, no out",null,null
+null,Jeff Samardzija,457759,Swinging Strike,null,null
+FF,Jeff Samardzija,408236,"In play, run(s)",102.3,28.04
+FC,Jeff Samardzija,408236,Ball,null,null
+FF,Jeff Samardzija,431148,Foul Bunt,null,null
+FF,Jeff Samardzija,431148,Foul Bunt,null,null
+null,Jeff Samardzija,431148,"In play, out(s)",null,null
+SL,Jeff Samardzija,431148,Ball In Dirt,null,null
+SL,Jeff Samardzija,608369,Foul,null,null
+FC,Jeff Samardzija,608369,Foul,null,null
+FS,Jeff Samardzija,608369,Ball,null,null
+FC,Jeff Samardzija,608369,"In play, out(s)",87.1,41.44
+FC,Jeff Samardzija,592626,"In play, out(s)",91.1,37.11
+FC,Jeff Samardzija,592626,Foul,null,null
+FC,Jeff Samardzija,571431,Called Strike,null,null
+FS,Jeff Samardzija,571431,"In play, out(s)",99.2,1.23
+FC,Jeff Samardzija,425877,Ball,null,null
+FF,Jeff Samardzija,425877,"In play, out(s)",81,-6.26
+FF,Jeff Samardzija,425877,Swinging Strike,null,null
+FF,Jeff Samardzija,572761,Called Strike,null,null
+FF,Jeff Samardzija,572761,Called Strike,null,null
+FF,Jeff Samardzija,572761,Foul,null,null
+FF,Jeff Samardzija,572761,Ball,null,null
+FF,Jeff Samardzija,572761,Ball,null,null
+FS,Jeff Samardzija,572761,Swinging Strike (Blocked),null,null
+FT,Jeff Samardzija,407812,Ball,null,null
+FC,Jeff Samardzija,407812,Foul,null,null
+FF,Jeff Samardzija,407812,Called Strike,null,null
+FT,Jeff Samardzija,407812,"In play, no out",109,-0.84
+SL,Jeff Samardzija,407812,Ball,null,null
+FT,Jeff Samardzija,407812,Ball,null,null
+SL,Jeff Samardzija,572039,"In play, out(s)",83.3,53.15
+FF,Jeff Samardzija,461235,Swinging Strike,null,null
+FF,Jeff Samardzija,461235,Foul,null,null
+FF,Jeff Samardzija,461235,Ball,null,null
+FC,Jeff Samardzija,461235,Ball,null,null
+FF,Jeff Samardzija,461235,"In play, no out",74.4,23.95
+FF,Jeff Samardzija,543939,Ball,null,null
+FF,Jeff Samardzija,543939,Called Strike,null,null
+FC,Jeff Samardzija,543939,"In play, out(s)",null,null
+SL,Jeff Samardzija,608379,Swinging Strike,null,null
+FC,Jeff Samardzija,608379,Foul,null,null
+SL,Jeff Samardzija,608379,"In play, no out",null,null
+FF,Jeff Samardzija,608379,Called Strike,null,null
+FC,Jeff Samardzija,572761,Foul,null,null
+FF,Jeff Samardzija,572761,Called Strike,null,null
+FF,Jeff Samardzija,572761,Called Strike,null,null
+FF,Jeff Samardzija,572761,Ball,null,null
+FF,Jeff Samardzija,649557,Ball,null,null
+FT,Jeff Samardzija,649557,Ball,null,null
+FF,Jeff Samardzija,649557,"In play, out(s)",89,55.05
+FF,Jeff Samardzija,571431,Ball,null,null
+FT,Jeff Samardzija,571431,Ball,null,null
+FT,Jeff Samardzija,571431,Called Strike,null,null
+FT,Jeff Samardzija,571431,Swinging Strike,null,null
+FF,Jeff Samardzija,571431,"In play, out(s)",84.5,-0.36
+FF,Jeff Samardzija,461235,Swinging Strike,null,null
+FF,Jeff Samardzija,461235,Ball,null,null
+FF,Jeff Samardzija,461235,"In play, run(s)",99.9,37.41
+FT,Jeff Samardzija,461235,Called Strike,null,null
+FF,Jeff Samardzija,461235,Ball,null,null
+FT,Jeff Samardzija,461235,Foul,null,null
+FS,Jeff Samardzija,461235,Ball,null,null
+FF,Jeff Samardzija,425877,Ball,null,null
+FT,Jeff Samardzija,425877,Foul,null,null
+FF,Jeff Samardzija,425877,Foul,null,null
+FF,Jeff Samardzija,425877,"In play, out(s)",92.3,39.57
+FF,Jeff Samardzija,425877,Called Strike,null,null
+FF,Jeff Samardzija,425877,Foul,null,null
+FF,Jeff Samardzija,425877,Ball,null,null
+FT,Jeff Samardzija,543939,"In play, out(s)",103.2,2.19
+FT,Jeff Samardzija,571757,Ball,null,null
+FT,Jeff Samardzija,571757,"In play, no out",106.3,-0.01
+FF,Jeff Samardzija,571757,Called Strike,null,null
+FF,Jeff Samardzija,572761,Foul,null,null
+FF,Jeff Samardzija,572761,Ball,null,null
+FC,Jeff Samardzija,572761,Foul,null,null
+FT,Jeff Samardzija,572761,Foul,null,null
+FS,Jeff Samardzija,572761,"In play, no out",93.2,2.75
+FT,Jeff Samardzija,649557,Ball,null,null
+FT,Jeff Samardzija,649557,Ball,null,null
+FF,Jeff Samardzija,649557,Ball,null,null
+FF,Jeff Samardzija,649557,"In play, run(s)",107.3,21.65
+SL,Jeff Samardzija,407812,Ball,null,null
+FF,Jeff Samardzija,407812,Foul,null,null
+SL,Jeff Samardzija,407812,Foul,null,null
+SL,Jeff Samardzija,407812,"In play, out(s)",106.4,-4.72
+FF,Jeff Samardzija,572039,"In play, run(s)",101.6,25.79
+FS,Jeff Samardzija,571431,"In play, run(s)",100.2,30.58
+FS,Jeff Samardzija,571431,Called Strike,null,null
+FF,Jeff Samardzija,649557,"In play, out(s)",null,null
+SL,Jeff Samardzija,649557,Called Strike,null,null
+FT,Jeff Samardzija,649557,Ball,null,null
+FT,Jeff Samardzija,572039,"In play, out(s)",92.1,-5.1
+FT,Jeff Samardzija,572039,Ball,null,null
+FT,Jeff Samardzija,407812,Ball,null,null
+FT,Jeff Samardzija,407812,Swinging Strike,null,null
+FT,Jeff Samardzija,407812,Ball,null,null
+SL,Jeff Samardzija,407812,"In play, out(s)",92.8,-16.12
+FF,Jeff Samardzija,407812,Ball,null,null
+SL,Jeff Samardzija,407812,Called Strike,null,null
+FC,Jeff Samardzija,542255,Ball,null,null
+FC,Jeff Samardzija,542255,"In play, out(s)",78.1,-19.97
+FF,Jeff Samardzija,542255,Called Strike,null,null
+FT,Jeff Samardzija,493596,Called Strike,null,null
+FC,Jeff Samardzija,493596,Ball,null,null
+FF,Jeff Samardzija,493596,Called Strike,null,null
+FF,Jeff Samardzija,493596,Ball,null,null
+FF,Jeff Samardzija,493596,Swinging Strike,null,null
+FF,Jeff Samardzija,518692,Ball,null,null
+FC,Jeff Samardzija,518692,"In play, out(s)",95.7,41.82
+FF,Jeff Samardzija,518692,Ball,null,null
+FF,Jeff Samardzija,518692,Foul,null,null
+FC,Jeff Samardzija,518692,Swinging Strike,null,null
+FF,Jeff Samardzija,611177,Foul,null,null
+FF,Jeff Samardzija,611177,"In play, no out",75.4,17.35
+FF,Jeff Samardzija,455976,Foul,null,null
+FC,Jeff Samardzija,455976,"In play, no out",77.3,17.56
+FF,Jeff Samardzija,455976,Ball,null,null
+FS,Jeff Samardzija,430637,Foul,null,null
+FF,Jeff Samardzija,430637,Foul,null,null
+FC,Jeff Samardzija,430637,Ball,null,null
+FF,Jeff Samardzija,430637,Swinging Strike,null,null
+FT,Jeff Samardzija,430637,Ball,null,null
+SL,Jeff Samardzija,430637,Foul,null,null
+SL,Jeff Samardzija,430637,Ball,null,null
+IN,Jeff Samardzija,150229,Intent Ball,null,null
+IN,Jeff Samardzija,150229,Intent Ball,null,null
+IN,Jeff Samardzija,150229,Intent Ball,null,null
+SL,Jeff Samardzija,150229,Ball,null,null
+FC,Jeff Samardzija,592314,Swinging Strike,null,null
+FT,Jeff Samardzija,592314,Swinging Strike,null,null
+FF,Jeff Samardzija,592314,Ball,null,null
+FF,Jeff Samardzija,592314,Foul,null,null
+FT,Jeff Samardzija,592314,Ball,null,null
+FC,Jeff Samardzija,592314,Foul,null,null
+FC,Jeff Samardzija,605480,"In play, run(s)",106.6,8.73
+FF,Jeff Samardzija,605480,Ball,null,null
+FC,Jeff Samardzija,542255,"In play, out(s)",80.2,-47.76
+SL,Jeff Samardzija,493596,Ball,null,null
+FC,Jeff Samardzija,493596,Ball,null,null
+FF,Jeff Samardzija,493596,"In play, no out",96,2.3
+FC,Jeff Samardzija,493596,Ball,null,null
+FF,Jeff Samardzija,493596,Called Strike,null,null
+FC,Jeff Samardzija,518692,"In play, no out",107.9,11.28
+SL,Jeff Samardzija,611177,"In play, out(s)",38.5,-20.88
+SL,Jeff Samardzija,455976,Foul,null,null
+FF,Jeff Samardzija,455976,Foul,null,null
+SL,Jeff Samardzija,455976,Foul,null,null
+FS,Jeff Samardzija,455976,"In play, run(s)",95.6,-16.8
+FS,Jeff Samardzija,455976,Called Strike,null,null
+FF,Jeff Samardzija,455976,Ball,null,null
+FS,Jeff Samardzija,430637,"In play, run(s)",98.4,23.81
+SL,Jeff Samardzija,430637,Ball,null,null
+FF,Jeff Samardzija,150229,Foul,null,null
+SL,Jeff Samardzija,150229,Foul,null,null
+FF,Jeff Samardzija,150229,Ball,null,null
+FF,Jeff Samardzija,150229,Foul,null,null
+FF,Jeff Samardzija,150229,"In play, out(s)",72.1,-45.12
+FC,Jeff Samardzija,592314,Ball,null,null
+FC,Jeff Samardzija,592314,Ball,null,null
+FF,Jeff Samardzija,592314,Ball,null,null
+FC,Jeff Samardzija,592314,Ball,null,null
+FS,Jeff Samardzija,542255,"In play, out(s)",93.8,34.33
+SL,Jeff Samardzija,493596,"In play, out(s)",68.3,48.94
+SL,Jeff Samardzija,518692,Ball,null,null
+FS,Jeff Samardzija,518692,"In play, out(s)",79.1,10.52
+FF,Jeff Samardzija,518692,Foul,null,null
+FC,Jeff Samardzija,611177,Ball,null,null
+SL,Jeff Samardzija,611177,Foul,null,null
+FC,Jeff Samardzija,611177,Foul,null,null
+SL,Jeff Samardzija,611177,Swinging Strike,null,null
+FF,Jeff Samardzija,455976,Called Strike,null,null
+FF,Jeff Samardzija,455976,Called Strike,null,null
+FF,Jeff Samardzija,455976,"In play, no out",104.3,-2.31
+FF,Jeff Samardzija,455976,Ball,null,null
+FF,Jeff Samardzija,455976,Foul,null,null
+FC,Jeff Samardzija,430637,Ball,null,null
+FF,Jeff Samardzija,430637,Foul,null,null
+FC,Jeff Samardzija,430637,Foul,null,null
+FF,Jeff Samardzija,430637,"In play, out(s)",85.5,28.57
+FF,Jeff Samardzija,430637,Foul,null,null
+SL,Jeff Samardzija,430637,Swinging Strike,null,null
+SL,Jeff Samardzija,430637,Foul,null,null
+SL,Jeff Samardzija,430637,Ball,null,null
+FC,Jeff Samardzija,605480,Called Strike,null,null
+FC,Jeff Samardzija,605480,Ball,null,null
+FC,Jeff Samardzija,605480,Ball,null,null
+FC,Jeff Samardzija,605480,Foul,null,null
+FF,Jeff Samardzija,605480,Foul,null,null
+SL,Jeff Samardzija,605480,"In play, out(s)",59.6,-53.05
+FS,Jeff Samardzija,605480,Ball,null,null
+FC,Jeff Samardzija,605480,Foul Bunt,null,null
+FF,Jeff Samardzija,605480,Foul,null,null
+FC,Jeff Samardzija,445055,Swinging Strike,null,null
+FC,Jeff Samardzija,445055,Called Strike,null,null
+FF,Jeff Samardzija,445055,Swinging Strike,null,null
+FC,Jeff Samardzija,461314,Called Strike,null,null
+FS,Jeff Samardzija,461314,Ball,null,null
+FC,Jeff Samardzija,461314,"In play, out(s)",110.7,20.82
+FF,Jeff Samardzija,461314,Foul,null,null
+FS,Jeff Samardzija,461314,Ball,null,null
+FC,Jeff Samardzija,500208,Ball,null,null
+SL,Jeff Samardzija,500208,"In play, out(s)",95.5,8.93
+FC,Jeff Samardzija,500208,Foul,null,null
+FC,Jeff Samardzija,500208,Ball,null,null
+SL,Jeff Samardzija,425834,Swinging Strike,null,null
+FC,Jeff Samardzija,425834,Ball,null,null
+FC,Jeff Samardzija,425834,Ball,null,null
+FT,Jeff Samardzija,425834,Foul,null,null
+FF,Jeff Samardzija,425834,Called Strike,null,null
+FF,Jeff Samardzija,477165,Ball,null,null
+FF,Jeff Samardzija,477165,Foul,null,null
+FC,Jeff Samardzija,477165,Ball,null,null
+FS,Jeff Samardzija,477165,Called Strike,null,null
+FF,Jeff Samardzija,477165,Ball,null,null
+FF,Jeff Samardzija,477165,Ball,null,null
+FF,Jeff Samardzija,519083,Foul,null,null
+FF,Jeff Samardzija,519083,Ball,null,null
+FF,Jeff Samardzija,519083,Foul,null,null
+FC,Jeff Samardzija,519083,Called Strike,null,null
+FC,Jeff Samardzija,519083,Ball,null,null
+FC,Jeff Samardzija,519083,Swinging Strike,null,null
+SL,Jeff Samardzija,493351,Ball,null,null
+FF,Jeff Samardzija,493351,Foul,null,null
+SL,Jeff Samardzija,493351,"In play, no out",62.8,27.97
+SL,Jeff Samardzija,493351,Called Strike,null,null
+SL,Jeff Samardzija,493351,Ball,null,null
+SL,Jeff Samardzija,488768,"In play, out(s)",null,null
+FS,Jeff Samardzija,445055,Ball,null,null
+FC,Jeff Samardzija,445055,Swinging Strike,null,null
+FF,Jeff Samardzija,445055,Swinging Strike,null,null
+FF,Jeff Samardzija,445055,Called Strike,null,null
+FF,Jeff Samardzija,445055,Ball,null,null
+FF,Jeff Samardzija,506560,Called Strike,null,null
+FF,Jeff Samardzija,506560,Ball,null,null
+FF,Jeff Samardzija,506560,"In play, out(s)",94.2,-24.3
+FF,Jeff Samardzija,461314,"In play, out(s)",64.1,7.24
+FF,Jeff Samardzija,500208,Called Strike,null,null
+FF,Jeff Samardzija,500208,Foul,null,null
+FC,Jeff Samardzija,500208,Foul,null,null
+FF,Jeff Samardzija,500208,Foul,null,null
+FF,Jeff Samardzija,500208,Ball,null,null
+FF,Jeff Samardzija,500208,Ball,null,null
+FF,Jeff Samardzija,500208,Ball,null,null
+FC,Jeff Samardzija,500208,Foul,null,null
+SL,Jeff Samardzija,500208,Ball,null,null
+FF,Jeff Samardzija,425834,"In play, out(s)",99.8,5.66
+FF,Jeff Samardzija,425834,Ball,null,null
+FS,Jeff Samardzija,477165,Called Strike,null,null
+FT,Jeff Samardzija,477165,Ball,null,null
+FC,Jeff Samardzija,477165,Swinging Strike,null,null
+FF,Jeff Samardzija,477165,Called Strike,null,null
+FC,Jeff Samardzija,477165,Ball,null,null
+FT,Jeff Samardzija,519083,Ball,null,null
+FC,Jeff Samardzija,519083,Foul,null,null
+SL,Jeff Samardzija,519083,Ball,null,null
+FC,Jeff Samardzija,519083,Swinging Strike,null,null
+FF,Jeff Samardzija,519083,"In play, no out",96.3,27.56
+FC,Jeff Samardzija,493351,"In play, out(s)",73.2,-7.5
+FF,Jeff Samardzija,493351,Foul,null,null
+FC,Jeff Samardzija,488768,Called Strike,null,null
+FC,Jeff Samardzija,488768,"In play, out(s)",83.2,41.75
+FC,Jeff Samardzija,488768,Ball,null,null
+FT,Jeff Samardzija,488768,Foul,null,null
+SL,Jeff Samardzija,445055,"In play, run(s)",93.8,33.14
+FC,Jeff Samardzija,506560,Ball,null,null
+FC,Jeff Samardzija,506560,Foul,null,null
+FC,Jeff Samardzija,506560,Ball,null,null
+FC,Jeff Samardzija,506560,Called Strike,null,null
+FF,Jeff Samardzija,506560,Swinging Strike,null,null
+FC,Jeff Samardzija,461314,Foul,null,null
+FC,Jeff Samardzija,461314,Ball,null,null
+SL,Jeff Samardzija,461314,Swinging Strike (Blocked),null,null
+SL,Jeff Samardzija,461314,Called Strike,null,null
+FT,Jeff Samardzija,500208,"In play, no out",104.1,1.77
+FT,Jeff Samardzija,425834,"In play, out(s)",77.6,42.41
+FC,Jeff Samardzija,477165,Ball,null,null
+FC,Jeff Samardzija,477165,Ball,null,null
+FC,Jeff Samardzija,477165,"In play, out(s)",72.1,63.65
+FF,Jeff Samardzija,477165,Ball,null,null
+FC,Jeff Samardzija,477165,Called Strike,null,null
+FF,Jeff Samardzija,519083,"In play, out(s)",61.1,47.87
+FF,Jeff Samardzija,519083,Foul,null,null
+SL,Jeff Samardzija,493351,Ball,null,null
+FF,Jeff Samardzija,493351,Ball,null,null
+SL,Jeff Samardzija,493351,Called Strike,null,null
+FF,Jeff Samardzija,493351,Foul,null,null
+FT,Jeff Samardzija,493351,"In play, no out",95.4,8.08
+FT,Jeff Samardzija,542194,Foul,null,null
+FT,Jeff Samardzija,542194,Ball,null,null
+FT,Jeff Samardzija,542194,Called Strike,null,null
+FC,Jeff Samardzija,542194,Ball,null,null
+FT,Jeff Samardzija,542194,Ball,null,null
+FT,Jeff Samardzija,542194,Ball,null,null
+FC,Jeff Samardzija,506560,Ball,null,null
+FC,Jeff Samardzija,506560,"In play, out(s)",null,null
+FF,Jeff Samardzija,506560,Ball,null,null
+FC,Jeff Samardzija,506560,Called Strike,null,null
+FC,Jeff Samardzija,445055,Foul,null,null
+FF,Jeff Samardzija,445055,"In play, no out",98.6,21.54
+FC,Jeff Samardzija,445055,Ball,null,null
+FC,Jeff Samardzija,425834,Swinging Strike,null,null
+FF,Jeff Samardzija,425834,Ball,null,null
+FC,Jeff Samardzija,425834,Ball,null,null
+FC,Jeff Samardzija,425834,Foul Bunt,null,null
+FC,Jeff Samardzija,425834,Swinging Strike,null,null
+FT,Jeff Samardzija,461314,Ball,null,null
+FS,Jeff Samardzija,461314,Swinging Strike,null,null
+SL,Jeff Samardzija,461314,Swinging Strike,null,null
+FC,Jeff Samardzija,461314,Foul,null,null
+FF,Jeff Samardzija,461314,Foul,null,null
+FC,Jeff Samardzija,477165,"In play, out(s)",null,null
+FF,Jeff Samardzija,477165,Ball,null,null
+FC,Jeff Samardzija,571976,"In play, out(s)",101.8,39.35
+FF,Jeff Samardzija,542194,"In play, no out",92.8,15
+FC,Jeff Samardzija,542194,Ball,null,null
+FF,Jeff Samardzija,493351,"In play, out(s)",91.2,-0.63
+FC,Jeff Samardzija,506560,Called Strike,null,null
+FC,Jeff Samardzija,506560,Swinging Strike,null,null
+FC,Jeff Samardzija,506560,Ball,null,null
+FC,Jeff Samardzija,506560,Ball,null,null
+FF,Jeff Samardzija,506560,Ball,null,null
+FC,Jeff Samardzija,506560,"In play, run(s)",102.9,-0.98
+FC,Jeff Samardzija,448306,Ball,null,null
+FF,Jeff Samardzija,448306,Called Strike,null,null
+FF,Jeff Samardzija,448306,Swinging Strike,null,null
+FC,Jeff Samardzija,448306,Swinging Strike,null,null
+SL,Jeff Samardzija,445055,Ball,null,null
+FC,Jeff Samardzija,445055,Foul,null,null
+FC,Jeff Samardzija,445055,Ball,null,null
+SL,Jeff Samardzija,445055,Called Strike,null,null
+SL,Jeff Samardzija,445055,Ball,null,null
+FC,Jeff Samardzija,445055,"In play, out(s)",93,29.69
+SL,Jeff Samardzija,461314,Foul,null,null
+SL,Jeff Samardzija,461314,Swinging Strike,null,null
+FF,Jeff Samardzija,461314,Foul,null,null
+FF,Jeff Samardzija,477165,Called Strike,null,null
+FF,Jeff Samardzija,477165,"In play, out(s)",94.5,20.12
+FS,Jeff Samardzija,477165,Ball,null,null
+FS,Jeff Samardzija,477165,Ball,null,null
+FC,Jeff Samardzija,571976,Called Strike,null,null
+SL,Jeff Samardzija,571976,Ball,null,null
+FC,Jeff Samardzija,571976,"In play, out(s)",85.7,56.22
+SL,Jeff Samardzija,571976,Ball,null,null
+FT,Jeff Samardzija,571976,Ball,null,null
+FC,Jeff Samardzija,542194,Ball,null,null
+FF,Jeff Samardzija,542194,Foul,null,null
+SL,Jeff Samardzija,542194,Ball,null,null
+FC,Jeff Samardzija,542194,Foul,null,null
+FC,Jeff Samardzija,542194,Called Strike,null,null
+FC,Jeff Samardzija,493351,Foul,null,null
+FC,Jeff Samardzija,493351,Ball,null,null
+SL,Jeff Samardzija,493351,"In play, out(s)",95.2,2.52
+SL,Jeff Samardzija,493351,Called Strike,null,null
+FF,Jeff Samardzija,506560,Ball,null,null
+FC,Jeff Samardzija,506560,Foul,null,null
+SL,Jeff Samardzija,506560,Ball,null,null
+FC,Jeff Samardzija,506560,Called Strike,null,null
+FF,Jeff Samardzija,506560,Swinging Strike,null,null
+FC,Jeff Samardzija,506560,Foul,null,null
+FF,Jeff Samardzija,506560,Ball,null,null
+FF,Jeff Samardzija,506560,"In play, out(s)",89,45.95
+FC,Jeff Samardzija,448306,Swinging Strike,null,null
+FF,Jeff Samardzija,448306,Called Strike,null,null
+FC,Jeff Samardzija,448306,Swinging Strike,null,null
+FC,Jeff Samardzija,445055,Foul,null,null
+FS,Jeff Samardzija,445055,Foul,null,null
+FS,Jeff Samardzija,445055,Swinging Strike,null,null
+FF,Jeff Samardzija,445055,Foul,null,null
+FS,Jeff Samardzija,445055,"In play, out(s)",96.3,25.59
+FC,Jeff Samardzija,425834,Foul,null,null
+FF,Jeff Samardzija,425834,Called Strike,null,null
+FC,Jeff Samardzija,425834,Called Strike,null,null
+FF,Jeff Samardzija,461314,Ball,null,null
+FC,Jeff Samardzija,461314,Called Strike,null,null
+FS,Jeff Samardzija,461314,Ball,null,null
+SL,Jeff Samardzija,461314,"In play, out(s)",80.2,2.53
+FC,Jeff Samardzija,477165,"In play, out(s)",104.4,5.36
+SL,Jeff Samardzija,571976,Called Strike,null,null
+SL,Jeff Samardzija,571976,Ball,null,null
+FT,Jeff Samardzija,571976,Ball,null,null
+FC,Jeff Samardzija,571976,Called Strike,null,null
+FC,Jeff Samardzija,571976,Ball,null,null
+SL,Jeff Samardzija,571976,"In play, out(s)",103.1,12.99
+SL,Jeff Samardzija,542194,Swinging Strike,null,null
+SL,Jeff Samardzija,542194,Foul,null,null
+FC,Jeff Samardzija,542194,Foul,null,null
+FC,Jeff Samardzija,542194,Swinging Strike,null,null
+SL,Jeff Samardzija,542194,Swinging Strike,null,null
+FF,Jeff Samardzija,542194,Foul,null,null
+SL,Jeff Samardzija,542194,Ball,null,null
+FC,Jeff Samardzija,493351,"In play, out(s)",null,null
+SL,Jeff Samardzija,493351,Ball,null,null
+FF,Jeff Samardzija,506560,Called Strike,null,null
+FF,Jeff Samardzija,506560,"In play, out(s)",null,null
+FC,Jeff Samardzija,506560,Ball,null,null
+FF,Jeff Samardzija,519083,Ball,null,null
+SL,Jeff Samardzija,519083,Foul,null,null
+SL,Jeff Samardzija,519083,Called Strike,null,null
+FC,Jeff Samardzija,519083,Called Strike,null,null
+FF,Jeff Samardzija,519083,"In play, out(s)",null,null
+FC,Jeff Samardzija,425834,"In play, out(s)",74.8,26.35
+FC,Jeff Samardzija,425834,Foul,null,null
+FC,Jeff Samardzija,630111,"In play, out(s)",68.7,56.34
+FC,Jeff Samardzija,592273,"In play, out(s)",null,null
+FF,Jeff Samardzija,592273,Ball,null,null
+FF,Jeff Samardzija,572008,Foul,null,null
+SL,Jeff Samardzija,572008,Ball,null,null
+FF,Jeff Samardzija,572008,Ball,null,null
+FC,Jeff Samardzija,572008,Ball,null,null
+FC,Jeff Samardzija,572008,Foul,null,null
+FC,Jeff Samardzija,572008,"In play, no out",81.6,-2.67
+FT,Jeff Samardzija,605113,"In play, out(s)",85.5,-11.38
+FF,Jeff Samardzija,516416,Called Strike,null,null
+FS,Jeff Samardzija,516416,"In play, out(s)",95.1,30.95
+FC,Jeff Samardzija,516416,Called Strike,null,null
+FC,Jeff Samardzija,592273,"In play, no out",99.2,2.36
+FF,Jeff Samardzija,592273,Called Strike,null,null
+FT,Jeff Samardzija,592273,Ball,null,null
+FT,Jeff Samardzija,592273,Foul,null,null
+FS,Jeff Samardzija,571875,Ball In Dirt,null,null
+FC,Jeff Samardzija,571875,Swinging Strike,null,null
+FF,Jeff Samardzija,571875,Foul,null,null
+FS,Jeff Samardzija,571875,"In play, no out",102.7,9.65
+FC,Jeff Samardzija,571875,Called Strike,null,null
+FC,Jeff Samardzija,571875,Ball,null,null
+FT,Jeff Samardzija,456078,Ball,null,null
+FF,Jeff Samardzija,456078,Called Strike,null,null
+FC,Jeff Samardzija,456078,Ball,null,null
+FC,Jeff Samardzija,456078,"In play, out(s)",null,null
+FT,Jeff Samardzija,630111,Swinging Strike,null,null
+FF,Jeff Samardzija,630111,Ball,null,null
+SL,Jeff Samardzija,630111,"In play, out(s)",71.6,-6.55
+FC,Jeff Samardzija,630111,Called Strike,null,null
+FF,Jeff Samardzija,630111,Foul,null,null
+FT,Jeff Samardzija,572008,"In play, no out",null,null
+SL,Jeff Samardzija,572008,Called Strike,null,null
+FC,Jeff Samardzija,605113,Ball,null,null
+FF,Jeff Samardzija,605113,"In play, no out",92.4,15.68
+FC,Jeff Samardzija,605113,Called Strike,null,null
+FC,Jeff Samardzija,605113,Foul,null,null
+SL,Jeff Samardzija,571946,Ball,null,null
+FC,Jeff Samardzija,571946,Called Strike,null,null
+FC,Jeff Samardzija,571946,Missed Bunt,null,null
+SL,Jeff Samardzija,571946,Called Strike,null,null
+FT,Jeff Samardzija,592273,Called Strike,null,null
+FF,Jeff Samardzija,592273,Foul,null,null
+FT,Jeff Samardzija,592273,Ball,null,null
+FT,Jeff Samardzija,592273,Swinging Strike,null,null
+FT,Jeff Samardzija,592273,Ball,null,null
+FF,Jeff Samardzija,592273,"In play, out(s)",null,null
+FC,Jeff Samardzija,502671,Ball,null,null
+FC,Jeff Samardzija,502671,Swinging Strike,null,null
+FF,Jeff Samardzija,502671,Foul,null,null
+SL,Jeff Samardzija,502671,Called Strike,null,null
+SL,Jeff Samardzija,502671,Ball,null,null
+FC,Jeff Samardzija,502671,Swinging Strike,null,null
+FC,Jeff Samardzija,571875,Swinging Strike,null,null
+FT,Jeff Samardzija,571875,Ball,null,null
+FC,Jeff Samardzija,571875,"In play, out(s)",100.3,-1.33
+FC,Jeff Samardzija,456078,Called Strike,null,null
+SL,Jeff Samardzija,456078,Called Strike,null,null
+FF,Jeff Samardzija,456078,Ball,null,null
+FC,Jeff Samardzija,456078,Foul,null,null
+FF,Jeff Samardzija,630111,"In play, out(s)",101.7,-4.13
+FC,Jeff Samardzija,630111,Foul,null,null
+SL,Jeff Samardzija,571946,Foul,null,null
+FF,Jeff Samardzija,571946,"In play, no out",99.9,30.32
+FC,Jeff Samardzija,571946,Called Strike,null,null
+SL,Jeff Samardzija,516416,"In play, run(s)",92.2,11.72
+FC,Jeff Samardzija,516416,Ball,null,null
+FF,Jeff Samardzija,592273,Foul,null,null
+FF,Jeff Samardzija,592273,Ball,null,null
+FT,Jeff Samardzija,592273,"In play, out(s)",null,null
+FF,Jeff Samardzija,502671,Swinging Strike,null,null
+FF,Jeff Samardzija,502671,"In play, out(s)",84.9,-4.2
+SL,Jeff Samardzija,502671,Called Strike,null,null
+FC,Jeff Samardzija,571875,Ball,null,null
+FC,Jeff Samardzija,571875,Foul,null,null
+FC,Jeff Samardzija,571875,Foul,null,null
+FF,Jeff Samardzija,571875,Called Strike,null,null
+FC,Jeff Samardzija,571875,Ball,null,null
+FC,Jeff Samardzija,571875,"In play, out(s)",94.7,9.03
+FT,Jeff Samardzija,456078,Ball,null,null
+FC,Jeff Samardzija,456078,Ball,null,null
+FT,Jeff Samardzija,456078,Foul,null,null
+FF,Jeff Samardzija,456078,"In play, out(s)",88.5,30.31
+SL,Jeff Samardzija,456078,Called Strike,null,null
+SL,Jeff Samardzija,456078,Called Strike,null,null
+SL,Jeff Samardzija,456078,Foul,null,null
+FT,Jeff Samardzija,572008,"In play, no out",106.7,-5.93
+FC,Jeff Samardzija,572008,Ball,null,null
+SL,Jeff Samardzija,594838,"In play, out(s)",92.1,7.41
+FF,Jeff Samardzija,594838,Ball,null,null
+FT,Jeff Samardzija,516416,Ball,null,null
+FT,Jeff Samardzija,516416,Called Strike,null,null
+FF,Jeff Samardzija,516416,"In play, out(s)",null,null
+FT,Jeff Samardzija,516416,Ball,null,null
+FT,Jeff Samardzija,516416,Ball,null,null
+FT,Jeff Samardzija,516416,Called Strike,null,null
+FF,Jeff Samardzija,502671,Called Strike,null,null
+SL,Jeff Samardzija,502671,Ball,null,null
+FC,Jeff Samardzija,502671,"In play, out(s)",101.7,44.41
+FT,Jeff Samardzija,502671,Ball,null,null
+FT,Jeff Samardzija,502671,Ball,null,null
+FC,Jeff Samardzija,502671,Called Strike,null,null
+FC,Jeff Samardzija,502671,Foul,null,null
+FC,Jeff Samardzija,516416,Ball,null,null
+FF,Jeff Samardzija,516416,Called Strike,null,null
+SL,Jeff Samardzija,516416,"In play, out(s)",87.4,-7.96
+FF,Jeff Samardzija,516416,Ball,null,null
+SL,Jeff Samardzija,516416,Ball,null,null
+FT,Jeff Samardzija,516416,Foul,null,null
+FF,Jeff Samardzija,605113,"In play, out(s)",null,null
+FF,Jeff Samardzija,502671,"In play, out(s)",93.7,76.35
+SL,Jeff Samardzija,453568,Swinging Strike,null,null
+FC,Jeff Samardzija,453568,Swinging Strike,null,null
+FC,Jeff Samardzija,453568,Called Strike,null,null
+FC,Jeff Samardzija,453568,Ball,null,null
+FC,Jeff Samardzija,453568,Foul,null,null
+FT,Jeff Samardzija,596115,"In play, no out",77.3,-5.66
+FF,Jeff Samardzija,596115,Ball,null,null
+FC,Jeff Samardzija,471865,Foul,null,null
+FC,Jeff Samardzija,471865,Called Strike,null,null
+FC,Jeff Samardzija,471865,"In play, out(s)",75.2,-6.69
+FF,Jeff Samardzija,571448,Foul,null,null
+SL,Jeff Samardzija,571448,Ball,null,null
+FF,Jeff Samardzija,571448,"In play, run(s)",101.9,28.71
+SL,Jeff Samardzija,571448,Ball,null,null
+FC,Jeff Samardzija,467827,"In play, out(s)",90.1,-24.05
+FC,Jeff Samardzija,518934,Foul,null,null
+FC,Jeff Samardzija,518934,Called Strike,null,null
+FC,Jeff Samardzija,518934,Foul,null,null
+FC,Jeff Samardzija,518934,Ball,null,null
+SL,Jeff Samardzija,518934,"In play, out(s)",95.1,23.11
+FF,Jeff Samardzija,572750,Foul,null,null
+SL,Jeff Samardzija,572750,"In play, out(s)",null,null
+FC,Jeff Samardzija,572750,Called Strike,null,null
+FC,Jeff Samardzija,572750,Foul,null,null
+FC,Jeff Samardzija,453568,Called Strike,null,null
+FC,Jeff Samardzija,453568,"In play, out(s)",94,-23.22
+FF,Jeff Samardzija,453568,Ball,null,null
+FS,Jeff Samardzija,453568,Ball,null,null
+FT,Jeff Samardzija,453568,Foul,null,null
+FC,Jeff Samardzija,596115,Ball,null,null
+FC,Jeff Samardzija,596115,Ball,null,null
+FC,Jeff Samardzija,596115,Foul,null,null
+FT,Jeff Samardzija,596115,Ball,null,null
+FF,Jeff Samardzija,596115,Called Strike,null,null
+FF,Jeff Samardzija,596115,Swinging Strike,null,null
+SL,Jeff Samardzija,596115,Swinging Strike (Blocked),null,null
+FC,Jeff Samardzija,471865,Foul,null,null
+FS,Jeff Samardzija,471865,Called Strike,null,null
+FC,Jeff Samardzija,471865,"In play, no out",91.8,-14.93
+SL,Jeff Samardzija,571448,Ball,null,null
+FT,Jeff Samardzija,571448,Swinging Strike,null,null
+FC,Jeff Samardzija,571448,"In play, no out",89.2,6.33
+FC,Jeff Samardzija,571448,Called Strike,null,null
+FC,Jeff Samardzija,467827,Called Strike,null,null
+FC,Jeff Samardzija,467827,"In play, run(s)",63.2,34.84
+FC,Jeff Samardzija,518934,Foul,null,null
+FT,Jeff Samardzija,518934,Ball,null,null
+SL,Jeff Samardzija,518934,Ball,null,null
+FT,Jeff Samardzija,518934,"In play, out(s)",null,null
+FC,Jeff Samardzija,518934,Ball,null,null
+FC,Jeff Samardzija,518934,Called Strike,null,null
+FF,Jeff Samardzija,572019,Ball,null,null
+FC,Jeff Samardzija,572019,Ball,null,null
+FC,Jeff Samardzija,572019,Foul,null,null
+FF,Jeff Samardzija,572019,Swinging Strike,null,null
+FC,Jeff Samardzija,572019,Called Strike,null,null
+FC,Jeff Samardzija,572019,Foul,null,null
+FC,Jeff Samardzija,572019,Foul,null,null
+FC,Jeff Samardzija,572019,Ball,null,null
+FC,Jeff Samardzija,572019,Foul,null,null
+FC,Jeff Samardzija,572863,Swinging Strike,null,null
+FF,Jeff Samardzija,572863,Swinging Strike,null,null
+FC,Jeff Samardzija,572863,Swinging Strike,null,null
+FC,Jeff Samardzija,572750,Swinging Strike,null,null
+FC,Jeff Samardzija,572750,Swinging Strike,null,null
+FF,Jeff Samardzija,572750,Called Strike,null,null
+FS,Jeff Samardzija,453568,"In play, out(s)",95.3,15.78
+FC,Jeff Samardzija,453568,Called Strike,null,null
+FF,Jeff Samardzija,596115,Swinging Strike,null,null
+FC,Jeff Samardzija,596115,"In play, out(s)",79.4,29.1
+FF,Jeff Samardzija,596115,Foul,null,null
+FC,Jeff Samardzija,596115,Ball,null,null
+FC,Jeff Samardzija,471865,Ball,null,null
+FF,Jeff Samardzija,471865,Ball,null,null
+FC,Jeff Samardzija,471865,Foul,null,null
+FC,Jeff Samardzija,471865,Called Strike,null,null
+FC,Jeff Samardzija,471865,Swinging Strike,null,null
+FC,Jeff Samardzija,571448,Ball,null,null
+FC,Jeff Samardzija,571448,Foul,null,null
+FC,Jeff Samardzija,571448,Called Strike,null,null
+FC,Jeff Samardzija,571448,Foul,null,null
+FF,Jeff Samardzija,571448,Foul,null,null
+FF,Jeff Samardzija,467827,Foul,null,null
+FC,Jeff Samardzija,467827,Swinging Strike,null,null
+SL,Jeff Samardzija,467827,Called Strike,null,null
+FC,Jeff Samardzija,518934,Ball,null,null
+FT,Jeff Samardzija,518934,Ball,null,null
+SL,Jeff Samardzija,518934,Called Strike,null,null
+FC,Jeff Samardzija,518934,Foul,null,null
+FT,Jeff Samardzija,518934,Ball,null,null
+FC,Jeff Samardzija,518934,Ball,null,null
+FT,Jeff Samardzija,572019,Foul,null,null
+FC,Jeff Samardzija,572019,Foul,null,null
+FF,Jeff Samardzija,572019,Swinging Strike,null,null
+FF,Jeff Samardzija,572019,Ball,null,null
+FC,Jeff Samardzija,572019,Swinging Strike,null,null
+FS,Jeff Samardzija,572863,Ball,null,null
+FC,Jeff Samardzija,572863,Called Strike,null,null
+FS,Jeff Samardzija,572863,"In play, out(s)",75.7,30.14
+FC,Jeff Samardzija,453568,Foul,null,null
+FT,Jeff Samardzija,453568,Ball,null,null
+FC,Jeff Samardzija,453568,"In play, no out",93.4,-4.52
+FC,Jeff Samardzija,596115,Foul,null,null
+FF,Jeff Samardzija,596115,Ball,null,null
+FC,Jeff Samardzija,596115,Ball,null,null
+SL,Jeff Samardzija,596115,Called Strike,null,null
+FF,Jeff Samardzija,596115,"In play, out(s)",98.4,42.37
+FC,Jeff Samardzija,471865,Ball,null,null
+FT,Jeff Samardzija,471865,Swinging Strike,null,null
+FC,Jeff Samardzija,471865,Swinging Strike,null,null
+FC,Jeff Samardzija,471865,"In play, out(s)",108.2,14.57
+FC,Jeff Samardzija,471865,Ball,null,null
+FC,Jeff Samardzija,571448,Foul,null,null
+SL,Jeff Samardzija,571448,Called Strike,null,null
+FT,Jeff Samardzija,571448,"In play, no out",104.8,14.39
+FC,Jeff Samardzija,572019,Ball,null,null
+FC,Jeff Samardzija,572019,"In play, out(s)",61.5,12.85
+FF,Jeff Samardzija,542436,Foul,null,null
+FC,Jeff Samardzija,542436,Swinging Strike,null,null
+FC,Jeff Samardzija,542436,"In play, out(s)",77.2,35.19
+SL,Jeff Samardzija,542436,Ball,null,null
+FC,Jeff Samardzija,572863,Called Strike,null,null
+SL,Jeff Samardzija,572863,"In play, no out",93,15.61
+FC,Jeff Samardzija,571740,Ball,null,null
+FC,Jeff Samardzija,571740,Foul,null,null
+FC,Jeff Samardzija,571740,Called Strike,null,null
+SL,Jeff Samardzija,571740,Swinging Strike,null,null
+FF,Jeff Samardzija,571740,"In play, out(s)",87.6,-39.1
+FC,Jeff Samardzija,474443,Ball,null,null
+FT,Jeff Samardzija,474443,Ball,null,null
+FC,Jeff Samardzija,474443,Foul,null,null
+SL,Jeff Samardzija,474443,Called Strike,null,null
+FF,Jeff Samardzija,474443,Ball,null,null
+SL,Jeff Samardzija,474443,Called Strike,null,null
+SL,Jeff Samardzija,474443,Foul,null,null
+FT,Jeff Samardzija,474443,Foul,null,null
+FF,Jeff Samardzija,474443,Ball,null,null
+FT,Jeff Samardzija,458015,Called Strike,null,null
+FC,Jeff Samardzija,458015,Called Strike,null,null
+FC,Jeff Samardzija,458015,Swinging Strike,null,null
+FC,Jeff Samardzija,408252,Swinging Strike,null,null
+FC,Jeff Samardzija,408252,Swinging Strike,null,null
+FC,Jeff Samardzija,408252,Foul,null,null
+FF,Jeff Samardzija,457803,"In play, out(s)",91.2,62.66
+FC,Jeff Samardzija,457803,Ball,null,null
+FF,Jeff Samardzija,553993,Ball,null,null
+SL,Jeff Samardzija,553993,Foul,null,null
+FF,Jeff Samardzija,553993,Called Strike,null,null
+FF,Jeff Samardzija,553993,Called Strike,null,null
+FF,Jeff Samardzija,594807,Ball,null,null
+FT,Jeff Samardzija,594807,Swinging Strike,null,null
+FT,Jeff Samardzija,594807,"In play, out(s)",54.1,-18.75
+SL,Jeff Samardzija,594807,Called Strike,null,null
+FT,Jeff Samardzija,571466,"In play, out(s)",74,-11.3
+FS,Jeff Samardzija,543424,Ball,null,null
+FC,Jeff Samardzija,543424,Swinging Strike,null,null
+FT,Jeff Samardzija,543424,Called Strike,null,null
+FT,Jeff Samardzija,543424,Called Strike,null,null
+FT,Jeff Samardzija,571740,"In play, out(s)",95.9,-24.8
+FT,Jeff Samardzija,571740,Called Strike,null,null
+SL,Jeff Samardzija,474443,Called Strike,null,null
+FC,Jeff Samardzija,474443,Foul,null,null
+FC,Jeff Samardzija,474443,"In play, out(s)",73.2,25.74
+FF,Jeff Samardzija,474443,Ball,null,null
+FC,Jeff Samardzija,458015,Foul,null,null
+SL,Jeff Samardzija,458015,Called Strike,null,null
+FC,Jeff Samardzija,458015,Called Strike,null,null
+FF,Jeff Samardzija,408252,Swinging Strike,null,null
+FC,Jeff Samardzija,408252,Foul,null,null
+FT,Jeff Samardzija,408252,Foul,null,null
+FC,Jeff Samardzija,408252,Ball,null,null
+FF,Jeff Samardzija,408252,Ball,null,null
+FC,Jeff Samardzija,408252,"In play, no out",89.2,4.66
+FF,Jeff Samardzija,553993,Ball,null,null
+FT,Jeff Samardzija,553993,Foul,null,null
+SL,Jeff Samardzija,553993,Foul,null,null
+SL,Jeff Samardzija,553993,Foul,null,null
+FC,Jeff Samardzija,553993,Swinging Strike,null,null
+FT,Jeff Samardzija,594807,Ball,null,null
+FC,Jeff Samardzija,594807,"In play, run(s)",97.9,30.47
+FT,Jeff Samardzija,594807,Swinging Strike,null,null
+FC,Jeff Samardzija,594807,Swinging Strike,null,null
+FS,Jeff Samardzija,543424,Ball,null,null
+FT,Jeff Samardzija,543424,Called Strike,null,null
+FC,Jeff Samardzija,543424,Called Strike,null,null
+FT,Jeff Samardzija,543424,Called Strike,null,null
+FT,Jeff Samardzija,534627,Called Strike,null,null
+FT,Jeff Samardzija,534627,Foul,null,null
+FC,Jeff Samardzija,534627,"In play, out(s)",77.2,25.37
+FT,Jeff Samardzija,474443,Swinging Strike,null,null
+FT,Jeff Samardzija,474443,Ball,null,null
+FT,Jeff Samardzija,474443,"In play, out(s)",91.1,-19.24
+FC,Jeff Samardzija,474443,Ball,null,null
+FF,Jeff Samardzija,458015,Foul,null,null
+FS,Jeff Samardzija,458015,Ball,null,null
+SL,Jeff Samardzija,458015,Ball,null,null
+FS,Jeff Samardzija,458015,Ball,null,null
+FF,Jeff Samardzija,458015,Ball,null,null
+FT,Jeff Samardzija,408252,Ball,null,null
+FC,Jeff Samardzija,408252,"In play, out(s)",88.5,21.1
+FF,Jeff Samardzija,408252,Ball,null,null
+FS,Jeff Samardzija,457803,Ball,null,null
+SL,Jeff Samardzija,457803,Foul,null,null
+FT,Jeff Samardzija,457803,Foul,null,null
+FC,Jeff Samardzija,457803,Foul,null,null
+FS,Jeff Samardzija,457803,Ball,null,null
+FC,Jeff Samardzija,457803,Ball,null,null
+FC,Jeff Samardzija,457803,Swinging Strike,null,null
+FC,Jeff Samardzija,553993,Ball,null,null
+SL,Jeff Samardzija,553993,Called Strike,null,null
+FT,Jeff Samardzija,553993,"In play, out(s)",74.6,-17.99
+FT,Jeff Samardzija,553993,Foul,null,null
+FT,Jeff Samardzija,553993,Ball,null,null
+FT,Jeff Samardzija,594807,"In play, out(s)",91.5,-32.34
+FT,Jeff Samardzija,594807,Called Strike,null,null
+FC,Jeff Samardzija,571466,Swinging Strike,null,null
+FF,Jeff Samardzija,571466,Swinging Strike,null,null
+FT,Jeff Samardzija,571466,Called Strike,null,null
+SL,Jeff Samardzija,534627,Called Strike,null,null
+FF,Jeff Samardzija,534627,"In play, no out",90.1,10.52
+FT,Jeff Samardzija,534627,Ball,null,null
+FC,Jeff Samardzija,594988,Ball,null,null
+FC,Jeff Samardzija,594988,Ball,null,null
+FC,Jeff Samardzija,594988,"In play, out(s)",53.4,-38.41
+FC,Jeff Samardzija,474443,Called Strike,null,null
+FF,Jeff Samardzija,474443,Foul,null,null
+SL,Jeff Samardzija,474443,Ball,null,null
+FC,Jeff Samardzija,474443,Foul (Runner Going),null,null
+FC,Jeff Samardzija,474443,Ball,null,null
+FT,Jeff Samardzija,474443,Ball,null,null
+SL,Jeff Samardzija,474443,"In play, out(s)",58.3,-23.53
+FS,Jeff Samardzija,571466,Swinging Strike,null,null
+FT,Jeff Samardzija,571466,Called Strike,null,null
+FT,Jeff Samardzija,571466,"In play, out(s)",76.5,1.76
+FF,Jeff Samardzija,457803,Called Strike,null,null
+FC,Jeff Samardzija,457803,Ball,null,null
+FC,Jeff Samardzija,457803,Called Strike,null,null
+FC,Jeff Samardzija,457803,"In play, out(s)",91.3,-2.63
+FT,Jeff Samardzija,445055,Foul,null,57.19
+SL,Jeff Samardzija,445055,Swinging Strike,null,null
+FC,Jeff Samardzija,445055,Ball,null,null
+FT,Jeff Samardzija,445055,Foul,null,14.15
+FT,Jeff Samardzija,571976,Ball,null,null
+FT,Jeff Samardzija,571976,Ball,null,null
+FT,Jeff Samardzija,571976,"In play, out(s)",79.4,-13.66
+FC,Jeff Samardzija,461314,Ball,null,null
+FT,Jeff Samardzija,461314,Ball,null,null
+FT,Jeff Samardzija,461314,"In play, out(s)",95.1,27.24
+FT,Jeff Samardzija,461314,Ball,null,null
+FC,Jeff Samardzija,461314,Called Strike,null,null
+FF,Jeff Samardzija,425834,Ball,null,null
+FT,Jeff Samardzija,425834,Called Strike,null,null
+FC,Jeff Samardzija,425834,Swinging Strike,null,null
+FC,Jeff Samardzija,425834,Ball,null,null
+FC,Jeff Samardzija,425834,Ball,null,null
+FT,Jeff Samardzija,425834,"In play, out(s)",94.1,-21.36
+FC,Jeff Samardzija,519083,Called Strike,null,null
+SL,Jeff Samardzija,519083,Called Strike,null,null
+FT,Jeff Samardzija,519083,Ball,null,null
+FT,Jeff Samardzija,519083,Ball,null,null
+FF,Jeff Samardzija,519083,Ball,null,null
+FC,Jeff Samardzija,519083,Foul Tip,null,null
+FT,Jeff Samardzija,488768,Ball,null,null
+FF,Jeff Samardzija,488768,Foul,null,null
+SL,Jeff Samardzija,488768,Ball,null,null
+FF,Jeff Samardzija,488768,Foul,null,null
+SL,Jeff Samardzija,488768,Foul,null,null
+FT,Jeff Samardzija,488768,Ball,null,null
+FF,Jeff Samardzija,488768,"In play, run(s)",82.6,-19.75
+FC,Jeff Samardzija,445055,Ball,null,17.11
+FS,Jeff Samardzija,445055,"In play, no out",90.9,17.11
+FT,Jeff Samardzija,445055,Foul,null,null
+SL,Jeff Samardzija,571976,Ball,null,null
+FT,Jeff Samardzija,571976,Foul Tip,null,null
+FT,Jeff Samardzija,571976,Ball,null,null
+FT,Jeff Samardzija,571976,Called Strike,null,null
+FT,Jeff Samardzija,571976,Foul,null,-50.56
+FT,Jeff Samardzija,461314,"In play, run(s)",104.3,27.44
+FC,Jeff Samardzija,461314,Ball,null,null
+SL,Jeff Samardzija,425834,Swinging Strike,null,null
+SL,Jeff Samardzija,425834,Swinging Strike,null,null
+SL,Jeff Samardzija,425834,Swinging Strike,null,null
+FT,Jeff Samardzija,477165,Ball,null,null
+FC,Jeff Samardzija,477165,Ball,null,null
+FT,Jeff Samardzija,477165,Ball,null,null
+FF,Jeff Samardzija,477165,Called Strike,null,null
+FC,Jeff Samardzija,477165,Ball,null,null
+FF,Jeff Samardzija,493351,"In play, out(s)",99,15.9
+FT,Jeff Samardzija,457789,Called Strike,null,null
+FS,Jeff Samardzija,457789,Called Strike,null,null
+FS,Jeff Samardzija,457789,Ball,null,null
+FF,Jeff Samardzija,457789,Ball,null,null
+FC,Jeff Samardzija,457789,Foul,null,null
+SL,Jeff Samardzija,457789,Swinging Strike,null,null
+FC,Jeff Samardzija,608671,Foul,null,30.66
+FF,Jeff Samardzija,608671,Foul Tip,null,null
+FT,Jeff Samardzija,608671,Called Strike,null,null
+SL,Jeff Samardzija,608671,Foul,null,null
+FS,Jeff Samardzija,608671,Ball,null,null
+FC,Jeff Samardzija,608671,Ball,null,null
+FT,Jeff Samardzija,571976,Ball,null,null
+FC,Jeff Samardzija,571976,Ball,null,null
+SL,Jeff Samardzija,571976,Ball,null,null
+FT,Jeff Samardzija,571976,Ball,null,null
+SL,Jeff Samardzija,461314,Called Strike,null,null
+FT,Jeff Samardzija,461314,Called Strike,null,null
+FF,Jeff Samardzija,461314,"In play, out(s)",93.3,32.69
+SL,Jeff Samardzija,425834,Called Strike,null,null
+SL,Jeff Samardzija,425834,Ball,null,null
+SL,Jeff Samardzija,425834,Swinging Strike,null,null
+SL,Jeff Samardzija,425834,Foul,null,null
+SL,Jeff Samardzija,425834,Ball,null,null
+FF,Jeff Samardzija,477165,Foul Tip,null,null
+FF,Jeff Samardzija,477165,"In play, run(s)",108.9,23.79
+FC,Jeff Samardzija,477165,Ball,null,null
+FF,Jeff Samardzija,445055,Swinging Strike,null,null
+SL,Jeff Samardzija,445055,"In play, out(s)",92,11.72
+SL,Jeff Samardzija,445055,Called Strike,null,null
+FC,Jeff Samardzija,477165,"In play, out(s)",null,null
+FT,Jeff Samardzija,477165,Ball,null,null
+FC,Jeff Samardzija,457789,Foul,null,null
+FF,Jeff Samardzija,457789,Ball,null,null
+FF,Jeff Samardzija,457789,Foul,null,null
+FC,Jeff Samardzija,457789,Foul,null,null
+FC,Jeff Samardzija,457789,Ball,null,null
+FC,Jeff Samardzija,457789,Ball,null,null
+FC,Jeff Samardzija,457789,"In play, run(s)",101.4,28.25
+SL,Jeff Samardzija,519083,"In play, out(s)",102.7,-8.43
+FF,Jeff Samardzija,519083,Called Strike,null,null
+FT,Jeff Samardzija,493351,Called Strike,null,null
+FC,Jeff Samardzija,493351,"In play, no out",83.6,18.18
+FF,Jeff Samardzija,493351,Ball,null,null
+FT,Jeff Samardzija,493351,Foul,null,-28.89
+FS,Jeff Samardzija,518618,Foul,null,null
+FC,Jeff Samardzija,518618,Foul,null,null
+FF,Jeff Samardzija,518618,Foul,null,null
+FT,Jeff Samardzija,518618,Foul,null,null
+FS,Jeff Samardzija,518618,"In play, out(s)",106.7,-10.56
+FF,Jeff Samardzija,519317,Ball,null,null
+FC,Jeff Samardzija,519317,Ball,null,null
+FT,Jeff Samardzija,519317,Foul,null,null
+FT,Jeff Samardzija,519317,Foul,null,null
+FC,Jeff Samardzija,519317,"In play, out(s)",90.7,-7.7
+SL,Jeff Samardzija,543054,"In play, out(s)",62.4,-62.78
+FC,Jeff Samardzija,543054,Called Strike,null,null
+SL,Jeff Samardzija,588751,"In play, out(s)",74.1,-17.29
+FF,Jeff Samardzija,588751,Ball,null,null
+FC,Jeff Samardzija,588751,Called Strike,null,null
+FT,Jeff Samardzija,519317,Swinging Strike,null,null
+FC,Jeff Samardzija,519317,Called Strike,null,null
+FT,Jeff Samardzija,519317,Ball,null,null
+FC,Jeff Samardzija,519317,Ball,null,null
+FT,Jeff Samardzija,519317,"In play, out(s)",74.4,-15.22
+FF,Jeff Samardzija,592663,"In play, out(s)",75.7,-35.42
+FS,Jeff Samardzija,518618,"In play, out(s)",71.9,80.92
+FC,Jeff Samardzija,518618,Called Strike,null,null
+FF,Jeff Samardzija,543829,Foul,null,null
+FC,Jeff Samardzija,543829,Called Strike,null,null
+FS,Jeff Samardzija,543829,"In play, out(s)",77.5,47
+FC,Jeff Samardzija,592885,Ball,null,null
+FF,Jeff Samardzija,592885,"In play, out(s)",105.9,-6.87
+SL,Jeff Samardzija,571506,Called Strike,null,null
+FC,Jeff Samardzija,571506,"In play, out(s)",76.9,46.55
+FC,Jeff Samardzija,542303,Ball,null,null
+FC,Jeff Samardzija,542303,Called Strike,null,null
+FF,Jeff Samardzija,542303,Called Strike,null,null
+SL,Jeff Samardzija,542303,Swinging Strike,null,null
+FT,Jeff Samardzija,542303,Ball,null,null
+SL,Jeff Samardzija,542303,Ball,null,null
+FC,Jeff Samardzija,592663,Swinging Strike,null,null
+FC,Jeff Samardzija,592663,Ball,null,null
+FT,Jeff Samardzija,592663,Foul,null,null
+FC,Jeff Samardzija,592663,Ball,null,null
+FF,Jeff Samardzija,592663,Foul,null,null
+SL,Jeff Samardzija,592663,"In play, out(s)",78.3,-13.11
+FF,Jeff Samardzija,542303,Foul,null,null
+FC,Jeff Samardzija,542303,Foul,null,null
+FC,Jeff Samardzija,542303,Swinging Strike,null,null
+SL,Jeff Samardzija,542303,Ball,null,null
+SL,Jeff Samardzija,542303,"In play, no out",85.5,16.53
+FC,Jeff Samardzija,518618,Foul,null,null
+FC,Jeff Samardzija,518618,Called Strike,null,null
+FC,Jeff Samardzija,518618,Ball,null,null
+FT,Jeff Samardzija,518618,Foul,null,null
+FT,Jeff Samardzija,588751,Called Strike,null,null
+FF,Jeff Samardzija,588751,"In play, out(s)",95.1,8.53
+FT,Jeff Samardzija,588751,Ball,null,null
+FC,Jeff Samardzija,588751,Ball,null,null
+FC,Jeff Samardzija,588751,Ball,null,null
+FT,Jeff Samardzija,588751,Swinging Strike,null,null
+FS,Jeff Samardzija,543829,Called Strike,null,null
+FS,Jeff Samardzija,543829,Ball,null,null
+SL,Jeff Samardzija,543829,Ball,null,null
+SL,Jeff Samardzija,543829,Swinging Strike,null,null
+FF,Jeff Samardzija,543829,Foul,null,null
+FC,Jeff Samardzija,543829,Swinging Strike,null,null
+FC,Jeff Samardzija,592663,Swinging Strike,null,null
+SL,Jeff Samardzija,592663,Called Strike,null,null
+FT,Jeff Samardzija,592663,Ball,null,null
+FC,Jeff Samardzija,592663,Ball,null,null
+FT,Jeff Samardzija,592663,"In play, out(s)",108,-11.21
+FS,Jeff Samardzija,571506,Foul,null,null
+FC,Jeff Samardzija,571506,Foul Tip,null,null
+FF,Jeff Samardzija,571506,Ball,null,null
+FF,Jeff Samardzija,571506,Foul,null,null
+FF,Jeff Samardzija,542303,Ball,null,null
+FC,Jeff Samardzija,542303,"In play, out(s)",82.6,9.93
+SL,Jeff Samardzija,588751,Foul,null,null
+FF,Jeff Samardzija,588751,Ball,null,null
+SL,Jeff Samardzija,588751,Called Strike,null,null
+SL,Jeff Samardzija,588751,Ball,null,null
+FC,Jeff Samardzija,588751,"In play, out(s)",82.5,-21.99
+SL,Jeff Samardzija,592663,Called Strike,null,null
+FF,Jeff Samardzija,592663,Swinging Strike,null,null
+FC,Jeff Samardzija,592663,Foul,null,null
+FC,Jeff Samardzija,592663,Ball,null,null
+FF,Jeff Samardzija,592663,Swinging Strike,null,null
+FS,Jeff Samardzija,571506,"In play, run(s)",76.6,13.42
+FF,Jeff Samardzija,571506,Called Strike,null,null
+FC,Jeff Samardzija,592885,Foul,null,null
+FF,Jeff Samardzija,592885,Foul,null,null
+FT,Jeff Samardzija,592885,Ball,null,null
+FC,Jeff Samardzija,592885,Called Strike,null,null
+FC,Jeff Samardzija,592885,Ball,null,null
+FC,Jeff Samardzija,592885,"In play, no out",104.2,15.21
+FC,Jeff Samardzija,543829,Called Strike,null,null
+FF,Jeff Samardzija,543829,"In play, no out",88.7,11.74
+FF,Jeff Samardzija,543829,Ball,null,null
+FS,Jeff Samardzija,543829,Ball,null,null
+FC,Jeff Samardzija,543829,Ball,null,null
+FC,Jeff Samardzija,543829,Swinging Strike,null,null
+FC,Jeff Samardzija,543054,"In play, no out",103.3,11.91
+SL,Jeff Samardzija,400085,Called Strike,null,null
+FC,Jeff Samardzija,400085,Ball,null,null
+FF,Jeff Samardzija,400085,Called Strike,null,null
+FF,Jeff Samardzija,400085,Foul,null,null
+FC,Jeff Samardzija,400085,"In play, out(s)",73.9,-4.96
+SL,Jeff Samardzija,592885,Foul,null,null
+SL,Jeff Samardzija,592885,Ball,null,null
+FT,Jeff Samardzija,592885,Called Strike,null,null
+FF,Jeff Samardzija,592885,Ball,null,null
+FC,Jeff Samardzija,592885,"In play, no out",100.7,13.32
+SL,Jeff Samardzija,543829,Called Strike,null,null
+FC,Jeff Samardzija,543829,Foul,null,null
+FC,Jeff Samardzija,543829,Ball,null,null
+SL,Jeff Samardzija,543829,Foul,null,null
+FC,Jeff Samardzija,543829,Ball,null,null
+FS,Jeff Samardzija,543829,"In play, out(s)",87.8,35.52
+FC,Jeff Samardzija,519317,"In play, out(s)",102.9,36.41
+FC,Jeff Samardzija,519317,Swinging Strike,null,null
+FC,Jeff Samardzija,457759,Ball,null,null
+FC,Jeff Samardzija,457759,Foul,null,null
+FC,Jeff Samardzija,457759,Ball,null,null
+FF,Jeff Samardzija,457759,Called Strike,null,null
+FF,Jeff Samardzija,457759,Swinging Strike,null,null
+FF,Jeff Samardzija,457759,"In play, out(s)",98.4,31.73
+FT,Jeff Samardzija,624577,Ball,null,null
+FT,Jeff Samardzija,624577,Foul,null,null
+FC,Jeff Samardzija,624577,Swinging Strike,null,null
+FF,Jeff Samardzija,624577,Swinging Strike,null,null
+FC,Jeff Samardzija,518735,Swinging Strike,null,null
+FS,Jeff Samardzija,518735,Ball,null,null
+FT,Jeff Samardzija,518735,"In play, no out",108.5,1.59
+FF,Jeff Samardzija,518735,Ball,null,null
+FC,Jeff Samardzija,518735,Ball,null,null
+FC,Jeff Samardzija,435062,Ball,null,null
+SL,Jeff Samardzija,435062,"In play, out(s)",77.2,13.51
+FT,Jeff Samardzija,435062,Called Strike,null,null
+FF,Jeff Samardzija,592626,"In play, out(s)",92.6,54.42
+FT,Jeff Samardzija,400284,Called Strike,null,null
+FS,Jeff Samardzija,400284,Ball,null,null
+FF,Jeff Samardzija,400284,Called Strike,null,null
+FS,Jeff Samardzija,400284,Called Strike,null,null
+FF,Jeff Samardzija,400284,Ball,null,null
+FC,Jeff Samardzija,608369,Ball,null,null
+FC,Jeff Samardzija,608369,Ball,null,null
+FS,Jeff Samardzija,608369,Foul,null,null
+FT,Jeff Samardzija,608369,"In play, no out",105.1,-8.08
+FT,Jeff Samardzija,457759,Ball,null,null
+FF,Jeff Samardzija,457759,Foul,null,null
+FC,Jeff Samardzija,457759,Foul,null,null
+FT,Jeff Samardzija,457759,Ball,null,null
+FF,Jeff Samardzija,457759,Foul,null,null
+FF,Jeff Samardzija,457759,Called Strike,null,null
+FT,Jeff Samardzija,457759,Ball,null,null
+FC,Jeff Samardzija,457759,Ball,null,null
+FC,Jeff Samardzija,408236,"In play, out(s)",80.2,0.11
+FF,Jeff Samardzija,408236,Ball,null,null
+FC,Jeff Samardzija,624577,Ball,null,null
+SL,Jeff Samardzija,624577,Swinging Strike,null,null
+FF,Jeff Samardzija,624577,Foul,null,null
+FC,Jeff Samardzija,624577,Swinging Strike,null,null
+FS,Jeff Samardzija,518735,Ball,null,null
+FT,Jeff Samardzija,518735,Ball,null,null
+FC,Jeff Samardzija,518735,Ball,null,null
+FS,Jeff Samardzija,518735,Called Strike,null,null
+FC,Jeff Samardzija,518735,Ball,null,null
+FT,Jeff Samardzija,435062,"In play, out(s)",98.5,23.6
+FT,Jeff Samardzija,435062,Ball,null,null
+FT,Jeff Samardzija,592626,Ball,null,null
+FF,Jeff Samardzija,592626,Foul,null,null
+FC,Jeff Samardzija,592626,Ball,null,null
+FF,Jeff Samardzija,592626,Swinging Strike,null,null
+FF,Jeff Samardzija,592626,"In play, run(s)",104.7,31.25
+FS,Jeff Samardzija,400284,Ball,null,null
+FS,Jeff Samardzija,400284,Ball,null,null
+FC,Jeff Samardzija,400284,Swinging Strike,null,null
+FT,Jeff Samardzija,400284,"In play, no out",95.8,0.42
+FT,Jeff Samardzija,608369,"In play, out(s)",91.9,-10.2
+FF,Jeff Samardzija,608369,Ball,null,null
+SL,Jeff Samardzija,457759,"In play, out(s)",74.4,53.79
+FC,Jeff Samardzija,457759,Ball,null,null
+FT,Jeff Samardzija,408236,"In play, out(s)",93.7,-0.04
+FC,Jeff Samardzija,408236,Foul,null,null
+FT,Jeff Samardzija,624577,Swinging Strike,null,null
+FC,Jeff Samardzija,624577,"In play, no out",99.4,8.8
+FF,Jeff Samardzija,624577,Called Strike,null,null
+FT,Jeff Samardzija,518735,Called Strike,null,null
+FC,Jeff Samardzija,518735,Ball,null,null
+FT,Jeff Samardzija,518735,Ball,null,null
+FC,Jeff Samardzija,518735,"In play, run(s)",83,1.73
+FT,Jeff Samardzija,435062,Foul,null,null
+FF,Jeff Samardzija,435062,Ball,null,null
+FT,Jeff Samardzija,435062,Foul,null,null
+FT,Jeff Samardzija,435062,Ball,null,null
+FC,Jeff Samardzija,435062,Ball,null,null
+SL,Jeff Samardzija,435062,Ball,null,null
+FF,Jeff Samardzija,628317,Foul,null,null
+FF,Jeff Samardzija,628317,"In play, out(s)",70.1,-10.95
+FF,Jeff Samardzija,628317,Ball,null,null
+FC,Jeff Samardzija,628317,Ball,null,null
+FT,Jeff Samardzija,628317,"In play, out(s)",null,null
+FC,Jeff Samardzija,628317,Called Strike,null,null
+FC,Jeff Samardzija,628317,Foul,null,null
+FS,Jeff Samardzija,408236,Called Strike,null,null
+FC,Jeff Samardzija,408236,Ball,null,null
+FC,Jeff Samardzija,408236,"In play, out(s)",91.9,-21.48
+FC,Jeff Samardzija,408236,Swinging Strike,null,null
+FS,Jeff Samardzija,608369,Swinging Strike,null,null
+FC,Jeff Samardzija,608369,"In play, out(s)",66.9,-46.13
+FF,Jeff Samardzija,608369,Called Strike,null,null
+FC,Jeff Samardzija,400284,Ball,null,null
+FC,Jeff Samardzija,400284,Called Strike,null,null
+FC,Jeff Samardzija,400284,"In play, out(s)",null,null
+FC,Jeff Samardzija,453568,Foul,null,null
+FS,Jeff Samardzija,453568,Ball,null,null
+FC,Jeff Samardzija,453568,"In play, out(s)",83.7,9.17
+FC,Jeff Samardzija,453568,Ball,null,null
+FF,Jeff Samardzija,453568,Called Strike,null,null
+FC,Jeff Samardzija,543022,Ball,null,null
+FF,Jeff Samardzija,543022,"In play, out(s)",94.8,-33.96
+FT,Jeff Samardzija,543022,Called Strike,null,null
+FF,Jeff Samardzija,543022,Called Strike,null,null
+FC,Jeff Samardzija,596115,Ball,null,null
+FT,Jeff Samardzija,596115,"In play, out(s)",65.4,-42.74
+FC,Jeff Samardzija,596115,Called Strike,null,null
+FF,Jeff Samardzija,596115,Ball,null,null
+FF,Jeff Samardzija,471865,"In play, no out",103.5,-22.9
+SL,Jeff Samardzija,471865,Called Strike,null,null
+FC,Jeff Samardzija,471865,Foul,null,null
+FF,Jeff Samardzija,571448,Ball In Dirt,null,null
+FC,Jeff Samardzija,571448,Ball,null,null
+FF,Jeff Samardzija,571448,Ball,null,null
+FF,Jeff Samardzija,571448,"In play, out(s)",75.8,42.77
+FC,Jeff Samardzija,467827,"In play, no out",97.7,0
+FT,Jeff Samardzija,467827,Called Strike,null,null
+FT,Jeff Samardzija,467827,Foul,null,null
+FF,Jeff Samardzija,448602,"In play, no out",107.2,-4.16
+FF,Jeff Samardzija,460026,Foul,null,null
+SL,Jeff Samardzija,460026,"In play, run(s)",97.6,-0.77
+FF,Jeff Samardzija,460026,Ball,null,null
+SL,Jeff Samardzija,460026,Ball,null,null
+FF,Jeff Samardzija,460026,Called Strike,null,null
+FC,Jeff Samardzija,518934,"In play, no out",81,17.5
+SL,Jeff Samardzija,518934,Called Strike,null,null
+FF,Jeff Samardzija,518934,Ball,null,null
+FF,Jeff Samardzija,596115,Called Strike,null,null
+FC,Jeff Samardzija,596115,Ball,null,null
+FF,Jeff Samardzija,596115,Foul Tip,null,null
+FF,Jeff Samardzija,596115,Ball,null,null
+FC,Jeff Samardzija,596115,Ball,null,null
+FC,Jeff Samardzija,596115,Swinging Strike,null,null
+FF,Jeff Samardzija,471865,"In play, out(s)",105.5,-28.28
+FC,Jeff Samardzija,471865,Ball,null,null
+FS,Jeff Samardzija,471865,Ball,null,null
+FC,Jeff Samardzija,471865,Called Strike,null,null
+FT,Jeff Samardzija,571448,Foul,null,null
+FC,Jeff Samardzija,571448,Called Strike,null,null
+SL,Jeff Samardzija,571448,Foul,null,null
+FC,Jeff Samardzija,571448,Ball,null,null
+FC,Jeff Samardzija,467827,Ball,null,null
+FF,Jeff Samardzija,467827,"In play, out(s)",75.5,44.21
+SL,Jeff Samardzija,448602,Ball,null,null
+FC,Jeff Samardzija,448602,Ball,null,null
+FC,Jeff Samardzija,448602,Ball,null,null
+FC,Jeff Samardzija,448602,Swinging Strike,null,null
+SL,Jeff Samardzija,448602,Ball,null,null
+FC,Jeff Samardzija,448602,Foul,null,null
+FC,Jeff Samardzija,460026,Swinging Strike,null,null
+SL,Jeff Samardzija,460026,Ball,null,null
+FF,Jeff Samardzija,460026,Ball,null,null
+FF,Jeff Samardzija,460026,Foul (Runner Going),null,null
+FC,Jeff Samardzija,460026,Ball,null,null
+FF,Jeff Samardzija,460026,Ball,null,null
+FF,Jeff Samardzija,460026,Called Strike,null,null
+FC,Jeff Samardzija,460026,Foul,null,null
+FC,Jeff Samardzija,460026,Foul,null,null
+FF,Jeff Samardzija,543022,Called Strike,null,null
+FF,Jeff Samardzija,543022,"In play, out(s)",94.6,-23.16
+FF,Jeff Samardzija,518934,Foul,null,null
+FF,Jeff Samardzija,518934,Foul,null,null
+SL,Jeff Samardzija,518934,"In play, out(s)",104.4,14.51
+FF,Jeff Samardzija,518934,Ball,null,null
+FF,Jeff Samardzija,518934,Foul,null,null
+FC,Jeff Samardzija,518934,Foul,null,null
+FF,Jeff Samardzija,453568,"In play, no out",112.6,-13.33
+FC,Jeff Samardzija,453568,Called Strike,null,null
+FS,Jeff Samardzija,453568,Ball,null,null
+FC,Jeff Samardzija,596115,Ball,null,null
+FF,Jeff Samardzija,596115,Foul,null,null
+FC,Jeff Samardzija,596115,Ball,null,null
+FT,Jeff Samardzija,596115,Swinging Strike,null,null
+FF,Jeff Samardzija,596115,Called Strike,null,null
+FC,Jeff Samardzija,596115,Swinging Strike,null,null
+FC,Jeff Samardzija,471865,"In play, no out",115.1,4.91
+FF,Jeff Samardzija,467827,Called Strike,null,null
+FS,Jeff Samardzija,467827,"In play, out(s)",84.4,52.01
+SL,Jeff Samardzija,460026,"In play, out(s)",null,null
+FC,Jeff Samardzija,572019,Ball,null,null
+FC,Jeff Samardzija,572019,Swinging Strike,null,null
+FC,Jeff Samardzija,572019,Swinging Strike,null,null
+FC,Jeff Samardzija,572019,Foul,null,null
+FT,Jeff Samardzija,518934,"In play, out(s)",81.3,32.16
+SL,Jeff Samardzija,453568,Ball,null,null
+FC,Jeff Samardzija,453568,"In play, out(s)",60.4,58.91
+FC,Jeff Samardzija,453568,Called Strike,null,null
+FC,Jeff Samardzija,453568,Ball,null,null
+SL,Jeff Samardzija,596115,Swinging Strike,null,null
+FC,Jeff Samardzija,596115,Swinging Strike,null,null
+FC,Jeff Samardzija,596115,Called Strike,null,null
+FC,Jeff Samardzija,596115,Ball,null,null
+SL,Jeff Samardzija,471865,Ball,null,null
+FC,Jeff Samardzija,471865,"In play, out(s)",84.9,55.78
+FS,Jeff Samardzija,453568,Ball,null,null
+FS,Jeff Samardzija,453568,Ball,null,null
+FF,Jeff Samardzija,453568,"In play, out(s)",98.4,-6.92
+FF,Jeff Samardzija,453568,Missed Bunt,null,null
+FC,Jeff Samardzija,453568,Called Strike,null,null
+SL,Jeff Samardzija,448602,Ball,null,null
+SL,Jeff Samardzija,448602,"In play, out(s)",null,null
+FC,Jeff Samardzija,571448,Called Strike,null,null
+FT,Jeff Samardzija,571448,"In play, out(s)",100.6,-12.95
+FF,Jeff Samardzija,571448,Ball,null,null
+FF,Jeff Samardzija,571448,Called Strike,null,null
+FC,Jeff Samardzija,571448,"In play, run(s)",81.2,57.71
+FC,Jeff Samardzija,570267,Foul,null,null
+FC,Jeff Samardzija,570267,Ball,null,null
+SL,Jeff Samardzija,570267,Ball,null,null
+SL,Jeff Samardzija,570267,Ball,null,null
+SL,Jeff Samardzija,570267,Ball,null,null
+FC,Jeff Samardzija,570267,Called Strike,null,null
+FT,Jeff Samardzija,571697,"In play, no out",82.3,2.12
+FT,Jeff Samardzija,571697,Called Strike,null,null
+FF,Jeff Samardzija,460075,"In play, run(s)",107.2,13.03
+FC,Jeff Samardzija,460075,Ball,null,null
+FC,Jeff Samardzija,474892,Swinging Strike,null,null
+FT,Jeff Samardzija,474892,Foul,null,null
+SL,Jeff Samardzija,474892,Foul,null,null
+FC,Jeff Samardzija,474892,Ball,null,null
+FC,Jeff Samardzija,474892,Ball,null,null
+FC,Jeff Samardzija,474892,Swinging Strike,null,null
+FC,Jeff Samardzija,570717,Foul,null,null
+FT,Jeff Samardzija,570717,Called Strike,null,null
+FT,Jeff Samardzija,570717,Foul,null,null
+FC,Jeff Samardzija,570717,Foul Tip,null,null
+FC,Jeff Samardzija,431094,Ball,null,null
+SL,Jeff Samardzija,431094,"In play, out(s)",71.5,31.53
+SL,Jeff Samardzija,431094,Called Strike,null,null
+FC,Jeff Samardzija,431094,Foul,null,null
+FC,Jeff Samardzija,543380,"In play, no out",74.6,20.8
+FC,Jeff Samardzija,543380,Foul,null,45.57
+FC,Jeff Samardzija,542340,Swinging Strike,null,null
+FF,Jeff Samardzija,542340,Ball,null,null
+FF,Jeff Samardzija,542340,Ball,null,null
+FC,Jeff Samardzija,542340,Ball,null,null
+FT,Jeff Samardzija,542340,Ball,null,null
+FC,Jeff Samardzija,570267,Foul,null,null
+FF,Jeff Samardzija,570267,"In play, run(s)",107.5,13.17
+FT,Jeff Samardzija,570267,Ball,null,null
+FC,Jeff Samardzija,571697,Foul,null,null
+FC,Jeff Samardzija,571697,Foul,null,null
+FF,Jeff Samardzija,571697,Foul,null,34.13
+SL,Jeff Samardzija,571697,Called Strike,null,null
+FC,Jeff Samardzija,571697,Called Strike,null,null
+FC,Jeff Samardzija,460075,Foul,null,48.16
+SL,Jeff Samardzija,460075,"In play, out(s)",99.8,40.92
+FT,Jeff Samardzija,460075,Ball,null,null
+SL,Jeff Samardzija,518960,Ball,null,null
+FT,Jeff Samardzija,518960,Called Strike,null,null
+SL,Jeff Samardzija,518960,"In play, out(s)",null,null
+FF,Jeff Samardzija,518960,Ball,null,null
+FC,Jeff Samardzija,474892,Called Strike,null,null
+FT,Jeff Samardzija,474892,"In play, run(s)",103.5,25.87
+FT,Jeff Samardzija,543380,Swinging Strike,null,null
+FF,Jeff Samardzija,543380,Called Strike,null,null
+FF,Jeff Samardzija,543380,Swinging Strike,null,null
+FS,Jeff Samardzija,542340,Ball,null,null
+FC,Jeff Samardzija,542340,Foul Bunt,null,-24.29
+FC,Jeff Samardzija,542340,Called Strike,null,null
+FT,Jeff Samardzija,542340,Called Strike,null,null
+FS,Jeff Samardzija,571697,Ball,null,null
+FT,Jeff Samardzija,571697,Ball,null,null
+FF,Jeff Samardzija,571697,Called Strike,null,null
+FT,Jeff Samardzija,571697,Ball,null,null
+FT,Jeff Samardzija,571697,Ball,null,null
+FF,Jeff Samardzija,460075,Foul,null,null
+FC,Jeff Samardzija,460075,Swinging Strike,null,null
+FT,Jeff Samardzija,460075,Foul,null,null
+FT,Jeff Samardzija,518960,"In play, no out",null,null
+FF,Jeff Samardzija,518960,Called Strike,null,null
+FT,Jeff Samardzija,570717,Ball,null,null
+FC,Jeff Samardzija,570717,"In play, out(s)",70.9,44.49
+FT,Jeff Samardzija,570717,Ball,null,null
+FT,Jeff Samardzija,570717,Called Strike,null,null
+FC,Jeff Samardzija,431094,Foul Tip,null,null
+FT,Jeff Samardzija,431094,Ball,null,null
+FC,Jeff Samardzija,431094,Called Strike,null,null
+FC,Jeff Samardzija,431094,Foul,null,51.52
+FF,Jeff Samardzija,431094,Ball,null,null
+SL,Jeff Samardzija,431094,"In play, no out",99,12.54
+FC,Jeff Samardzija,543590,Ball,null,null
+FT,Jeff Samardzija,543590,"In play, no out",95.4,-13.05
+FT,Jeff Samardzija,543590,Ball,null,null
+FC,Jeff Samardzija,543590,Foul,null,null
+FF,Jeff Samardzija,431094,Ball,null,null
+FC,Jeff Samardzija,431094,Ball,null,null
+FC,Jeff Samardzija,431094,"In play, out(s)",79.8,-16.76
+SL,Jeff Samardzija,431094,Called Strike,null,null
+FC,Jeff Samardzija,474892,"In play, out(s)",85.4,-8.56
+FT,Jeff Samardzija,518960,Called Strike,null,null
+FT,Jeff Samardzija,518960,"In play, out(s)",80.5,-16.78
+FT,Jeff Samardzija,518960,Ball,null,null
+SL,Jeff Samardzija,518960,Foul,null,null
+SL,Jeff Samardzija,570717,Called Strike,null,null
+FS,Jeff Samardzija,570717,Ball,null,null
+FT,Jeff Samardzija,570717,Ball,null,null
+FC,Jeff Samardzija,570717,"In play, out(s)",50.7,5.77
+SL,Jeff Samardzija,570267,Called Strike,null,null
+FC,Jeff Samardzija,570267,Ball,null,null
+SL,Jeff Samardzija,570267,Called Strike,null,null
+SL,Jeff Samardzija,570267,Ball,null,null
+SL,Jeff Samardzija,570267,Ball,null,null
+FF,Jeff Samardzija,570267,"In play, out(s)",92.7,-4

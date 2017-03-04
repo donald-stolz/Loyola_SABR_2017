@@ -1,0 +1,2796 @@
+pitch_type,player_name,batter,description,hit_speed,hit_angle
+FT,Carlos Rodon,572821,Ball,null,null
+FF,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,572821,Foul,null,null
+FT,Carlos Rodon,572821,Called Strike,null,null
+SL,Carlos Rodon,572821,Ball,null,null
+SL,Carlos Rodon,572821,Swinging Strike,null,null
+FT,Carlos Rodon,593871,Called Strike,null,null
+FT,Carlos Rodon,593871,Ball,null,null
+SL,Carlos Rodon,593871,Swinging Strike,null,null
+FF,Carlos Rodon,593871,Ball,null,null
+FT,Carlos Rodon,593871,Foul,null,null
+CH,Carlos Rodon,543257,Ball,null,null
+SL,Carlos Rodon,543257,Ball,null,null
+SL,Carlos Rodon,543257,Called Strike,null,null
+FT,Carlos Rodon,543257,Foul Tip,null,null
+FF,Carlos Rodon,543257,Ball,null,null
+SL,Carlos Rodon,543257,Called Strike,null,null
+FT,Carlos Rodon,593934,Ball,null,null
+FF,Carlos Rodon,593934,Called Strike,null,null
+FT,Carlos Rodon,593934,Foul,null,null
+SL,Carlos Rodon,593934,Swinging Strike,null,null
+SL,Carlos Rodon,573627,Ball,null,null
+FT,Carlos Rodon,573627,Called Strike,null,null
+CH,Carlos Rodon,573627,Swinging Strike,null,null
+CH,Carlos Rodon,573627,Foul,null,null
+FF,Carlos Rodon,500871,Swinging Strike,null,null
+FF,Carlos Rodon,500871,Ball,null,null
+SL,Carlos Rodon,500871,Swinging Strike (Blocked),null,null
+FT,Carlos Rodon,500871,Foul,null,null
+FF,Carlos Rodon,500871,Ball,null,null
+FF,Carlos Rodon,571974,Called Strike,null,null
+FF,Carlos Rodon,571974,Foul,null,null
+FF,Carlos Rodon,571974,Called Strike,null,null
+FF,Carlos Rodon,502582,"In play, no out",95.5,12.34
+SL,Carlos Rodon,502582,Swinging Strike,null,null
+SL,Carlos Rodon,502582,Ball,null,null
+FF,Carlos Rodon,621439,Foul,null,null
+SL,Carlos Rodon,621439,Ball In Dirt,null,null
+SL,Carlos Rodon,621439,Ball In Dirt,null,null
+SL,Carlos Rodon,621439,Ball,null,null
+FF,Carlos Rodon,621439,Ball,null,null
+FF,Carlos Rodon,621439,Called Strike,null,null
+CH,Carlos Rodon,572821,"In play, out(s)",92.3,-8.95
+CH,Carlos Rodon,572821,Swinging Strike,null,null
+CH,Carlos Rodon,593871,"In play, out(s)",78.2,26.21
+FF,Carlos Rodon,593871,Called Strike,null,null
+FF,Carlos Rodon,543257,"In play, out(s)",95.5,24.59
+CH,Carlos Rodon,543257,Ball,null,null
+FT,Carlos Rodon,593934,Called Strike,null,null
+FF,Carlos Rodon,593934,Foul,null,null
+SL,Carlos Rodon,593934,Swinging Strike,null,null
+CH,Carlos Rodon,593934,Called Strike,null,null
+FF,Carlos Rodon,573627,Called Strike,null,null
+SL,Carlos Rodon,573627,Swinging Strike,null,null
+FF,Carlos Rodon,573627,Ball,null,null
+CH,Carlos Rodon,573627,Swinging Strike,null,null
+FF,Carlos Rodon,500871,Foul,null,null
+CH,Carlos Rodon,500871,Ball,null,null
+FT,Carlos Rodon,500871,Called Strike,null,null
+FF,Carlos Rodon,500871,Ball,null,null
+FF,Carlos Rodon,500871,Foul Tip,null,null
+FF,Carlos Rodon,571974,Foul,null,null
+FF,Carlos Rodon,571974,"In play, out(s)",88.6,27.5
+SL,Carlos Rodon,571974,Ball,null,null
+FF,Carlos Rodon,502582,Ball,null,null
+FF,Carlos Rodon,502582,Called Strike,null,null
+SL,Carlos Rodon,502582,Ball,null,null
+FF,Carlos Rodon,502582,Called Strike,null,null
+FF,Carlos Rodon,502582,Ball,null,null
+FF,Carlos Rodon,502582,Ball,null,null
+FF,Carlos Rodon,621439,Called Strike,null,null
+FT,Carlos Rodon,621439,"In play, no out",90.8,-28.55
+FF,Carlos Rodon,621439,Ball,null,null
+CH,Carlos Rodon,621439,Ball,null,null
+FF,Carlos Rodon,593871,Called Strike,null,null
+FF,Carlos Rodon,593871,Ball,null,null
+FF,Carlos Rodon,593871,Foul,null,null
+FF,Carlos Rodon,593871,"In play, run(s)",89.3,11.72
+CH,Carlos Rodon,543257,Ball,null,null
+FF,Carlos Rodon,543257,Called Strike,null,null
+SL,Carlos Rodon,543257,Ball,null,null
+FF,Carlos Rodon,543257,Ball,null,null
+FF,Carlos Rodon,543257,Called Strike,null,null
+SL,Carlos Rodon,543257,Ball,null,null
+SL,Carlos Rodon,593934,Ball,null,null
+FF,Carlos Rodon,593934,"In play, run(s)",96.7,31.86
+FF,Carlos Rodon,593934,Ball,null,null
+CH,Carlos Rodon,573627,Ball In Dirt,null,null
+FF,Carlos Rodon,573627,Ball,null,null
+FF,Carlos Rodon,573627,Called Strike,null,null
+FF,Carlos Rodon,573627,"In play, out(s)",92.4,-16.67
+FT,Carlos Rodon,572821,Called Strike,null,null
+FT,Carlos Rodon,572821,"In play, no out",99.8,15.19
+SL,Carlos Rodon,572821,Ball,null,null
+CH,Carlos Rodon,572821,Ball,null,null
+SL,Carlos Rodon,434658,"In play, out(s)",70.9,-44.74
+FF,Carlos Rodon,434658,Called Strike,null,null
+FT,Carlos Rodon,543401,Ball,null,null
+FF,Carlos Rodon,543401,Called Strike,null,null
+FF,Carlos Rodon,543401,Called Strike,null,null
+SL,Carlos Rodon,543401,Called Strike,null,null
+SL,Carlos Rodon,543401,Ball,null,null
+FF,Carlos Rodon,435063,Called Strike,null,null
+FT,Carlos Rodon,435063,Ball,null,null
+FT,Carlos Rodon,435063,Ball,null,null
+CH,Carlos Rodon,435063,Ball,null,null
+FT,Carlos Rodon,435063,Ball,null,null
+FF,Carlos Rodon,467793,"In play, out(s)",89.9,45.8
+CH,Carlos Rodon,467793,Ball,null,null
+FF,Carlos Rodon,446386,Called Strike,null,null
+FF,Carlos Rodon,446386,Called Strike,null,null
+FT,Carlos Rodon,446386,Called Strike,null,null
+FT,Carlos Rodon,424825,"In play, out(s)",85,-27.58
+FF,Carlos Rodon,424825,Ball,null,null
+SL,Carlos Rodon,460269,Ball,null,null
+FT,Carlos Rodon,460269,"In play, out(s)",108.1,17.91
+FF,Carlos Rodon,460269,Called Strike,null,null
+FT,Carlos Rodon,434658,Called Strike,null,null
+FT,Carlos Rodon,434658,Foul,null,null
+SL,Carlos Rodon,434658,Swinging Strike,null,null
+FF,Carlos Rodon,434658,Called Strike,null,null
+FT,Carlos Rodon,434658,Ball,null,null
+FT,Carlos Rodon,434658,Foul,null,null
+CH,Carlos Rodon,543401,Foul,null,null
+SL,Carlos Rodon,543401,Ball,null,null
+FT,Carlos Rodon,543401,Ball,null,null
+SL,Carlos Rodon,543401,Called Strike,null,null
+SL,Carlos Rodon,543401,Ball,null,null
+FF,Carlos Rodon,543401,Swinging Strike,null,null
+SL,Carlos Rodon,608070,Ball,null,null
+FF,Carlos Rodon,608070,Ball,null,null
+FT,Carlos Rodon,608070,Ball,null,null
+SL,Carlos Rodon,608070,Called Strike,null,null
+CH,Carlos Rodon,608070,Ball,null,null
+FF,Carlos Rodon,435063,Ball,null,null
+FF,Carlos Rodon,435063,Swinging Strike,null,null
+SL,Carlos Rodon,435063,Foul,null,null
+FF,Carlos Rodon,435063,Ball,null,null
+SL,Carlos Rodon,435063,Swinging Strike,null,null
+FT,Carlos Rodon,467793,Foul,null,null
+FF,Carlos Rodon,467793,Called Strike,null,null
+SL,Carlos Rodon,467793,"In play, out(s)",75,50.51
+CH,Carlos Rodon,467793,Ball In Dirt,null,null
+SL,Carlos Rodon,446386,"In play, no out",null,null
+FF,Carlos Rodon,424825,Foul,null,null
+FF,Carlos Rodon,424825,Ball,null,null
+FF,Carlos Rodon,424825,Foul,null,null
+SL,Carlos Rodon,424825,Foul,null,null
+FF,Carlos Rodon,424825,Ball,null,null
+FF,Carlos Rodon,424825,Foul,null,null
+SL,Carlos Rodon,424825,Ball,null,null
+SL,Carlos Rodon,424825,Ball,null,null
+FF,Carlos Rodon,460269,"In play, out(s)",null,null
+FT,Carlos Rodon,492841,Foul,null,null
+FF,Carlos Rodon,492841,"In play, out(s)",null,null
+SL,Carlos Rodon,492841,Ball,null,null
+SL,Carlos Rodon,434658,Swinging Strike,null,null
+FF,Carlos Rodon,434658,Swinging Strike,null,null
+SL,Carlos Rodon,434658,Foul Bunt,null,null
+FT,Carlos Rodon,543401,"In play, out(s)",null,null
+SL,Carlos Rodon,608070,Called Strike,null,null
+SL,Carlos Rodon,608070,"In play, out(s)",null,null
+FF,Carlos Rodon,608070,Called Strike,null,null
+FF,Carlos Rodon,467793,Called Strike,null,null
+SL,Carlos Rodon,467793,Ball,null,null
+FT,Carlos Rodon,467793,Foul,null,null
+FF,Carlos Rodon,467793,"In play, no out",103.5,-3.84
+FF,Carlos Rodon,446386,Swinging Strike,null,null
+FF,Carlos Rodon,446386,Called Strike,null,null
+FT,Carlos Rodon,446386,Swinging Strike,null,null
+CH,Carlos Rodon,424825,Ball,null,null
+SL,Carlos Rodon,424825,Swinging Strike,null,null
+FF,Carlos Rodon,424825,Called Strike,null,null
+FF,Carlos Rodon,424825,Foul,null,null
+FT,Carlos Rodon,542583,Ball,null,null
+FT,Carlos Rodon,542583,Ball,null,null
+FT,Carlos Rodon,542583,Ball,null,null
+FT,Carlos Rodon,542583,Called Strike,null,null
+FT,Carlos Rodon,542583,Swinging Strike,null,null
+SL,Carlos Rodon,542583,"In play, out(s)",71.7,-0.51
+FF,Carlos Rodon,501659,Foul,null,null
+FT,Carlos Rodon,501659,Called Strike,null,null
+FT,Carlos Rodon,501659,Ball,null,null
+SL,Carlos Rodon,501659,Foul,null,null
+FF,Carlos Rodon,501659,Ball,null,null
+SL,Carlos Rodon,501659,Ball,null,null
+SL,Carlos Rodon,501659,Swinging Strike,null,null
+CH,Carlos Rodon,434658,Foul,null,null
+FF,Carlos Rodon,434658,Foul,null,null
+SL,Carlos Rodon,434658,Foul,null,null
+SL,Carlos Rodon,434658,Foul,null,null
+FF,Carlos Rodon,434658,Swinging Strike,null,null
+FT,Carlos Rodon,543401,Ball,null,null
+SL,Carlos Rodon,543401,Swinging Strike,null,null
+CH,Carlos Rodon,543401,Called Strike,null,null
+SL,Carlos Rodon,543401,Swinging Strike,null,null
+FT,Carlos Rodon,492841,"In play, out(s)",79.7,5.91
+FT,Carlos Rodon,435063,Called Strike,null,null
+SL,Carlos Rodon,435063,"In play, out(s)",null,null
+FF,Carlos Rodon,435063,Ball,null,null
+CH,Carlos Rodon,608070,Swinging Strike,null,null
+CH,Carlos Rodon,608070,"In play, out(s)",61.5,-43.26
+SL,Carlos Rodon,608070,Called Strike,null,null
+FF,Carlos Rodon,542993,Ball,null,null
+FF,Carlos Rodon,542993,"In play, out(s)",null,null
+FF,Carlos Rodon,542993,Foul,null,null
+CH,Carlos Rodon,542993,Ball,null,null
+FF,Carlos Rodon,593160,Foul,null,null
+SL,Carlos Rodon,593160,"In play, out(s)",82.8,-10.25
+CH,Carlos Rodon,593160,Called Strike,null,null
+SL,Carlos Rodon,543333,"In play, out(s)",98.2,14.82
+FF,Carlos Rodon,543333,Ball,null,null
+FT,Carlos Rodon,543333,Foul,null,null
+SL,Carlos Rodon,543333,Foul,null,null
+FF,Carlos Rodon,434778,"In play, out(s)",95.5,53.25
+CH,Carlos Rodon,434778,Ball,null,null
+FF,Carlos Rodon,434778,Swinging Strike,null,null
+SL,Carlos Rodon,449181,Ball,null,null
+FT,Carlos Rodon,449181,"In play, run(s)",104.7,36.2
+SL,Carlos Rodon,460086,Ball,null,null
+FF,Carlos Rodon,460086,Called Strike,null,null
+SL,Carlos Rodon,460086,Swinging Strike,null,null
+FF,Carlos Rodon,460086,Ball,null,null
+SL,Carlos Rodon,460086,Swinging Strike,null,null
+FF,Carlos Rodon,444876,Ball,null,null
+FF,Carlos Rodon,444876,"In play, run(s)",97.7,30.97
+CH,Carlos Rodon,518568,"In play, no out",100.1,-4.09
+CH,Carlos Rodon,518568,Ball,null,null
+CH,Carlos Rodon,518568,Foul,null,null
+FF,Carlos Rodon,460077,Ball,null,null
+FF,Carlos Rodon,460077,"In play, out(s)",102.7,2.93
+CH,Carlos Rodon,542993,Foul,null,null
+null,Carlos Rodon,542993,Hit By Pitch,null,null
+FT,Carlos Rodon,542993,Ball,null,null
+FF,Carlos Rodon,542993,Called Strike,null,null
+FF,Carlos Rodon,593160,Ball,null,null
+CH,Carlos Rodon,593160,Ball,null,null
+FF,Carlos Rodon,593160,Called Strike,null,null
+CH,Carlos Rodon,593160,Called Strike,null,null
+FF,Carlos Rodon,593160,Foul,null,null
+CH,Carlos Rodon,449181,Ball,null,null
+FT,Carlos Rodon,449181,Foul,null,null
+SL,Carlos Rodon,449181,Swinging Strike (Blocked),null,null
+SL,Carlos Rodon,449181,Called Strike,null,null
+SL,Carlos Rodon,460086,Ball,null,null
+SL,Carlos Rodon,460086,Foul,null,null
+SL,Carlos Rodon,460086,Swinging Strike,null,null
+SL,Carlos Rodon,460086,Swinging Strike,null,null
+FF,Carlos Rodon,460086,Foul,null,null
+FF,Carlos Rodon,460086,Foul,null,null
+FF,Carlos Rodon,460086,Ball,null,null
+SL,Carlos Rodon,460086,"In play, no out",69.8,23.37
+CH,Carlos Rodon,444876,Ball,null,null
+FF,Carlos Rodon,444876,Ball,null,null
+FF,Carlos Rodon,444876,Called Strike,null,null
+SL,Carlos Rodon,444876,"In play, out(s)",84.9,31.77
+CH,Carlos Rodon,444876,Swinging Strike,null,null
+FF,Carlos Rodon,444876,Ball,null,null
+SL,Carlos Rodon,518568,Ball In Dirt,null,null
+SL,Carlos Rodon,518568,Called Strike,null,null
+FF,Carlos Rodon,518568,Ball,null,null
+FF,Carlos Rodon,518568,Ball,null,null
+FT,Carlos Rodon,518568,Called Strike,null,null
+SL,Carlos Rodon,518568,Ball In Dirt,null,null
+FF,Carlos Rodon,460077,Ball,null,null
+FF,Carlos Rodon,460077,Swinging Strike,null,null
+SL,Carlos Rodon,460077,Swinging Strike,null,null
+CH,Carlos Rodon,460077,Ball,null,null
+FF,Carlos Rodon,460077,Ball,null,null
+FF,Carlos Rodon,460077,Swinging Strike,null,null
+SL,Carlos Rodon,593160,"In play, no out",94,4.25
+CH,Carlos Rodon,593160,Ball,null,null
+FF,Carlos Rodon,593160,Ball,null,null
+FF,Carlos Rodon,593160,Foul,null,null
+FT,Carlos Rodon,593160,Swinging Strike,null,null
+FF,Carlos Rodon,543333,Ball,null,null
+SL,Carlos Rodon,543333,"In play, run(s)",94.6,5.38
+FF,Carlos Rodon,543333,Foul,null,null
+CH,Carlos Rodon,434778,Ball,null,null
+CH,Carlos Rodon,434778,Ball,null,null
+FF,Carlos Rodon,434778,"In play, run(s)",107.8,34.98
+SL,Carlos Rodon,542993,Ball,null,null
+FF,Carlos Rodon,542993,Called Strike,null,null
+SL,Carlos Rodon,542993,Ball,null,null
+FF,Carlos Rodon,542993,Foul,null,null
+SL,Carlos Rodon,542993,Ball,null,null
+FF,Carlos Rodon,542993,"In play, no out",null,null
+FF,Carlos Rodon,542993,Foul Bunt,null,null
+FF,Carlos Rodon,543333,"In play, out(s)",80.6,-32.49
+SL,Carlos Rodon,543333,Ball In Dirt,null,null
+FF,Carlos Rodon,543333,Ball,null,null
+FT,Carlos Rodon,543333,Ball In Dirt,null,null
+FF,Carlos Rodon,543333,Swinging Strike,null,null
+FF,Carlos Rodon,434778,Ball,null,null
+FF,Carlos Rodon,434778,Foul Tip,null,null
+FF,Carlos Rodon,434778,Foul,null,null
+FF,Carlos Rodon,434778,Foul,null,null
+CH,Carlos Rodon,434778,Ball,null,null
+FF,Carlos Rodon,434778,"In play, out(s)",104,39.02
+FT,Carlos Rodon,434658,Foul,null,null
+FF,Carlos Rodon,434658,Called Strike,null,null
+FF,Carlos Rodon,434658,"In play, out(s)",86.2,55.56
+FF,Carlos Rodon,596019,"In play, no out",92.7,18.09
+FF,Carlos Rodon,435063,Called Strike,null,null
+FF,Carlos Rodon,435063,Swinging Strike,null,null
+FF,Carlos Rodon,435063,Swinging Strike,null,null
+FF,Carlos Rodon,608070,Ball,null,null
+FT,Carlos Rodon,608070,Called Strike,null,null
+FF,Carlos Rodon,608070,Called Strike,null,null
+CH,Carlos Rodon,608070,Ball,null,null
+FT,Carlos Rodon,608070,"In play, out(s)",82.7,-25.88
+SL,Carlos Rodon,608070,Ball,null,null
+FT,Carlos Rodon,608070,Foul,null,null
+FF,Carlos Rodon,446386,Foul,null,null
+CH,Carlos Rodon,446386,Called Strike,null,null
+SL,Carlos Rodon,446386,Foul,null,null
+SL,Carlos Rodon,446386,Foul Tip,null,null
+FT,Carlos Rodon,424825,"In play, no out",65.6,-23.4
+SL,Carlos Rodon,460269,Ball,null,null
+FT,Carlos Rodon,460269,Foul Tip,null,null
+FF,Carlos Rodon,460269,Ball,null,null
+FF,Carlos Rodon,460269,Ball,null,null
+CH,Carlos Rodon,460269,Foul Bunt,null,null
+FF,Carlos Rodon,460269,Ball,null,null
+FT,Carlos Rodon,460269,Foul,null,null
+FF,Carlos Rodon,434658,Ball,null,null
+FF,Carlos Rodon,434658,Foul,null,null
+CH,Carlos Rodon,434658,"In play, out(s)",72.2,48.65
+SL,Carlos Rodon,543401,Foul,null,null
+FF,Carlos Rodon,543401,"In play, out(s)",92.7,3.85
+SL,Carlos Rodon,543401,Ball,null,null
+FF,Carlos Rodon,596019,Ball,null,null
+CH,Carlos Rodon,596019,Foul,null,null
+CH,Carlos Rodon,596019,Foul,null,null
+FF,Carlos Rodon,596019,"In play, out(s)",77.9,7.07
+CH,Carlos Rodon,435063,Swinging Strike,null,null
+FF,Carlos Rodon,435063,Ball,null,null
+FF,Carlos Rodon,435063,Ball,null,null
+CH,Carlos Rodon,435063,Foul,null,null
+SL,Carlos Rodon,435063,Ball,null,null
+CH,Carlos Rodon,435063,Swinging Strike,null,null
+CH,Carlos Rodon,435063,Foul,null,null
+FF,Carlos Rodon,435063,Ball,null,null
+CH,Carlos Rodon,467793,Ball,null,null
+FT,Carlos Rodon,467793,Called Strike,null,null
+FF,Carlos Rodon,467793,Ball,null,null
+CH,Carlos Rodon,467793,Ball,null,null
+FT,Carlos Rodon,467793,Ball,null,null
+SL,Carlos Rodon,608070,Ball In Dirt,null,null
+FF,Carlos Rodon,608070,Called Strike,null,null
+FF,Carlos Rodon,608070,"In play, run(s)",98.4,12.59
+FT,Carlos Rodon,424825,Called Strike,null,null
+SL,Carlos Rodon,424825,Swinging Strike (Blocked),null,null
+FF,Carlos Rodon,424825,Ball,null,null
+CH,Carlos Rodon,424825,Called Strike,null,null
+FF,Carlos Rodon,460269,Ball,null,null
+CH,Carlos Rodon,460269,Swinging Strike,null,null
+FT,Carlos Rodon,460269,Foul,null,null
+SL,Carlos Rodon,460269,Swinging Strike,null,null
+FF,Carlos Rodon,460269,Foul Tip,null,null
+SL,Carlos Rodon,460269,Foul,null,null
+SL,Carlos Rodon,460269,Ball In Dirt,null,null
+FF,Carlos Rodon,434658,Called Strike,null,null
+SL,Carlos Rodon,434658,"In play, no out",101.6,16.95
+CH,Carlos Rodon,434658,Ball,null,null
+SL,Carlos Rodon,543401,Swinging Strike,null,null
+SL,Carlos Rodon,543401,Ball In Dirt,null,null
+SL,Carlos Rodon,543401,Foul Bunt,null,null
+FF,Carlos Rodon,543401,"In play, no out",101.4,3.61
+SL,Carlos Rodon,596019,Foul,null,null
+FF,Carlos Rodon,596019,Swinging Strike,null,null
+FF,Carlos Rodon,596019,Swinging Strike,null,null
+FF,Carlos Rodon,596019,Foul,null,null
+FT,Carlos Rodon,596019,Foul,null,null
+FF,Carlos Rodon,467793,Foul,null,null
+FF,Carlos Rodon,467793,"In play, out(s)",99.4,14.6
+FF,Carlos Rodon,467793,Ball,null,null
+FT,Carlos Rodon,608070,Ball,null,null
+CH,Carlos Rodon,608070,Ball,null,null
+FF,Carlos Rodon,608070,Called Strike,null,null
+FF,Carlos Rodon,608070,"In play, no out",104,-4.73
+FF,Carlos Rodon,446386,Foul,null,null
+FF,Carlos Rodon,446386,"In play, no out",87.6,-21.7
+FF,Carlos Rodon,446386,Foul,null,null
+CH,Carlos Rodon,424825,"In play, run(s)",96.4,29.07
+FF,Carlos Rodon,435063,"In play, out(s)",37.3,34.07
+CH,Carlos Rodon,435063,Ball,null,null
+FT,Carlos Rodon,543401,Ball,null,null
+FF,Carlos Rodon,543401,Swinging Strike,null,null
+SL,Carlos Rodon,543401,"In play, out(s)",67.5,-5.81
+SL,Carlos Rodon,543401,Called Strike,null,null
+FF,Carlos Rodon,467793,Foul,null,null
+CH,Carlos Rodon,467793,"In play, out(s)",93.8,-19.54
+SL,Carlos Rodon,446386,"In play, run(s)",59.9,27.11
+FF,Carlos Rodon,449181,Foul,null,null
+FT,Carlos Rodon,449181,Ball,null,null
+CH,Carlos Rodon,449181,Foul,null,null
+SL,Carlos Rodon,449181,Foul,null,null
+FF,Carlos Rodon,449181,Called Strike,null,null
+FF,Carlos Rodon,543333,Ball,null,null
+SL,Carlos Rodon,543333,Swinging Strike,null,null
+SL,Carlos Rodon,543333,Called Strike,null,null
+FF,Carlos Rodon,543333,Ball,null,null
+SL,Carlos Rodon,543333,Foul Tip,null,null
+FT,Carlos Rodon,460086,Foul,null,null
+FF,Carlos Rodon,460086,Called Strike,null,null
+FT,Carlos Rodon,460086,Swinging Strike,null,null
+CH,Carlos Rodon,460077,Swinging Strike,null,null
+SL,Carlos Rodon,460077,Swinging Strike,null,null
+FF,Carlos Rodon,460077,Called Strike,null,null
+FF,Carlos Rodon,460077,Ball,null,null
+CH,Carlos Rodon,460077,Ball,null,null
+FF,Carlos Rodon,460077,Ball,null,null
+FF,Carlos Rodon,449181,Foul,null,null
+FF,Carlos Rodon,449181,Foul,null,null
+SL,Carlos Rodon,449181,Swinging Strike,null,null
+FF,Carlos Rodon,449181,Swinging Strike,null,null
+FT,Carlos Rodon,543333,Called Strike,null,null
+SL,Carlos Rodon,543333,Swinging Strike (Blocked),null,null
+FT,Carlos Rodon,543333,Foul,null,null
+CH,Carlos Rodon,434778,Ball In Dirt,null,null
+FF,Carlos Rodon,434778,Ball,null,null
+FT,Carlos Rodon,434778,Foul,null,null
+FF,Carlos Rodon,434778,Ball,null,null
+FF,Carlos Rodon,434778,Foul,null,null
+SL,Carlos Rodon,434778,Swinging Strike (Blocked),null,null
+FF,Carlos Rodon,609275,Called Strike,null,null
+FF,Carlos Rodon,609275,Swinging Strike,null,null
+FT,Carlos Rodon,609275,Swinging Strike,null,null
+CH,Carlos Rodon,449181,Ball,null,null
+FF,Carlos Rodon,449181,Foul,null,null
+SL,Carlos Rodon,449181,Called Strike,null,null
+SL,Carlos Rodon,449181,Swinging Strike,null,null
+SL,Carlos Rodon,456715,Ball,null,null
+SL,Carlos Rodon,456715,Ball,null,null
+CH,Carlos Rodon,456715,Ball,null,null
+FT,Carlos Rodon,456715,Called Strike,null,null
+FT,Carlos Rodon,456715,Ball,null,null
+FF,Carlos Rodon,456715,Foul,null,null
+FF,Carlos Rodon,460077,Ball,null,null
+SL,Carlos Rodon,460077,Ball In Dirt,null,null
+FF,Carlos Rodon,460077,Called Strike,null,null
+FT,Carlos Rodon,460077,Ball,null,null
+SL,Carlos Rodon,460077,Called Strike,null,null
+FF,Carlos Rodon,460077,Ball,null,null
+SL,Carlos Rodon,449181,Foul,null,null
+SL,Carlos Rodon,449181,Swinging Strike,null,null
+FF,Carlos Rodon,449181,Foul,null,null
+SL,Carlos Rodon,449181,Foul,null,null
+FT,Carlos Rodon,449181,Foul,null,null
+FT,Carlos Rodon,460086,Foul,null,null
+SL,Carlos Rodon,460086,Swinging Strike,null,null
+FT,Carlos Rodon,460086,"In play, no out",63.5,40.97
+FF,Carlos Rodon,460086,Ball,null,null
+SL,Carlos Rodon,460086,Ball,null,null
+FF,Carlos Rodon,609275,Foul,null,null
+FT,Carlos Rodon,609275,"In play, out(s)",null,null
+SL,Carlos Rodon,609275,Ball,null,null
+FF,Carlos Rodon,434778,"In play, out(s)",101.3,-19.03
+CH,Carlos Rodon,434778,Called Strike,null,null
+CH,Carlos Rodon,596144,Ball,null,null
+FT,Carlos Rodon,596144,"In play, out(s)",109.4,-14.74
+SL,Carlos Rodon,596144,Ball,null,null
+FT,Carlos Rodon,596144,Foul Tip,null,null
+FF,Carlos Rodon,456715,Ball,null,null
+CH,Carlos Rodon,456715,"In play, no out",95.5,-12.65
+CH,Carlos Rodon,456715,Called Strike,null,null
+SL,Carlos Rodon,456715,Called Strike,null,null
+SL,Carlos Rodon,456715,Ball,null,null
+CH,Carlos Rodon,596144,"In play, out(s)",81.8,39.57
+FF,Carlos Rodon,596144,Called Strike,null,null
+CH,Carlos Rodon,596144,Called Strike,null,null
+SL,Carlos Rodon,596144,Ball,null,null
+SL,Carlos Rodon,596144,Ball,null,null
+SL,Carlos Rodon,596144,Called Strike,null,null
+FT,Carlos Rodon,596144,Foul,null,null
+FF,Carlos Rodon,596144,"In play, out(s)",104.6,-10.7
+FF,Carlos Rodon,593160,Ball,null,null
+FT,Carlos Rodon,593160,Called Strike,null,null
+FT,Carlos Rodon,593160,"In play, no out",96.4,14.09
+SL,Carlos Rodon,593160,Ball,null,null
+FT,Carlos Rodon,444876,Swinging Strike,null,null
+SL,Carlos Rodon,444876,"In play, no out",86.3,12.53
+FT,Carlos Rodon,444876,Called Strike,null,null
+FF,Carlos Rodon,460077,Ball,null,null
+SL,Carlos Rodon,460077,Ball,null,null
+FF,Carlos Rodon,460077,"In play, out(s)",94.5,39.19
+FT,Carlos Rodon,460086,"In play, out(s)",97.4,35.54
+FT,Carlos Rodon,460086,Ball,null,null
+FF,Carlos Rodon,456715,Ball,null,null
+FT,Carlos Rodon,456715,Ball,null,null
+FT,Carlos Rodon,456715,Foul,null,null
+SL,Carlos Rodon,456715,Called Strike,null,null
+FT,Carlos Rodon,456715,Ball,null,null
+FF,Carlos Rodon,456715,"In play, no out",69.8,33.73
+SL,Carlos Rodon,543333,"In play, out(s)",83.6,20.21
+FT,Carlos Rodon,543333,Ball,null,null
+FT,Carlos Rodon,444876,Called Strike,null,null
+FF,Carlos Rodon,444876,"In play, no out",75.3,6
+CH,Carlos Rodon,444876,Ball,null,null
+SL,Carlos Rodon,444876,Called Strike,null,null
+FF,Carlos Rodon,444876,Foul,null,null
+FT,Carlos Rodon,444876,Ball,null,null
+FT,Carlos Rodon,444876,Foul,null,null
+SL,Carlos Rodon,444876,"In play, out(s)",87.3,28.4
+CH,Carlos Rodon,434778,Ball,null,null
+FF,Carlos Rodon,434778,Foul,null,null
+FT,Carlos Rodon,434778,"In play, run(s)",82.1,16.83
+CH,Carlos Rodon,434778,Called Strike,null,null
+FF,Carlos Rodon,434778,Ball,null,null
+FT,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,572821,Foul,null,null
+CH,Carlos Rodon,572821,Foul,null,null
+SL,Carlos Rodon,572821,Swinging Strike,null,null
+FT,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,572821,Called Strike,null,null
+FT,Carlos Rodon,572821,Foul,null,null
+FT,Carlos Rodon,593871,Called Strike,null,null
+FT,Carlos Rodon,593871,Hit By Pitch,null,null
+CH,Carlos Rodon,593934,Ball,null,null
+FT,Carlos Rodon,593934,Foul,null,null
+SL,Carlos Rodon,593934,Swinging Strike,null,null
+SL,Carlos Rodon,593934,Called Strike,null,null
+FT,Carlos Rodon,593934,Ball,null,null
+FF,Carlos Rodon,596146,"In play, out(s)",84.7,42.99
+FT,Carlos Rodon,435559,Foul,null,null
+SL,Carlos Rodon,435559,Swinging Strike,null,null
+CH,Carlos Rodon,435559,Ball,null,null
+FT,Carlos Rodon,435559,Called Strike,null,null
+FT,Carlos Rodon,502582,"In play, no out",102,14.71
+FF,Carlos Rodon,502582,Called Strike,null,null
+CH,Carlos Rodon,572821,Ball In Dirt,null,null
+CH,Carlos Rodon,572821,Swinging Strike,null,null
+FT,Carlos Rodon,572821,"In play, run(s)",100.8,25.77
+CH,Carlos Rodon,461858,Swinging Strike,null,null
+SL,Carlos Rodon,461858,"In play, out(s)",82.3,37.77
+CH,Carlos Rodon,461858,Ball In Dirt,null,null
+CH,Carlos Rodon,593934,Called Strike,null,null
+SL,Carlos Rodon,593934,Ball,null,null
+SL,Carlos Rodon,593934,Swinging Strike,null,null
+FT,Carlos Rodon,593934,Foul,null,null
+CH,Carlos Rodon,500871,"In play, out(s)",82.8,-39.93
+CH,Carlos Rodon,500871,Called Strike,null,null
+FT,Carlos Rodon,596146,"In play, out(s)",59.1,48.92
+SL,Carlos Rodon,596146,Called Strike,null,null
+CH,Carlos Rodon,435559,Called Strike,null,null
+FT,Carlos Rodon,435559,"In play, no out",88.6,1.25
+CH,Carlos Rodon,502582,Foul,null,null
+SL,Carlos Rodon,502582,"In play, out(s)",74.1,85.05
+FT,Carlos Rodon,502582,Ball,null,null
+FT,Carlos Rodon,572821,"In play, no out",103.7,11.03
+FT,Carlos Rodon,572821,Called Strike,null,null
+SL,Carlos Rodon,593871,"In play, run(s)",95.6,15.22
+FF,Carlos Rodon,461858,Called Strike,null,null
+CH,Carlos Rodon,461858,Ball,null,null
+FT,Carlos Rodon,461858,Ball,null,null
+SL,Carlos Rodon,461858,Ball,null,null
+CH,Carlos Rodon,461858,Ball,null,null
+FF,Carlos Rodon,500871,Foul,null,null
+FT,Carlos Rodon,500871,Swinging Strike,null,null
+FT,Carlos Rodon,500871,Ball,null,null
+SL,Carlos Rodon,500871,Foul,null,null
+FT,Carlos Rodon,621439,Foul,null,null
+FF,Carlos Rodon,621439,Ball,null,null
+CH,Carlos Rodon,621439,"In play, out(s)",91.8,-28.47
+SL,Carlos Rodon,621439,Called Strike,null,null
+CH,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,572821,"In play, out(s)",89.1,26.38
+CH,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,593934,"In play, out(s)",null,null
+FT,Carlos Rodon,593934,Ball,null,null
+FT,Carlos Rodon,502582,Ball,null,null
+FT,Carlos Rodon,502582,Foul,null,null
+SL,Carlos Rodon,502582,Swinging Strike,null,null
+SL,Carlos Rodon,502582,"In play, out(s)",null,null
+FT,Carlos Rodon,461858,Ball,null,null
+FT,Carlos Rodon,461858,"In play, out(s)",83.1,-7.97
+CH,Carlos Rodon,461858,Ball,null,null
+FT,Carlos Rodon,621439,Called Strike,null,null
+CH,Carlos Rodon,621439,"In play, no out",92.5,11.36
+FT,Carlos Rodon,621439,Ball,null,null
+FF,Carlos Rodon,596146,"In play, out(s)",96.1,28.53
+SL,Carlos Rodon,596146,Ball,null,null
+FF,Carlos Rodon,593871,"In play, no out",96.2,6.65
+SL,Carlos Rodon,435559,"In play, out(s)",79.1,47.53
+FT,Carlos Rodon,500871,"In play, out(s)",90.9,42.82
+FF,Carlos Rodon,500871,Ball,null,null
+FF,Carlos Rodon,621439,"In play, no out",105.3,9.46
+FT,Carlos Rodon,621439,Foul,null,null
+SL,Carlos Rodon,547982,Foul,null,null
+FF,Carlos Rodon,547982,Ball,null,null
+SL,Carlos Rodon,547982,"In play, out(s)",77.5,-9.64
+FF,Carlos Rodon,547982,Called Strike,null,null
+FT,Carlos Rodon,628338,Swinging Strike,null,null
+FF,Carlos Rodon,628338,Called Strike,null,null
+FF,Carlos Rodon,628338,Foul,null,null
+CH,Carlos Rodon,443558,Swinging Strike,null,null
+FT,Carlos Rodon,443558,"In play, out(s)",100.9,-11.72
+FF,Carlos Rodon,443558,Ball,null,null
+CH,Carlos Rodon,443558,Swinging Strike,null,null
+FT,Carlos Rodon,429711,Ball,null,null
+CH,Carlos Rodon,429711,Foul,null,null
+SL,Carlos Rodon,429711,Ball,null,null
+FF,Carlos Rodon,429711,Ball,null,null
+FT,Carlos Rodon,429711,Foul,null,null
+FF,Carlos Rodon,429711,Called Strike,null,null
+CH,Carlos Rodon,572287,Ball,null,null
+FF,Carlos Rodon,572287,Ball,null,null
+FT,Carlos Rodon,572287,Swinging Strike,null,null
+CH,Carlos Rodon,572287,Ball,null,null
+FF,Carlos Rodon,572287,Swinging Strike,null,null
+FT,Carlos Rodon,572287,Swinging Strike,null,null
+CH,Carlos Rodon,493193,Called Strike,null,null
+FT,Carlos Rodon,493193,Foul,null,null
+FF,Carlos Rodon,493193,Ball,null,null
+FF,Carlos Rodon,493193,Foul,null,null
+CH,Carlos Rodon,493193,Ball,null,null
+FF,Carlos Rodon,493193,Foul,null,null
+CH,Carlos Rodon,493193,Ball,null,null
+SL,Carlos Rodon,493193,Swinging Strike,null,null
+FF,Carlos Rodon,547982,Foul,null,null
+SL,Carlos Rodon,547982,"In play, out(s)",83.3,-31.77
+FT,Carlos Rodon,547982,Foul Bunt,null,null
+FT,Carlos Rodon,443558,Swinging Strike,null,null
+FT,Carlos Rodon,443558,Ball,null,null
+FT,Carlos Rodon,443558,"In play, out(s)",null,null
+CH,Carlos Rodon,443558,Ball,null,null
+CH,Carlos Rodon,443558,Ball,null,null
+SL,Carlos Rodon,572122,Swinging Strike,null,null
+SL,Carlos Rodon,572122,Foul,null,null
+FT,Carlos Rodon,572122,Ball,null,null
+FT,Carlos Rodon,572122,Foul Bunt,null,null
+SL,Carlos Rodon,572122,Ball,null,null
+SL,Carlos Rodon,572122,"In play, out(s)",81.2,9.13
+FF,Carlos Rodon,429711,Ball,null,null
+CH,Carlos Rodon,429711,Ball,null,null
+FT,Carlos Rodon,429711,"In play, no out",102.1,18.4
+FT,Carlos Rodon,572287,Foul,null,null
+FT,Carlos Rodon,572287,Swinging Strike,null,null
+CH,Carlos Rodon,572287,Ball,null,null
+FT,Carlos Rodon,572287,Ball,null,null
+FT,Carlos Rodon,572287,Swinging Strike,null,null
+CH,Carlos Rodon,493193,Swinging Strike,null,null
+SL,Carlos Rodon,493193,Ball In Dirt,null,null
+FT,Carlos Rodon,493193,Ball,null,null
+CH,Carlos Rodon,493193,Foul (Runner Going),null,null
+SL,Carlos Rodon,493193,Called Strike,null,null
+FT,Carlos Rodon,493193,Ball,null,null
+FT,Carlos Rodon,493193,Ball,null,null
+CH,Carlos Rodon,606466,Ball In Dirt,null,null
+FT,Carlos Rodon,606466,"In play, out(s)",null,null
+FT,Carlos Rodon,606466,Ball,null,null
+FT,Carlos Rodon,606466,Called Strike,null,null
+FF,Carlos Rodon,547982,Ball,null,null
+FF,Carlos Rodon,547982,Ball,null,null
+FT,Carlos Rodon,547982,Called Strike,null,null
+SL,Carlos Rodon,547982,Swinging Strike,null,null
+SL,Carlos Rodon,547982,Called Strike,null,null
+FT,Carlos Rodon,547982,Ball,null,null
+FF,Carlos Rodon,429664,"In play, run(s)",95.7,36.39
+SL,Carlos Rodon,429664,Foul,null,null
+SL,Carlos Rodon,628338,"In play, out(s)",null,null
+FF,Carlos Rodon,429664,Ball,null,null
+SL,Carlos Rodon,429664,"In play, out(s)",null,null
+FT,Carlos Rodon,429664,Called Strike,null,null
+FT,Carlos Rodon,429664,Foul,null,null
+FF,Carlos Rodon,572122,Called Strike,null,null
+SL,Carlos Rodon,572122,Ball,null,null
+SL,Carlos Rodon,572122,Ball,null,null
+FF,Carlos Rodon,572122,"In play, no out",93.6,-9.35
+FF,Carlos Rodon,429664,Foul,null,null
+FT,Carlos Rodon,429664,"In play, out(s)",91.5,-14.74
+FT,Carlos Rodon,429664,Called Strike,null,null
+FT,Carlos Rodon,606466,"In play, out(s)",92.4,0.6
+CH,Carlos Rodon,606466,Called Strike,null,null
+FT,Carlos Rodon,628338,Foul Bunt,null,null
+SL,Carlos Rodon,628338,Called Strike,null,null
+CH,Carlos Rodon,628338,"In play, out(s)",77.9,-21.08
+SL,Carlos Rodon,429711,Swinging Strike,null,null
+SL,Carlos Rodon,429711,"In play, no out",93.1,17.28
+FT,Carlos Rodon,429711,Foul,null,null
+FF,Carlos Rodon,572122,Ball,null,null
+FT,Carlos Rodon,572122,"In play, no out",100.9,28.66
+SL,Carlos Rodon,572122,Ball,null,null
+FF,Carlos Rodon,443558,Called Strike,null,null
+FT,Carlos Rodon,443558,Ball,null,null
+FF,Carlos Rodon,443558,"In play, out(s)",96.3,26.15
+CH,Carlos Rodon,443558,Ball,null,null
+FT,Carlos Rodon,443558,Ball,null,null
+FT,Carlos Rodon,520471,"In play, out(s)",61.4,14.08
+CH,Carlos Rodon,520471,Called Strike,null,null
+FT,Carlos Rodon,595963,Foul,null,null
+SL,Carlos Rodon,595963,Ball,null,null
+SL,Carlos Rodon,595963,Foul,null,null
+FT,Carlos Rodon,595963,Foul,null,null
+FT,Carlos Rodon,595963,Called Strike,null,null
+FF,Carlos Rodon,595963,Ball,null,null
+FT,Carlos Rodon,595963,Ball,null,null
+CH,Carlos Rodon,595963,Ball In Dirt,null,null
+FF,Carlos Rodon,502034,Foul,null,null
+FF,Carlos Rodon,502034,Ball,null,null
+FF,Carlos Rodon,502034,Ball,null,null
+SL,Carlos Rodon,502034,Ball,null,null
+FT,Carlos Rodon,502034,"In play, out(s)",80.1,2.37
+CH,Carlos Rodon,488721,"In play, out(s)",75.5,28.36
+CH,Carlos Rodon,488721,Swinging Strike,null,null
+SL,Carlos Rodon,571437,Foul,null,null
+FF,Carlos Rodon,571437,Ball,null,null
+FT,Carlos Rodon,571437,Foul,null,null
+FT,Carlos Rodon,571437,Foul,null,null
+FF,Carlos Rodon,571437,"In play, out(s)",90,22.39
+FT,Carlos Rodon,571437,Called Strike,null,null
+SL,Carlos Rodon,571437,Foul,null,null
+SL,Carlos Rodon,571437,Foul,null,null
+SL,Carlos Rodon,571437,Ball,null,null
+SL,Carlos Rodon,571437,Foul,null,null
+CH,Carlos Rodon,571437,Ball,null,null
+SL,Carlos Rodon,596748,"In play, out(s)",80.6,21.16
+SL,Carlos Rodon,596748,Called Strike,null,null
+FT,Carlos Rodon,571830,"In play, out(s)",71.2,-2.56
+FT,Carlos Rodon,571830,Called Strike,null,null
+FF,Carlos Rodon,571830,Foul,null,null
+FF,Carlos Rodon,571830,Ball,null,null
+FT,Carlos Rodon,434563,Called Strike,null,null
+FT,Carlos Rodon,434563,Ball,null,null
+FT,Carlos Rodon,434563,"In play, out(s)",98.6,5.54
+FT,Carlos Rodon,434563,Ball,null,null
+CH,Carlos Rodon,434563,Called Strike,null,null
+FF,Carlos Rodon,434563,Ball,null,null
+SL,Carlos Rodon,520471,Called Strike,null,null
+CH,Carlos Rodon,520471,Foul,null,null
+FT,Carlos Rodon,520471,Foul,null,null
+FT,Carlos Rodon,520471,"In play, out(s)",86.7,19.95
+FT,Carlos Rodon,520471,Called Strike,null,null
+FF,Carlos Rodon,520471,Foul,null,null
+SL,Carlos Rodon,520471,Ball,null,null
+CH,Carlos Rodon,520471,Foul,null,null
+FF,Carlos Rodon,488721,Called Strike,null,null
+FF,Carlos Rodon,488721,Ball,null,null
+FT,Carlos Rodon,488721,"In play, out(s)",85.6,23.96
+FF,Carlos Rodon,571437,Called Strike,null,null
+FF,Carlos Rodon,571437,"In play, no out",78.1,16.51
+FF,Carlos Rodon,571437,Ball,null,null
+FT,Carlos Rodon,596748,Ball,null,null
+FT,Carlos Rodon,596748,Ball,null,null
+CH,Carlos Rodon,596748,Ball,null,null
+FT,Carlos Rodon,596748,"In play, no out",104,9.37
+FF,Carlos Rodon,571830,Foul,null,null
+SL,Carlos Rodon,571830,Foul (Runner Going),null,null
+SL,Carlos Rodon,571830,Called Strike,null,null
+FT,Carlos Rodon,571830,Swinging Strike,null,null
+FT,Carlos Rodon,519237,Ball,null,null
+FT,Carlos Rodon,519237,Ball,null,null
+FT,Carlos Rodon,519237,Foul,null,null
+CH,Carlos Rodon,519237,Ball,null,null
+FT,Carlos Rodon,519237,Foul,null,null
+FT,Carlos Rodon,519237,Swinging Strike,null,null
+CH,Carlos Rodon,434563,Called Strike,null,null
+SL,Carlos Rodon,434563,Foul Tip,null,null
+FT,Carlos Rodon,434563,Called Strike,null,null
+FF,Carlos Rodon,434563,Ball,null,null
+FT,Carlos Rodon,502034,Ball,null,null
+FT,Carlos Rodon,502034,"In play, out(s)",null,null
+FT,Carlos Rodon,502034,Ball,null,null
+FT,Carlos Rodon,488721,Called Strike,null,null
+CH,Carlos Rodon,488721,"In play, no out",84.9,23.64
+FT,Carlos Rodon,488721,Ball,null,null
+FF,Carlos Rodon,596748,Ball,null,null
+SL,Carlos Rodon,596748,Foul,null,null
+FF,Carlos Rodon,596748,Foul,null,null
+CH,Carlos Rodon,596748,"In play, out(s)",76.3,-0.26
+FT,Carlos Rodon,596748,Ball,null,null
+FT,Carlos Rodon,596748,Swinging Strike,null,null
+CH,Carlos Rodon,596748,Swinging Strike,null,null
+CH,Carlos Rodon,596748,Foul,null,null
+CH,Carlos Rodon,571830,"In play, out(s)",72.9,-17.58
+FT,Carlos Rodon,519237,Foul,null,null
+CH,Carlos Rodon,519237,Foul,null,null
+SL,Carlos Rodon,519237,Ball,null,null
+FT,Carlos Rodon,519237,Swinging Strike,null,null
+FT,Carlos Rodon,519237,Ball,null,null
+SL,Carlos Rodon,519237,Foul,null,null
+FT,Carlos Rodon,519237,Ball,null,null
+FT,Carlos Rodon,434563,Ball,null,null
+CH,Carlos Rodon,434563,Ball,null,null
+FT,Carlos Rodon,434563,Called Strike,null,null
+FT,Carlos Rodon,434563,"In play, out(s)",88.3,58.91
+SL,Carlos Rodon,571437,"In play, out(s)",99,-15.81
+SL,Carlos Rodon,571437,Called Strike,null,null
+FF,Carlos Rodon,595963,Called Strike,null,null
+CH,Carlos Rodon,595963,Ball,null,null
+FT,Carlos Rodon,595963,"In play, out(s)",null,null
+CH,Carlos Rodon,595963,Called Strike,null,null
+FF,Carlos Rodon,595963,Ball,null,null
+FT,Carlos Rodon,519237,Foul,null,null
+CH,Carlos Rodon,519237,Ball,null,null
+FT,Carlos Rodon,519237,"In play, out(s)",100.2,38.41
+SL,Carlos Rodon,519237,Ball,null,null
+CH,Carlos Rodon,501659,Called Strike,null,null
+SL,Carlos Rodon,501659,Ball,null,null
+FF,Carlos Rodon,501659,Called Strike,null,null
+FT,Carlos Rodon,501659,Called Strike,null,null
+FT,Carlos Rodon,547379,"In play, out(s)",93.8,-9.14
+FT,Carlos Rodon,547379,Ball,null,null
+FT,Carlos Rodon,434658,Called Strike,null,null
+FT,Carlos Rodon,434658,"In play, out(s)",86.1,20.59
+CH,Carlos Rodon,434658,Ball,null,null
+CH,Carlos Rodon,434658,Ball,null,null
+SL,Carlos Rodon,543401,Ball,null,null
+CH,Carlos Rodon,543401,"In play, no out",95.8,14.55
+FT,Carlos Rodon,543401,Called Strike,null,null
+CH,Carlos Rodon,596019,"In play, out(s)",100.1,-2.27
+FF,Carlos Rodon,596019,Ball,null,null
+FF,Carlos Rodon,435063,Called Strike,null,null
+FT,Carlos Rodon,435063,Foul,null,null
+SL,Carlos Rodon,435063,Ball,null,null
+FT,Carlos Rodon,435063,Ball,null,null
+CH,Carlos Rodon,435063,Swinging Strike,null,null
+FF,Carlos Rodon,435063,Called Strike,null,null
+SL,Carlos Rodon,435063,Ball,null,null
+FT,Carlos Rodon,435063,Foul,null,null
+FT,Carlos Rodon,435063,Foul,null,null
+FF,Carlos Rodon,467793,Ball,null,null
+CH,Carlos Rodon,467793,Called Strike,null,null
+FT,Carlos Rodon,467793,Ball,null,null
+CH,Carlos Rodon,467793,"In play, no out",108.2,9.32
+FF,Carlos Rodon,608070,Swinging Strike,null,null
+FF,Carlos Rodon,608070,Called Strike,null,null
+SL,Carlos Rodon,608070,Foul,null,null
+SL,Carlos Rodon,608070,Ball,null,null
+FF,Carlos Rodon,608070,Ball,null,null
+FT,Carlos Rodon,608070,"In play, run(s)",97.8,-22.88
+CH,Carlos Rodon,446386,Ball,null,null
+CH,Carlos Rodon,446386,Swinging Strike,null,null
+FF,Carlos Rodon,446386,"In play, out(s)",87.3,-5.78
+FT,Carlos Rodon,501659,Foul,null,null
+SL,Carlos Rodon,501659,Swinging Strike,null,null
+FT,Carlos Rodon,501659,Called Strike,null,null
+CH,Carlos Rodon,501659,Foul,null,null
+SL,Carlos Rodon,547379,Ball,null,null
+FT,Carlos Rodon,547379,"In play, no out",86.5,13.61
+FT,Carlos Rodon,547379,Foul,null,null
+FT,Carlos Rodon,547379,Foul,null,null
+SL,Carlos Rodon,547379,Ball,null,null
+FF,Carlos Rodon,434658,Foul,null,null
+FT,Carlos Rodon,434658,Foul,null,null
+FF,Carlos Rodon,434658,"In play, out(s)",85.7,21.18
+CH,Carlos Rodon,434658,Ball,null,null
+SL,Carlos Rodon,434658,Ball,null,null
+FF,Carlos Rodon,543401,Swinging Strike,null,null
+FF,Carlos Rodon,543401,"In play, no out",99.9,24.5
+FT,Carlos Rodon,543401,Ball,null,null
+FF,Carlos Rodon,596019,"In play, run(s)",93.1,9.66
+SL,Carlos Rodon,435063,Ball,null,null
+SL,Carlos Rodon,435063,Swinging Strike,null,null
+SL,Carlos Rodon,435063,Swinging Strike,null,null
+FF,Carlos Rodon,435063,Swinging Strike,null,null
+FF,Carlos Rodon,467793,Ball,null,null
+FT,Carlos Rodon,467793,Foul,null,null
+FF,Carlos Rodon,467793,Ball,null,null
+SL,Carlos Rodon,467793,Ball,null,null
+FT,Carlos Rodon,467793,Hit By Pitch,null,null
+FF,Carlos Rodon,608070,Foul,null,null
+SL,Carlos Rodon,608070,Foul,null,null
+SL,Carlos Rodon,608070,Foul,null,null
+FF,Carlos Rodon,608070,"In play, out(s)",80.1,6.34
+CH,Carlos Rodon,608070,Ball,null,null
+SL,Carlos Rodon,608070,Ball,null,null
+FT,Carlos Rodon,434658,Foul,null,null
+FF,Carlos Rodon,434658,"In play, no out",84.5,12.51
+FT,Carlos Rodon,434658,Called Strike,null,null
+SL,Carlos Rodon,434658,Ball,null,null
+SL,Carlos Rodon,434658,Ball,null,null
+FT,Carlos Rodon,543401,Ball,null,null
+CH,Carlos Rodon,543401,"In play, no out",80.3,0.05
+FF,Carlos Rodon,543401,Called Strike,null,null
+FT,Carlos Rodon,596019,"In play, out(s)",100.7,30.05
+FT,Carlos Rodon,435063,Ball,null,null
+FT,Carlos Rodon,435063,Foul,null,null
+FT,Carlos Rodon,435063,Foul,null,null
+SL,Carlos Rodon,435063,"In play, out(s)",101,8.15
+SL,Carlos Rodon,435063,Ball In Dirt,null,null
+FF,Carlos Rodon,435063,Foul,null,null
+SL,Carlos Rodon,435063,Ball,null,null
+FT,Carlos Rodon,467793,Ball,null,null
+FF,Carlos Rodon,467793,"In play, no out",108.3,11.43
+FF,Carlos Rodon,467793,Ball,null,null
+FT,Carlos Rodon,608070,Called Strike,null,null
+FT,Carlos Rodon,608070,Ball,null,null
+FF,Carlos Rodon,608070,Ball In Dirt,null,null
+FT,Carlos Rodon,608070,"In play, out(s)",89.5,-2.77
+CH,Carlos Rodon,446386,Ball,null,null
+SL,Carlos Rodon,446386,Ball,null,null
+FF,Carlos Rodon,446386,Foul,null,null
+FT,Carlos Rodon,446386,Called Strike,null,null
+CH,Carlos Rodon,446386,Called Strike,null,null
+FF,Carlos Rodon,446386,Foul,null,null
+CH,Carlos Rodon,446386,Ball,null,null
+FF,Carlos Rodon,543829,"In play, no out",97.4,0.69
+FF,Carlos Rodon,543829,Ball,null,null
+FF,Carlos Rodon,543829,Ball,null,null
+FF,Carlos Rodon,543829,Foul,null,null
+CH,Carlos Rodon,445988,Called Strike,null,null
+FT,Carlos Rodon,445988,"In play, out(s)",99.5,41.42
+FF,Carlos Rodon,445988,Ball,null,null
+FF,Carlos Rodon,445988,Called Strike,null,null
+SL,Carlos Rodon,445988,Ball,null,null
+SL,Carlos Rodon,592885,Called Strike,null,null
+SL,Carlos Rodon,592885,Called Strike,null,null
+FF,Carlos Rodon,592885,Called Strike,null,null
+FT,Carlos Rodon,592885,Ball,null,null
+SL,Carlos Rodon,519317,Ball,null,null
+FF,Carlos Rodon,519317,Ball,null,null
+FF,Carlos Rodon,519317,Swinging Strike,null,null
+FF,Carlos Rodon,519317,Swinging Strike,null,null
+CH,Carlos Rodon,519317,Ball In Dirt,null,null
+FF,Carlos Rodon,519317,Called Strike,null,null
+CH,Carlos Rodon,542303,Swinging Strike,null,null
+SL,Carlos Rodon,542303,Foul,null,null
+FF,Carlos Rodon,542303,"In play, out(s)",82.9,34.36
+FF,Carlos Rodon,542303,Ball,null,null
+FT,Carlos Rodon,542303,Called Strike,null,null
+CH,Carlos Rodon,542303,Ball,null,null
+FT,Carlos Rodon,500743,Ball,null,null
+FT,Carlos Rodon,500743,"In play, out(s)",79,-24.69
+FF,Carlos Rodon,500743,Ball,null,null
+FF,Carlos Rodon,500743,Ball,null,null
+FF,Carlos Rodon,500743,Called Strike,null,null
+FT,Carlos Rodon,488768,"In play, out(s)",80.5,-1.17
+FF,Carlos Rodon,488768,Missed Bunt,null,null
+SL,Carlos Rodon,543829,Ball,null,null
+FF,Carlos Rodon,543829,Foul Tip,null,null
+FT,Carlos Rodon,543829,"In play, out(s)",58.4,9.3
+FT,Carlos Rodon,543829,Ball,null,null
+FF,Carlos Rodon,543829,Called Strike,null,null
+FT,Carlos Rodon,445988,"In play, no out",102.6,-3.02
+FT,Carlos Rodon,445988,Ball,null,null
+CH,Carlos Rodon,445988,Ball,null,null
+FT,Carlos Rodon,445988,Called Strike,null,null
+FT,Carlos Rodon,592885,Ball,null,null
+FF,Carlos Rodon,592885,Swinging Strike,null,null
+FF,Carlos Rodon,592885,Ball,null,null
+SL,Carlos Rodon,592885,Foul,null,null
+FF,Carlos Rodon,592885,Swinging Strike,null,null
+FF,Carlos Rodon,592885,Ball,null,null
+SL,Carlos Rodon,592885,Swinging Strike,null,null
+FT,Carlos Rodon,519317,"In play, out(s)",90.5,45.98
+FT,Carlos Rodon,519317,Foul,null,null
+FF,Carlos Rodon,542303,Ball,null,null
+CH,Carlos Rodon,542303,Ball,null,null
+FT,Carlos Rodon,542303,Ball,null,null
+FT,Carlos Rodon,542303,Ball,null,null
+FF,Carlos Rodon,542303,Called Strike,null,null
+SL,Carlos Rodon,592663,Swinging Strike (Blocked),null,null
+FF,Carlos Rodon,592663,Foul,null,null
+SL,Carlos Rodon,592663,Foul,null,null
+SL,Carlos Rodon,592663,Called Strike,null,null
+SL,Carlos Rodon,592663,Ball,null,null
+FT,Carlos Rodon,592663,"In play, run(s)",101.5,-3.11
+CH,Carlos Rodon,500743,Ball,null,null
+FF,Carlos Rodon,500743,Swinging Strike,null,null
+SL,Carlos Rodon,500743,Foul,null,null
+SL,Carlos Rodon,500743,Foul (Runner Going),null,null
+FT,Carlos Rodon,500743,Foul (Runner Going),null,null
+FT,Carlos Rodon,500743,Ball In Dirt,null,null
+FF,Carlos Rodon,500743,Foul,null,null
+FF,Carlos Rodon,500743,Foul,null,null
+SL,Carlos Rodon,500743,Foul,null,null
+FT,Carlos Rodon,500743,Ball,null,null
+FF,Carlos Rodon,500743,Foul (Runner Going),null,null
+SL,Carlos Rodon,500743,"In play, out(s)",86.6,29.81
+FF,Carlos Rodon,588751,Ball,null,null
+FF,Carlos Rodon,588751,Ball,null,null
+FF,Carlos Rodon,588751,Ball,null,null
+SL,Carlos Rodon,588751,Ball,null,null
+FT,Carlos Rodon,588751,Foul,null,null
+FF,Carlos Rodon,453400,Ball,null,null
+FT,Carlos Rodon,453400,"In play, out(s)",80,24.82
+FT,Carlos Rodon,445988,Swinging Strike,null,null
+FT,Carlos Rodon,445988,Ball,null,null
+CH,Carlos Rodon,445988,Ball In Dirt,null,null
+CH,Carlos Rodon,445988,Ball,null,null
+CH,Carlos Rodon,445988,Ball,null,null
+FF,Carlos Rodon,445988,Called Strike,null,null
+FF,Carlos Rodon,592885,Swinging Strike,null,null
+FF,Carlos Rodon,592885,Foul,null,null
+SL,Carlos Rodon,592885,Swinging Strike,null,null
+SL,Carlos Rodon,592885,Ball,null,null
+FF,Carlos Rodon,592885,Foul,null,null
+SL,Carlos Rodon,592885,Foul,null,null
+FF,Carlos Rodon,519317,Ball,null,null
+FF,Carlos Rodon,519317,Ball,null,null
+FF,Carlos Rodon,519317,Ball,null,null
+FF,Carlos Rodon,519317,"In play, out(s)",94.9,35.66
+CH,Carlos Rodon,542303,Ball,null,null
+FF,Carlos Rodon,542303,Foul,null,null
+FT,Carlos Rodon,542303,Ball,null,null
+CH,Carlos Rodon,542303,Swinging Strike,null,null
+CH,Carlos Rodon,542303,"In play, out(s)",98.6,39.04
+FF,Carlos Rodon,592663,Called Strike,null,null
+CH,Carlos Rodon,592663,Called Strike,null,null
+CH,Carlos Rodon,592663,Foul,null,null
+SL,Carlos Rodon,592663,Foul,null,null
+FT,Carlos Rodon,592663,Foul,null,null
+FF,Carlos Rodon,592663,Foul,null,null
+FF,Carlos Rodon,592663,Foul,null,null
+SL,Carlos Rodon,592663,Foul,null,null
+SL,Carlos Rodon,592663,Ball,null,null
+FF,Carlos Rodon,592663,"In play, out(s)",105.4,4.78
+FF,Carlos Rodon,588751,"In play, out(s)",82.2,35.76
+FF,Carlos Rodon,592663,Ball,null,null
+FT,Carlos Rodon,592663,"In play, out(s)",83,41.65
+CH,Carlos Rodon,592663,Ball,null,null
+FT,Carlos Rodon,592663,Called Strike,null,null
+FT,Carlos Rodon,543829,Ball,null,null
+FF,Carlos Rodon,543829,Ball,null,null
+FF,Carlos Rodon,543829,Ball,null,null
+FT,Carlos Rodon,543829,Foul Bunt,null,null
+FF,Carlos Rodon,543829,Foul,null,null
+FF,Carlos Rodon,543829,"In play, out(s)",null,null
+FF,Carlos Rodon,430945,Ball,null,null
+FT,Carlos Rodon,430945,Ball,null,null
+FF,Carlos Rodon,430945,"In play, no out",86.5,53.26
+FF,Carlos Rodon,570731,Ball,null,null
+FF,Carlos Rodon,570731,"In play, no out",77.6,24.59
+CH,Carlos Rodon,592518,Ball,null,null
+FT,Carlos Rodon,592518,Ball,null,null
+FF,Carlos Rodon,592518,Ball,null,null
+FF,Carlos Rodon,592518,Called Strike,null,null
+FF,Carlos Rodon,592518,Called Strike,null,null
+FF,Carlos Rodon,592518,Swinging Strike,null,null
+SL,Carlos Rodon,444432,Swinging Strike,null,null
+SL,Carlos Rodon,444432,Called Strike,null,null
+FF,Carlos Rodon,444432,Ball,null,null
+FF,Carlos Rodon,444432,Ball,null,null
+SL,Carlos Rodon,444432,Swinging Strike,null,null
+FF,Carlos Rodon,456665,Called Strike,null,null
+SL,Carlos Rodon,456665,Swinging Strike (Blocked),null,null
+SL,Carlos Rodon,456665,Swinging Strike,null,null
+SL,Carlos Rodon,448801,Called Strike,null,null
+SL,Carlos Rodon,448801,Swinging Strike,null,null
+SL,Carlos Rodon,448801,Swinging Strike,null,null
+FT,Carlos Rodon,429666,Called Strike,null,null
+FF,Carlos Rodon,429666,Ball,null,null
+CH,Carlos Rodon,429666,Swinging Strike,null,null
+FF,Carlos Rodon,429666,Foul,null,null
+FF,Carlos Rodon,429666,Ball,null,null
+CH,Carlos Rodon,429666,Ball,null,null
+SL,Carlos Rodon,429666,Swinging Strike,null,null
+FF,Carlos Rodon,430945,Ball,null,null
+FT,Carlos Rodon,430945,Foul,null,null
+CH,Carlos Rodon,430945,Foul,null,null
+SL,Carlos Rodon,430945,Ball,null,null
+FF,Carlos Rodon,430945,"In play, out(s)",95.9,43.87
+SL,Carlos Rodon,570731,Ball,null,null
+CH,Carlos Rodon,570731,Swinging Strike,null,null
+FF,Carlos Rodon,570731,Ball,null,null
+FT,Carlos Rodon,570731,Foul Tip,null,null
+CH,Carlos Rodon,570731,Swinging Strike (Blocked),null,null
+SL,Carlos Rodon,592518,Ball,null,null
+FT,Carlos Rodon,592518,Ball,null,null
+FT,Carlos Rodon,592518,Foul,null,null
+FF,Carlos Rodon,592518,Foul,null,null
+FF,Carlos Rodon,592518,Foul,null,null
+FT,Carlos Rodon,592518,Ball,null,null
+CH,Carlos Rodon,592518,"In play, out(s)",82.3,-31.98
+CH,Carlos Rodon,444432,Ball,null,null
+FT,Carlos Rodon,444432,Called Strike,null,null
+FT,Carlos Rodon,444432,Ball,null,null
+CH,Carlos Rodon,444432,Ball,null,null
+FT,Carlos Rodon,444432,"In play, no out",104.4,-0.76
+FT,Carlos Rodon,456665,Ball,null,null
+CH,Carlos Rodon,456665,Ball,null,null
+FF,Carlos Rodon,456665,Called Strike,null,null
+CH,Carlos Rodon,456665,"In play, out(s)",80.5,47.03
+SL,Carlos Rodon,448801,Ball,null,null
+SL,Carlos Rodon,448801,Ball,null,null
+FF,Carlos Rodon,448801,Ball,null,null
+FF,Carlos Rodon,448801,Called Strike,null,null
+FF,Carlos Rodon,448801,Called Strike,null,null
+SL,Carlos Rodon,448801,Ball,null,null
+FF,Carlos Rodon,429666,Foul,null,null
+FF,Carlos Rodon,429666,Ball,null,null
+FT,Carlos Rodon,429666,Ball,null,null
+FF,Carlos Rodon,429666,"In play, run(s)",93.6,23.19
+CH,Carlos Rodon,543376,Called Strike,null,null
+FT,Carlos Rodon,543376,"In play, out(s)",66.1,58.8
+FF,Carlos Rodon,430945,"In play, out(s)",34.6,41.49
+FT,Carlos Rodon,570731,Ball,null,null
+FT,Carlos Rodon,570731,"In play, out(s)",95.2,17.36
+SL,Carlos Rodon,592518,Ball,null,null
+CH,Carlos Rodon,592518,Ball,null,null
+FT,Carlos Rodon,592518,Foul,null,null
+CH,Carlos Rodon,592518,Ball,null,null
+FT,Carlos Rodon,592518,"In play, no out",108.2,11.4
+FT,Carlos Rodon,444432,Ball,null,null
+FT,Carlos Rodon,444432,Called Strike,null,null
+CH,Carlos Rodon,444432,Ball,null,null
+FF,Carlos Rodon,444432,"In play, out(s)",92.5,44.79
+FT,Carlos Rodon,456665,Called Strike,null,null
+CH,Carlos Rodon,456665,Ball,null,null
+FT,Carlos Rodon,456665,"In play, no out",102.2,-2.76
+SL,Carlos Rodon,448801,Ball,null,null
+FT,Carlos Rodon,448801,Ball,null,null
+SL,Carlos Rodon,448801,Ball,null,null
+FF,Carlos Rodon,448801,Called Strike,null,null
+FF,Carlos Rodon,448801,Ball,null,null
+FF,Carlos Rodon,429666,Ball,null,null
+FF,Carlos Rodon,429666,Called Strike,null,null
+FF,Carlos Rodon,429666,Ball,null,null
+FT,Carlos Rodon,429666,"In play, run(s)",89.7,25.27
+FF,Carlos Rodon,460099,Ball,null,null
+FF,Carlos Rodon,460099,Called Strike,null,null
+FT,Carlos Rodon,460099,Called Strike,null,null
+SL,Carlos Rodon,460099,Swinging Strike,null,null
+FT,Carlos Rodon,460099,Ball,null,null
+CH,Carlos Rodon,460099,Ball,null,null
+FF,Carlos Rodon,460099,Called Strike,null,null
+FT,Carlos Rodon,460099,"In play, out(s)",90,-6.09
+FT,Carlos Rodon,543376,"In play, out(s)",73.8,-2.61
+CH,Carlos Rodon,460099,Swinging Strike,null,null
+CH,Carlos Rodon,460099,Swinging Strike,null,null
+SL,Carlos Rodon,460099,Ball,null,null
+FF,Carlos Rodon,460099,Foul,null,null
+FF,Carlos Rodon,460099,Foul,null,null
+SL,Carlos Rodon,460099,"In play, out(s)",52.8,1.64
+FT,Carlos Rodon,572821,Called Strike,null,null
+FT,Carlos Rodon,572821,"In play, no out",100,21.08
+CH,Carlos Rodon,543257,"In play, run(s)",91.6,2.92
+FT,Carlos Rodon,543257,Ball,null,null
+CH,Carlos Rodon,593934,Swinging Strike,null,null
+SL,Carlos Rodon,593934,Foul,null,null
+CH,Carlos Rodon,593934,Ball,null,null
+CH,Carlos Rodon,593934,Swinging Strike,null,null
+FT,Carlos Rodon,593934,Ball,null,null
+CH,Carlos Rodon,593934,Swinging Strike (Blocked),null,null
+FF,Carlos Rodon,593934,Foul,null,null
+FT,Carlos Rodon,573627,"In play, run(s)",109.4,31.95
+FT,Carlos Rodon,573627,Ball,null,null
+FT,Carlos Rodon,500871,"In play, no out",104.3,12.31
+CH,Carlos Rodon,593871,Ball In Dirt,null,null
+FT,Carlos Rodon,593871,Called Strike,null,null
+CH,Carlos Rodon,593871,"In play, out(s)",73.1,2.22
+SL,Carlos Rodon,542454,Swinging Strike,null,null
+SL,Carlos Rodon,542454,Foul (Runner Going),null,null
+FF,Carlos Rodon,542454,Foul,null,null
+FT,Carlos Rodon,542454,Ball,null,null
+FT,Carlos Rodon,542454,Foul (Runner Going),null,null
+SL,Carlos Rodon,542454,"In play, out(s)",75.7,-34.4
+FF,Carlos Rodon,542454,Called Strike,null,null
+SL,Carlos Rodon,542454,Foul,null,null
+SL,Carlos Rodon,542454,Foul,null,null
+CH,Carlos Rodon,542454,Ball,null,null
+CH,Carlos Rodon,621439,Ball,null,null
+FT,Carlos Rodon,621439,Ball,null,null
+CH,Carlos Rodon,621439,Ball,null,null
+FT,Carlos Rodon,621439,Ball,null,null
+CH,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,572821,Foul,null,null
+FT,Carlos Rodon,572821,Called Strike,null,null
+SL,Carlos Rodon,572821,"In play, out(s)",84.3,53.17
+FT,Carlos Rodon,543257,Ball,null,null
+CH,Carlos Rodon,543257,Ball,null,null
+FT,Carlos Rodon,543257,"In play, out(s)",68,-36.41
+FT,Carlos Rodon,593934,Called Strike,null,null
+SL,Carlos Rodon,593934,Called Strike,null,null
+FT,Carlos Rodon,593934,Foul,null,null
+FT,Carlos Rodon,500871,Foul,null,null
+SL,Carlos Rodon,500871,Swinging Strike,null,null
+FT,Carlos Rodon,500871,Foul,null,null
+FF,Carlos Rodon,593871,"In play, run(s)",92.5,11.65
+CH,Carlos Rodon,593871,Ball In Dirt,null,null
+FT,Carlos Rodon,518542,Foul,null,null
+FT,Carlos Rodon,518542,Foul,null,null
+SL,Carlos Rodon,518542,Ball,null,null
+SL,Carlos Rodon,518542,Swinging Strike,null,null
+SL,Carlos Rodon,518542,Called Strike,null,null
+FF,Carlos Rodon,518542,Foul,null,null
+FT,Carlos Rodon,592696,Swinging Strike,null,null
+FF,Carlos Rodon,592696,Called Strike,null,null
+FT,Carlos Rodon,592696,Swinging Strike,null,null
+FT,Carlos Rodon,572821,Called Strike,null,null
+FF,Carlos Rodon,572821,"In play, run(s)",103.8,36.1
+CH,Carlos Rodon,572821,Ball,null,null
+SL,Carlos Rodon,572821,Ball,null,null
+CH,Carlos Rodon,543257,"In play, out(s)",95.3,22.42
+FT,Carlos Rodon,543257,Called Strike,null,null
+FT,Carlos Rodon,573627,Ball,null,null
+FT,Carlos Rodon,573627,Ball,null,null
+FF,Carlos Rodon,573627,Ball,null,null
+FT,Carlos Rodon,573627,Swinging Strike,null,null
+FF,Carlos Rodon,573627,Ball,null,null
+FT,Carlos Rodon,500871,Foul,null,null
+FF,Carlos Rodon,500871,"In play, out(s)",87.5,29.82
+CH,Carlos Rodon,500871,Called Strike,null,null
+FF,Carlos Rodon,500871,Ball,null,null
+CH,Carlos Rodon,593871,Foul,null,null
+CH,Carlos Rodon,593871,Called Strike,null,null
+SL,Carlos Rodon,593871,Swinging Strike (Blocked),null,null
+FF,Carlos Rodon,593871,Ball,null,null
+FF,Carlos Rodon,542454,"In play, no out",105.9,12.21
+FF,Carlos Rodon,518542,"In play, out(s)",85.2,-6.58
+SL,Carlos Rodon,592696,Foul,null,null
+SL,Carlos Rodon,592696,Foul,null,null
+FT,Carlos Rodon,592696,Ball,null,null
+SL,Carlos Rodon,592696,Swinging Strike,null,null
+FT,Carlos Rodon,592696,Called Strike,null,null
+FT,Carlos Rodon,592696,Foul,null,null
+SL,Carlos Rodon,592696,Foul,null,null
+FF,Carlos Rodon,592696,Ball,null,null
+FF,Carlos Rodon,592696,Ball,null,null
+FT,Carlos Rodon,518542,Ball,null,null
+FT,Carlos Rodon,518542,"In play, out(s)",98,-9.75
+FF,Carlos Rodon,518542,Called Strike,null,null
+SL,Carlos Rodon,518542,Ball,null,null
+SL,Carlos Rodon,573627,Foul,null,null
+SL,Carlos Rodon,573627,"In play, no out",103.7,9.51
+CH,Carlos Rodon,573627,Called Strike,null,null
+FF,Carlos Rodon,573627,Called Strike,null,null
+SL,Carlos Rodon,573627,Ball,null,null
+FF,Carlos Rodon,573627,Foul,null,null
+FT,Carlos Rodon,593934,"In play, out(s)",78.2,40.66
+SL,Carlos Rodon,593934,Ball,null,null
+FT,Carlos Rodon,542454,"In play, out(s)",44.7,57.77
+SL,Carlos Rodon,542454,Called Strike,null,null
+FF,Carlos Rodon,136860,"In play, no out",98.6,29.02
+FF,Carlos Rodon,136860,Foul,null,null
+SL,Carlos Rodon,121347,Ball,null,null
+SL,Carlos Rodon,121347,Foul,null,null
+FF,Carlos Rodon,121347,Foul,null,null
+FT,Carlos Rodon,121347,"In play, out(s)",103.4,36.54
+SL,Carlos Rodon,407893,Ball In Dirt,null,null
+FT,Carlos Rodon,407893,Foul,null,null
+SL,Carlos Rodon,407893,Ball,null,null
+FT,Carlos Rodon,407893,Swinging Strike,null,null
+SL,Carlos Rodon,407893,"In play, run(s)",96.3,-2.24
+FF,Carlos Rodon,452104,Called Strike,null,null
+FF,Carlos Rodon,452104,"In play, out(s)",null,null
+FT,Carlos Rodon,452104,Foul,null,null
+FF,Carlos Rodon,452104,Ball,null,null
+FF,Carlos Rodon,608701,Ball,null,null
+FF,Carlos Rodon,608701,Called Strike,null,null
+SL,Carlos Rodon,608701,Ball,null,null
+FF,Carlos Rodon,608701,Ball,null,null
+FF,Carlos Rodon,608701,Ball,null,null
+FF,Carlos Rodon,608701,Foul,null,null
+FF,Carlos Rodon,519222,"In play, run(s)",102.1,25.91
+FT,Carlos Rodon,519222,Foul,null,null
+FT,Carlos Rodon,458731,Ball,null,null
+SL,Carlos Rodon,458731,"In play, no out",90,4.34
+FF,Carlos Rodon,458731,Swinging Strike,null,null
+SL,Carlos Rodon,136860,Ball In Dirt,null,null
+FT,Carlos Rodon,136860,Foul,null,null
+FT,Carlos Rodon,136860,Swinging Strike,null,null
+FF,Carlos Rodon,136860,Ball,null,null
+FF,Carlos Rodon,136860,Foul,null,null
+SL,Carlos Rodon,136860,"In play, out(s)",82.4,27.46
+FF,Carlos Rodon,136860,"In play, no out",83.1,17.72
+FT,Carlos Rodon,121347,"In play, no out",101.5,16.5
+FT,Carlos Rodon,121347,Ball,null,null
+FF,Carlos Rodon,516770,Called Strike,null,null
+SL,Carlos Rodon,516770,Ball,null,null
+FT,Carlos Rodon,516770,Ball,null,null
+FT,Carlos Rodon,516770,Ball,null,null
+FT,Carlos Rodon,516770,Ball,null,null
+SL,Carlos Rodon,452104,Foul,null,null
+SL,Carlos Rodon,452104,Ball,null,null
+SL,Carlos Rodon,452104,Called Strike,null,null
+SL,Carlos Rodon,452104,Swinging Strike,null,null
+FF,Carlos Rodon,608701,"In play, no out",95.3,0.31
+FF,Carlos Rodon,608701,Called Strike,null,null
+FT,Carlos Rodon,543305,Ball,null,null
+FT,Carlos Rodon,543305,Ball,null,null
+FF,Carlos Rodon,543305,"In play, out(s)",96.4,53.21
+FF,Carlos Rodon,519222,Ball,null,null
+FF,Carlos Rodon,519222,Called Strike,null,null
+FF,Carlos Rodon,519222,"In play, out(s)",90.1,41.09
+SL,Carlos Rodon,519222,Ball,null,null
+FF,Carlos Rodon,458731,"In play, no out",102.8,1.82
+FT,Carlos Rodon,136860,"In play, run(s)",93,11.19
+SL,Carlos Rodon,136860,Ball In Dirt,null,null
+SL,Carlos Rodon,407893,Swinging Strike,null,null
+FF,Carlos Rodon,407893,Ball,null,null
+FF,Carlos Rodon,407893,Called Strike,null,null
+SL,Carlos Rodon,407893,Swinging Strike,null,null
+FT,Carlos Rodon,516770,"In play, no out",108.6,-11.11
+SL,Carlos Rodon,452104,"In play, run(s)",108.9,19.02
+FT,Carlos Rodon,452104,Ball,null,null
+FF,Carlos Rodon,543305,Swinging Strike,null,null
+SL,Carlos Rodon,543305,"In play, out(s)",102.5,18.24
+FF,Carlos Rodon,543305,Ball,null,null
+FF,Carlos Rodon,519222,Foul,null,null
+FF,Carlos Rodon,519222,Ball,null,null
+CH,Carlos Rodon,519222,"In play, no out",102.2,15.45
+SL,Carlos Rodon,458731,Foul,null,null
+FF,Carlos Rodon,458731,Swinging Strike,null,null
+SL,Carlos Rodon,458731,Called Strike,null,null
+FF,Carlos Rodon,407893,Ball In Dirt,null,null
+FF,Carlos Rodon,407893,"In play, out(s)",81.5,9.02
+FF,Carlos Rodon,407893,Ball,null,null
+FF,Carlos Rodon,458731,Foul,null,null
+SL,Carlos Rodon,458731,Ball,null,null
+SL,Carlos Rodon,458731,"In play, out(s)",71.6,13.13
+FF,Carlos Rodon,458731,Called Strike,null,null
+SL,Carlos Rodon,458731,Foul,null,null
+FT,Carlos Rodon,458731,Foul,null,null
+FF,Carlos Rodon,516770,Ball,null,null
+FT,Carlos Rodon,516770,"In play, out(s)",99.7,-0.07
+FF,Carlos Rodon,516770,Ball,null,null
+FT,Carlos Rodon,516770,Called Strike,null,null
+FT,Carlos Rodon,543305,"In play, out(s)",105.2,-10.21
+FT,Carlos Rodon,543305,Foul,null,null
+FF,Carlos Rodon,608701,"In play, out(s)",69.2,15.35
+FF,Carlos Rodon,608701,Called Strike,null,null
+SL,Carlos Rodon,121347,Ball,null,null
+FF,Carlos Rodon,121347,"In play, run(s)",102,-2.68
+FF,Carlos Rodon,121347,Ball,null,null
+FF,Carlos Rodon,456488,Ball,null,null
+SL,Carlos Rodon,456488,Swinging Strike,null,null
+SL,Carlos Rodon,456488,Foul,null,null
+FF,Carlos Rodon,456488,Called Strike,null,null
+FF,Carlos Rodon,456488,Ball,null,null
+FF,Carlos Rodon,456488,Swinging Strike,null,null
+CH,Carlos Rodon,543257,Swinging Strike,null,null
+FF,Carlos Rodon,543257,Ball,null,null
+FT,Carlos Rodon,543257,Called Strike,null,null
+FF,Carlos Rodon,543257,Foul,null,null
+SL,Carlos Rodon,543257,Ball,null,null
+FF,Carlos Rodon,596146,Called Strike,null,null
+SL,Carlos Rodon,596146,Swinging Strike,null,null
+SL,Carlos Rodon,596146,Swinging Strike,null,null
+FF,Carlos Rodon,596146,Ball,null,null
+FF,Carlos Rodon,621439,Swinging Strike,null,null
+FF,Carlos Rodon,621439,Called Strike,null,null
+FF,Carlos Rodon,621439,Called Strike,null,null
+FF,Carlos Rodon,500871,Ball,null,null
+FT,Carlos Rodon,500871,Foul,null,null
+CH,Carlos Rodon,500871,Ball,null,null
+SL,Carlos Rodon,500871,Swinging Strike (Blocked),null,null
+FF,Carlos Rodon,500871,Called Strike,null,null
+FF,Carlos Rodon,500871,Foul,null,null
+FF,Carlos Rodon,500871,Foul,null,null
+SL,Carlos Rodon,542454,Swinging Strike,null,null
+FF,Carlos Rodon,542454,Ball,null,null
+FF,Carlos Rodon,542454,Called Strike,null,null
+FT,Carlos Rodon,542454,Ball,null,null
+CH,Carlos Rodon,542454,Ball,null,null
+SL,Carlos Rodon,542454,Foul,null,null
+FT,Carlos Rodon,542454,Swinging Strike,null,null
+SL,Carlos Rodon,543257,Ball,null,null
+FF,Carlos Rodon,543257,Ball,null,null
+FF,Carlos Rodon,543257,Called Strike,null,null
+FF,Carlos Rodon,543257,Foul,null,null
+FF,Carlos Rodon,543257,Ball In Dirt,null,null
+SL,Carlos Rodon,543257,Ball,null,null
+FF,Carlos Rodon,621439,Foul,null,null
+FF,Carlos Rodon,621439,"In play, no out",106.6,11.93
+SL,Carlos Rodon,621439,Ball,null,null
+FF,Carlos Rodon,621439,Ball,null,null
+CH,Carlos Rodon,456488,Ball,null,null
+FF,Carlos Rodon,456488,Ball,null,null
+FF,Carlos Rodon,456488,Foul,null,null
+SL,Carlos Rodon,456488,Called Strike,null,null
+SL,Carlos Rodon,456488,Foul,null,null
+SL,Carlos Rodon,456488,"In play, out(s)",84.6,64.08
+FF,Carlos Rodon,461858,Called Strike,null,null
+FF,Carlos Rodon,461858,"In play, out(s)",96.5,-10.21
+FF,Carlos Rodon,461858,Called Strike,null,null
+FF,Carlos Rodon,572821,Foul,null,null
+CH,Carlos Rodon,572821,"In play, out(s)",94.8,-13.46
+FT,Carlos Rodon,572821,Called Strike,null,null
+FF,Carlos Rodon,572821,Ball,null,null
+CH,Carlos Rodon,572821,Foul,null,null
+CH,Carlos Rodon,500871,"In play, out(s)",65.2,-2.62
+FF,Carlos Rodon,500871,Called Strike,null,null
+SL,Carlos Rodon,461858,Ball,null,null
+FF,Carlos Rodon,461858,"In play, out(s)",105.1,-1.04
+FF,Carlos Rodon,461858,Ball,null,null
+FF,Carlos Rodon,435559,Foul,null,null
+FF,Carlos Rodon,435559,Foul,null,null
+CH,Carlos Rodon,435559,"In play, out(s)",null,null
+CH,Carlos Rodon,435559,Ball,null,null
+FT,Carlos Rodon,435559,Ball,null,null
+SL,Carlos Rodon,572821,Ball,null,null
+SL,Carlos Rodon,572821,Ball,null,null
+FF,Carlos Rodon,572821,Foul (Runner Going),null,null
+FT,Carlos Rodon,572821,Called Strike,null,null
+FF,Carlos Rodon,572821,Ball,null,null
+FF,Carlos Rodon,572821,Foul,null,null
+SL,Carlos Rodon,572821,"In play, run(s)",103.5,6.29
+SL,Carlos Rodon,596146,Ball,null,null
+SL,Carlos Rodon,596146,Called Strike,null,null
+FT,Carlos Rodon,596146,"In play, out(s)",93,-10.15
+FF,Carlos Rodon,435559,Foul,null,null
+FF,Carlos Rodon,435559,"In play, out(s)",89.3,27.93
+FF,Carlos Rodon,435559,Called Strike,null,null
+FF,Carlos Rodon,542454,"In play, out(s)",81.7,34.09
+FF,Carlos Rodon,500871,"In play, out(s)",84.1,36.96
+FF,Carlos Rodon,572821,"In play, run(s)",103.9,26.74
+FT,Carlos Rodon,543257,"In play, run(s)",95.9,27.38
+SL,Carlos Rodon,543257,Ball,null,null
+FT,Carlos Rodon,456488,"In play, run(s)",99.3,1.24
+FF,Carlos Rodon,456488,Foul Bunt,null,null
+FT,Carlos Rodon,456488,Foul,null,null
+FF,Carlos Rodon,485567,Called Strike,null,null
+FT,Carlos Rodon,485567,Called Strike,null,null
+SL,Carlos Rodon,485567,Swinging Strike,null,null
+SL,Carlos Rodon,429665,Swinging Strike (Blocked),null,null
+FF,Carlos Rodon,429665,Ball,null,null
+FF,Carlos Rodon,429665,Called Strike,null,null
+SL,Carlos Rodon,429665,Swinging Strike,null,null
+SL,Carlos Rodon,459431,Foul,null,null
+FF,Carlos Rodon,459431,"In play, no out",101.5,20.7
+FF,Carlos Rodon,459431,Foul,null,null
+FF,Carlos Rodon,459431,Foul,null,null
+SL,Carlos Rodon,459431,Ball,null,null
+FF,Carlos Rodon,431145,Called Strike,null,null
+SL,Carlos Rodon,431145,Foul,null,null
+SL,Carlos Rodon,431145,Foul,null,null
+SL,Carlos Rodon,431145,Swinging Strike,null,null
+SL,Carlos Rodon,453064,Ball In Dirt,null,null
+FF,Carlos Rodon,453064,Ball,null,null
+FF,Carlos Rodon,453064,Ball,null,null
+FF,Carlos Rodon,453064,Ball,null,null
+FT,Carlos Rodon,607680,Ball,null,null
+FT,Carlos Rodon,607680,Ball,null,null
+FF,Carlos Rodon,607680,Called Strike,null,null
+FF,Carlos Rodon,607680,"In play, run(s)",73.5,21.47
+FT,Carlos Rodon,581527,Ball,null,null
+FF,Carlos Rodon,581527,"In play, out(s)",87.9,62.19
+FF,Carlos Rodon,516809,Foul,null,null
+SL,Carlos Rodon,516809,Swinging Strike,null,null
+SL,Carlos Rodon,516809,Swinging Strike (Blocked),null,null
+SL,Carlos Rodon,485567,Ball,null,null
+FF,Carlos Rodon,485567,"In play, out(s)",69.6,33.98
+FT,Carlos Rodon,518626,"In play, no out",103.6,-5.43
+SL,Carlos Rodon,429665,Foul,null,null
+FF,Carlos Rodon,429665,Called Strike,null,null
+CH,Carlos Rodon,429665,Called Strike,null,null
+CH,Carlos Rodon,429665,Ball,null,null
+FF,Carlos Rodon,429665,Ball,null,null
+FF,Carlos Rodon,429665,Ball,null,null
+FF,Carlos Rodon,429665,Called Strike,null,null
+FT,Carlos Rodon,459431,Called Strike,null,null
+SL,Carlos Rodon,459431,"In play, out(s)",69.7,-17.31
+FF,Carlos Rodon,431145,"In play, out(s)",95.2,-6.65
+SL,Carlos Rodon,453064,Foul,null,null
+FF,Carlos Rodon,453064,"In play, out(s)",90.6,24.51
+FF,Carlos Rodon,453064,Ball,null,null
+FT,Carlos Rodon,453064,Ball,null,null
+FF,Carlos Rodon,453064,Ball,null,null
+FF,Carlos Rodon,453064,Called Strike,null,null
+FF,Carlos Rodon,453064,Foul,null,null
+SL,Carlos Rodon,607680,Foul,null,null
+SL,Carlos Rodon,607680,Swinging Strike,null,null
+FF,Carlos Rodon,607680,Called Strike,null,null
+SL,Carlos Rodon,607680,Swinging Strike,null,null
+FF,Carlos Rodon,607680,Foul,null,null
+SL,Carlos Rodon,607680,Ball,null,null
+SL,Carlos Rodon,581527,Ball,null,null
+FF,Carlos Rodon,581527,"In play, no out",83.9,14.68
+FF,Carlos Rodon,581527,Called Strike,null,null
+SL,Carlos Rodon,581527,Ball,null,null
+SL,Carlos Rodon,581527,Called Strike,null,null
+FF,Carlos Rodon,516809,Called Strike,null,null
+FT,Carlos Rodon,516809,Ball,null,null
+FF,Carlos Rodon,516809,Called Strike,null,null
+SL,Carlos Rodon,516809,Ball In Dirt,null,null
+FF,Carlos Rodon,516809,Ball,null,null
+FF,Carlos Rodon,516809,Swinging Strike,null,null
+SL,Carlos Rodon,485567,Foul,null,null
+FF,Carlos Rodon,485567,Called Strike,null,null
+SL,Carlos Rodon,485567,Ball,null,null
+SL,Carlos Rodon,485567,Swinging Strike,null,null
+SL,Carlos Rodon,485567,Ball,null,null
+SL,Carlos Rodon,485567,Foul,null,null
+FF,Carlos Rodon,485567,Ball,null,null
+FF,Carlos Rodon,485567,"In play, out(s)",88.3,58.94
+FT,Carlos Rodon,518626,Foul,null,null
+SL,Carlos Rodon,518626,Foul,null,null
+FF,Carlos Rodon,518626,Ball,null,null
+SL,Carlos Rodon,518626,Foul (Runner Going),null,null
+FF,Carlos Rodon,518626,Ball,null,null
+CH,Carlos Rodon,518626,Ball In Dirt,null,null
+FF,Carlos Rodon,518626,Ball,null,null
+FF,Carlos Rodon,518626,Called Strike,null,null
+FT,Carlos Rodon,518626,Swinging Strike,null,null
+SL,Carlos Rodon,429665,"In play, out(s)",null,null
+FF,Carlos Rodon,429665,Ball,null,null
+FF,Carlos Rodon,429665,Foul,null,null
+SL,Carlos Rodon,429665,Swinging Strike,null,null
+SL,Carlos Rodon,459431,Ball,null,null
+SL,Carlos Rodon,459431,Ball,null,null
+FF,Carlos Rodon,459431,Foul,null,null
+FF,Carlos Rodon,459431,Hit By Pitch,null,null
+FF,Carlos Rodon,431145,Ball,null,null
+SL,Carlos Rodon,431145,Ball,null,null
+FF,Carlos Rodon,431145,Called Strike,null,null
+FT,Carlos Rodon,431145,Ball,null,null
+FF,Carlos Rodon,431145,Swinging Strike,null,null
+FF,Carlos Rodon,431145,Called Strike,null,null
+FF,Carlos Rodon,453064,Foul,null,null
+FF,Carlos Rodon,453064,"In play, out(s)",75,43.54
+FF,Carlos Rodon,581527,Foul,null,null
+SL,Carlos Rodon,581527,Foul,null,null
+FF,Carlos Rodon,581527,"In play, no out",72.2,9.66
+FF,Carlos Rodon,581527,Foul,null,null
+FF,Carlos Rodon,581527,Ball,null,null
+SL,Carlos Rodon,581527,Foul,null,null
+FT,Carlos Rodon,518626,Ball,null,null
+SL,Carlos Rodon,518626,Ball,null,null
+SL,Carlos Rodon,518626,"In play, out(s)",null,null
+FF,Carlos Rodon,518626,Ball,null,null
+FF,Carlos Rodon,518626,Called Strike,null,null
+FF,Carlos Rodon,518626,Foul,null,null
+SL,Carlos Rodon,607680,"In play, run(s)",null,null
+FF,Carlos Rodon,607680,Called Strike,null,null
+FF,Carlos Rodon,607680,Ball,null,null
+SL,Carlos Rodon,607680,Swinging Strike (Blocked),null,null
+FF,Carlos Rodon,434658,"In play, no out",63.7,33.65
+FT,Carlos Rodon,434658,Called Strike,null,null
+SL,Carlos Rodon,596019,Swinging Strike,null,null
+SL,Carlos Rodon,596019,Ball In Dirt,null,null
+FT,Carlos Rodon,596019,Ball,null,null
+FT,Carlos Rodon,596019,Foul Bunt,null,null
+SL,Carlos Rodon,596019,Swinging Strike,null,null
+FT,Carlos Rodon,435063,"In play, run(s)",94.6,38.34
+FT,Carlos Rodon,467793,Ball,null,null
+FT,Carlos Rodon,467793,"In play, no out",100.4,-20.59
+FT,Carlos Rodon,467793,Ball,null,null
+SL,Carlos Rodon,608070,Foul,null,null
+FT,Carlos Rodon,608070,Foul,null,null
+SL,Carlos Rodon,608070,Swinging Strike (Blocked),null,null
+FT,Carlos Rodon,346874,Ball,null,null
+FT,Carlos Rodon,346874,Ball,null,null
+FT,Carlos Rodon,346874,Called Strike,null,null
+FF,Carlos Rodon,346874,Swinging Strike,null,null
+FT,Carlos Rodon,346874,Ball,null,null
+FT,Carlos Rodon,346874,Foul,null,null
+FF,Carlos Rodon,543401,Ball,null,null
+FF,Carlos Rodon,543401,Swinging Strike,null,null
+SL,Carlos Rodon,543401,Swinging Strike,null,null
+SL,Carlos Rodon,543401,Swinging Strike,null,null
+FF,Carlos Rodon,435063,Ball,null,null
+FF,Carlos Rodon,435063,Ball,null,null
+FT,Carlos Rodon,435063,Ball,null,null
+SL,Carlos Rodon,435063,Called Strike,null,null
+FF,Carlos Rodon,435063,Ball,null,null
+SL,Carlos Rodon,467793,Foul,null,null
+SL,Carlos Rodon,467793,Swinging Strike,null,null
+SL,Carlos Rodon,467793,Foul,null,null
+FT,Carlos Rodon,467793,Ball,null,null
+FF,Carlos Rodon,467793,Ball,null,null
+FT,Carlos Rodon,467793,Swinging Strike,null,null
+FT,Carlos Rodon,608070,Ball,null,null
+FT,Carlos Rodon,608070,Called Strike,null,null
+FF,Carlos Rodon,608070,Called Strike,null,null
+SL,Carlos Rodon,608070,Ball,null,null
+FT,Carlos Rodon,608070,Ball,null,null
+SL,Carlos Rodon,608070,"In play, out(s)",null,null
+FF,Carlos Rodon,543228,Swinging Strike,null,null
+FF,Carlos Rodon,543228,Ball,null,null
+FF,Carlos Rodon,543228,Swinging Strike,null,null
+FF,Carlos Rodon,543228,Called Strike,null,null
+FF,Carlos Rodon,543228,Foul,null,null
+SL,Carlos Rodon,543228,Foul,null,null
+FF,Carlos Rodon,492841,"In play, out(s)",55.3,40.58
+FT,Carlos Rodon,492841,Called Strike,null,null
+FF,Carlos Rodon,492841,Foul,null,null
+FT,Carlos Rodon,434658,"In play, no out",79.7,7.45
+FF,Carlos Rodon,543401,Ball,null,null
+FT,Carlos Rodon,543401,"In play, out(s)",null,null
+FT,Carlos Rodon,543401,Called Strike,null,null
+FT,Carlos Rodon,596019,"In play, out(s)",95.1,22.41
+FT,Carlos Rodon,596019,Foul,null,null
+FT,Carlos Rodon,435063,Ball,null,null
+FF,Carlos Rodon,435063,Called Strike,null,null
+FT,Carlos Rodon,435063,Foul Tip,null,null
+SL,Carlos Rodon,435063,Foul Tip,null,null
+SL,Carlos Rodon,435063,Ball,null,null
+FF,Carlos Rodon,467793,"In play, out(s)",98.5,9.08
+SL,Carlos Rodon,608070,Foul,null,null
+FT,Carlos Rodon,608070,Foul,null,null
+FT,Carlos Rodon,608070,Ball,null,null
+FF,Carlos Rodon,608070,Called Strike,null,null
+FT,Carlos Rodon,608070,Called Strike,null,null
+FF,Carlos Rodon,346874,Foul,null,null
+FF,Carlos Rodon,346874,Foul,null,null
+FF,Carlos Rodon,346874,Ball,null,null
+FF,Carlos Rodon,346874,Ball,null,null
+CH,Carlos Rodon,346874,Swinging Strike,null,null
+FF,Carlos Rodon,346874,"In play, out(s)",95.4,5.9
+FF,Carlos Rodon,543228,"In play, out(s)",73,35.74
+SL,Carlos Rodon,492841,Swinging Strike,null,null
+SL,Carlos Rodon,492841,Ball,null,null
+FF,Carlos Rodon,492841,"In play, no out",87,13.99
+FF,Carlos Rodon,492841,Called Strike,null,null
+FF,Carlos Rodon,543401,"In play, no out",null,null
+FF,Carlos Rodon,543401,Ball,null,null
+FF,Carlos Rodon,492841,"In play, out(s)",70.6,8.3
+SL,Carlos Rodon,492841,Ball In Dirt,null,null
+SL,Carlos Rodon,596019,Swinging Strike,null,null
+SL,Carlos Rodon,596019,"In play, out(s)",83.4,-22.76
+SL,Carlos Rodon,596019,Ball,null,null
+SL,Carlos Rodon,346874,Ball,null,null
+FF,Carlos Rodon,346874,Ball,null,null
+FT,Carlos Rodon,346874,Foul,null,null
+SL,Carlos Rodon,346874,Foul,null,null
+CH,Carlos Rodon,346874,Ball,null,null
+SL,Carlos Rodon,346874,"In play, run(s)",98.7,29.69
+FF,Carlos Rodon,434658,Foul,null,null
+SL,Carlos Rodon,434658,Foul,null,null
+SL,Carlos Rodon,434658,Foul,null,null
+CH,Carlos Rodon,434658,"In play, no out",98.2,18.32
+CH,Carlos Rodon,434658,Ball,null,null
+FT,Carlos Rodon,434658,Foul,null,null
+FT,Carlos Rodon,543228,"In play, no out",65.9,28.62
+FT,Carlos Rodon,543228,Ball,null,null
+FT,Carlos Rodon,593160,"In play, no out",74.4,-1.62
+FF,Carlos Rodon,593160,Ball,null,null
+FF,Carlos Rodon,444876,"In play, out(s)",null,null
+SL,Carlos Rodon,444876,Foul Bunt,null,null
+SL,Carlos Rodon,543333,"In play, out(s)",null,null
+FT,Carlos Rodon,543333,Ball,null,null
+CH,Carlos Rodon,456715,Ball In Dirt,null,null
+IN,Carlos Rodon,456715,Intent Ball,null,null
+SL,Carlos Rodon,456715,Ball,null,null
+SL,Carlos Rodon,456715,Ball In Dirt,null,null
+FT,Carlos Rodon,434778,"In play, run(s)",97.3,17.24
+FF,Carlos Rodon,434778,Ball,null,null
+SL,Carlos Rodon,521692,Foul,null,null
+SL,Carlos Rodon,521692,Foul,null,null
+FF,Carlos Rodon,521692,Swinging Strike,null,null
+FF,Carlos Rodon,521692,Ball,null,null
+FT,Carlos Rodon,521692,Ball,null,null
+SL,Carlos Rodon,449181,Foul Tip,null,null
+FT,Carlos Rodon,449181,Hit By Pitch,null,null
+FF,Carlos Rodon,449181,Foul,null,null
+FF,Carlos Rodon,596144,Ball,null,null
+FT,Carlos Rodon,596144,"In play, no out",77,17.7
+FT,Carlos Rodon,596144,Ball,null,null
+FT,Carlos Rodon,596144,Foul,null,null
+FT,Carlos Rodon,518568,Foul,null,null
+FF,Carlos Rodon,518568,Foul,null,null
+FT,Carlos Rodon,518568,"In play, no out",83.6,4.34
+FT,Carlos Rodon,518568,Ball,null,null
+SL,Carlos Rodon,593160,Swinging Strike (Blocked),null,null
+FT,Carlos Rodon,593160,Foul,null,null
+SL,Carlos Rodon,593160,"In play, run(s)",87.7,-9.05
+FT,Carlos Rodon,444876,Ball,null,null
+FF,Carlos Rodon,444876,Swinging Strike,null,null
+FT,Carlos Rodon,444876,Ball,null,null
+FT,Carlos Rodon,444876,Swinging Strike,null,null
+SL,Carlos Rodon,444876,Swinging Strike (Blocked),null,null
+FF,Carlos Rodon,543333,Called Strike,null,null
+SL,Carlos Rodon,543333,Called Strike,null,null
+FT,Carlos Rodon,543333,"In play, out(s)",83.9,-32.02
+FF,Carlos Rodon,543333,Ball,null,null
+FT,Carlos Rodon,456715,"In play, no out",105.5,3.96
+SL,Carlos Rodon,434778,Ball,null,null
+FF,Carlos Rodon,434778,Ball,null,null
+FF,Carlos Rodon,434778,Ball,null,null
+FF,Carlos Rodon,434778,Called Strike,null,null
+FF,Carlos Rodon,434778,Called Strike,null,null
+SL,Carlos Rodon,434778,Swinging Strike,null,null
+SL,Carlos Rodon,521692,Foul,null,null
+SL,Carlos Rodon,521692,Ball,null,null
+SL,Carlos Rodon,521692,Foul,null,null
+CH,Carlos Rodon,521692,"In play, no out",77.3,20.71
+SL,Carlos Rodon,521692,Foul,null,null
+FF,Carlos Rodon,521692,Ball,null,null
+FT,Carlos Rodon,521692,Foul,null,null
+SL,Carlos Rodon,521692,Foul,null,null
+SL,Carlos Rodon,521692,Foul,null,null
+FF,Carlos Rodon,521692,Foul,null,null
+SL,Carlos Rodon,449181,Called Strike,null,null
+FF,Carlos Rodon,449181,"In play, out(s)",81.5,46.35
+FF,Carlos Rodon,449181,Ball,null,null
+FF,Carlos Rodon,518568,Called Strike,null,null
+SL,Carlos Rodon,518568,Ball In Dirt,null,null
+SL,Carlos Rodon,518568,Ball,null,null
+FF,Carlos Rodon,518568,Ball,null,null
+SL,Carlos Rodon,518568,Called Strike,null,null
+FF,Carlos Rodon,518568,Ball,null,null
+FF,Carlos Rodon,593160,Called Strike,null,null
+FT,Carlos Rodon,593160,Foul,null,null
+SL,Carlos Rodon,593160,Foul,null,null
+FF,Carlos Rodon,593160,Ball,null,null
+FT,Carlos Rodon,593160,Foul,null,null
+SL,Carlos Rodon,593160,Swinging Strike (Blocked),null,null
+FF,Carlos Rodon,444876,Ball,null,null
+FF,Carlos Rodon,444876,Called Strike,null,null
+FF,Carlos Rodon,444876,Called Strike,null,null
+FF,Carlos Rodon,444876,Ball,null,null
+FF,Carlos Rodon,444876,Ball,null,null
+SL,Carlos Rodon,444876,Swinging Strike (Blocked),null,null
+FT,Carlos Rodon,543333,Ball,null,null
+SL,Carlos Rodon,543333,Ball,null,null
+FF,Carlos Rodon,543333,"In play, out(s)",101.6,40.4
+FF,Carlos Rodon,456715,Called Strike,null,null
+FF,Carlos Rodon,456715,Ball,null,null
+FF,Carlos Rodon,456715,Foul,null,null
+FF,Carlos Rodon,456715,Ball,null,null
+CH,Carlos Rodon,456715,Ball,null,null
+SL,Carlos Rodon,456715,"In play, out(s)",88.6,34.86
+FF,Carlos Rodon,434778,Called Strike,null,null
+SL,Carlos Rodon,434778,Foul,null,null
+CH,Carlos Rodon,434778,Swinging Strike,null,null
+FF,Carlos Rodon,434778,Ball,null,null
+CH,Carlos Rodon,521692,"In play, out(s)",96.2,30.54
+SL,Carlos Rodon,449181,Foul,null,null
+SL,Carlos Rodon,449181,Swinging Strike,null,null
+SL,Carlos Rodon,449181,Called Strike,null,null
+FF,Carlos Rodon,449181,Foul,null,null
+FF,Carlos Rodon,596144,"In play, out(s)",null,null
+FT,Carlos Rodon,435079,Ball,null,null
+SL,Carlos Rodon,435079,Ball,null,null
+FT,Carlos Rodon,435079,Foul,null,null
+FF,Carlos Rodon,435079,Called Strike,null,null
+FT,Carlos Rodon,435079,Foul,null,null
+SL,Carlos Rodon,435079,Swinging Strike,null,null
+CH,Carlos Rodon,457727,Foul,null,null
+SL,Carlos Rodon,457727,Swinging Strike,null,null
+FF,Carlos Rodon,457727,Called Strike,null,null
+SL,Carlos Rodon,457727,Ball,null,null
+FT,Carlos Rodon,408234,Ball,null,null
+FT,Carlos Rodon,408234,Foul,null,null
+CH,Carlos Rodon,408234,Ball,null,null
+FF,Carlos Rodon,408234,Ball,null,null
+FT,Carlos Rodon,408234,Ball,null,null
+FT,Carlos Rodon,502110,Called Strike,null,null
+FF,Carlos Rodon,502110,Foul,null,null
+FF,Carlos Rodon,502110,Foul,null,null
+CH,Carlos Rodon,502110,Ball In Dirt,null,null
+SL,Carlos Rodon,502110,Swinging Strike,null,null
+FF,Carlos Rodon,502110,Ball,null,null
+FF,Carlos Rodon,502110,Foul Tip,null,null
+SL,Carlos Rodon,502110,Foul,null,null
+SL,Carlos Rodon,502110,Ball In Dirt,null,null
+FT,Carlos Rodon,408234,Called Strike,null,null
+FT,Carlos Rodon,408234,Foul,null,null
+SL,Carlos Rodon,408234,Swinging Strike,null,null
+CH,Carlos Rodon,543510,Ball,null,null
+FT,Carlos Rodon,543510,Swinging Strike,null,null
+FT,Carlos Rodon,543510,Called Strike,null,null
+FF,Carlos Rodon,543510,Called Strike,null,null
+CH,Carlos Rodon,502110,Ball,null,null
+FT,Carlos Rodon,502110,Ball,null,null
+SL,Carlos Rodon,502110,Ball,null,null
+FF,Carlos Rodon,502110,Ball,null,null
+CH,Carlos Rodon,449107,Ball,null,null
+FF,Carlos Rodon,449107,Ball,null,null
+FT,Carlos Rodon,449107,Ball,null,null
+CH,Carlos Rodon,449107,Ball,null,null
+FF,Carlos Rodon,449107,Called Strike,null,null
+CH,Carlos Rodon,502110,Swinging Strike,null,null
+SL,Carlos Rodon,502110,Swinging Strike,null,null
+FT,Carlos Rodon,502110,"In play, out(s)",100.2,-14.64
+CH,Carlos Rodon,457727,"In play, out(s)",null,null
+CH,Carlos Rodon,457708,Ball,null,null
+FT,Carlos Rodon,457708,Called Strike,null,null
+CH,Carlos Rodon,457708,"In play, out(s)",77.7,39.22
+FF,Carlos Rodon,400121,Called Strike,null,null
+SL,Carlos Rodon,400121,Ball,null,null
+FT,Carlos Rodon,400121,Ball,null,null
+CH,Carlos Rodon,400121,"In play, out(s)",81.6,58.55
+CH,Carlos Rodon,578428,"In play, out(s)",89.7,21.21
+FT,Carlos Rodon,578428,Called Strike,null,null
+FT,Carlos Rodon,400121,Ball,null,null
+FF,Carlos Rodon,400121,Ball,null,null
+FT,Carlos Rodon,400121,"In play, run(s)",97.4,30.78
+FT,Carlos Rodon,400121,Ball,null,null
+FF,Carlos Rodon,400121,Called Strike,null,null
+FF,Carlos Rodon,449107,Called Strike,null,null
+FT,Carlos Rodon,449107,Called Strike,null,null
+FT,Carlos Rodon,449107,Foul,null,null
+FT,Carlos Rodon,449107,Ball,null,null
+SL,Carlos Rodon,449107,Ball,null,null
+SL,Carlos Rodon,449107,Ball,null,null
+FT,Carlos Rodon,449107,"In play, out(s)",60,-59.97
+FF,Carlos Rodon,408234,Foul,null,null
+SL,Carlos Rodon,408234,"In play, out(s)",null,null
+CH,Carlos Rodon,408234,Ball,null,null
+FT,Carlos Rodon,400121,Called Strike,null,null
+FF,Carlos Rodon,400121,Foul,null,null
+SL,Carlos Rodon,400121,"In play, no out",95.4,1.87
+SL,Carlos Rodon,457727,"In play, out(s)",76.1,34.81
+CH,Carlos Rodon,457727,Foul Bunt,null,null
+FT,Carlos Rodon,435079,Called Strike,null,null
+SL,Carlos Rodon,435079,Foul,null,null
+SL,Carlos Rodon,435079,"In play, run(s)",100.4,15.76
+CH,Carlos Rodon,435079,Ball,null,null
+FT,Carlos Rodon,578428,Called Strike,null,null
+FT,Carlos Rodon,578428,"In play, no out",95.6,18.35
+SL,Carlos Rodon,543510,Foul,null,null
+FT,Carlos Rodon,543510,Foul,null,null
+SL,Carlos Rodon,543510,"In play, run(s)",80.2,45.4
+FF,Carlos Rodon,543510,Called Strike,null,null
+SL,Carlos Rodon,543510,Ball,null,null
+FF,Carlos Rodon,543510,Foul,null,null
+SL,Carlos Rodon,543510,Ball,null,null
+FT,Carlos Rodon,449107,"In play, out(s)",95.5,2.17
+FT,Carlos Rodon,449107,Foul Bunt,null,null
+FT,Carlos Rodon,457708,"In play, no out",96.6,-22.29
+FT,Carlos Rodon,457708,Ball,null,null
+SL,Carlos Rodon,435079,Ball,null,null
+SL,Carlos Rodon,435079,"In play, out(s)",88,44.93
+FT,Carlos Rodon,435079,Foul,null,null
+CH,Carlos Rodon,457708,Ball,null,null
+FT,Carlos Rodon,457708,Foul,null,null
+SL,Carlos Rodon,457708,"In play, out(s)",94.8,29.7
+FT,Carlos Rodon,457708,Ball,null,null
+CH,Carlos Rodon,457708,Foul,null,null
+FF,Carlos Rodon,543510,Ball,null,null
+FF,Carlos Rodon,543510,"In play, run(s)",104.5,36.07
+FF,Carlos Rodon,543510,Ball,null,null
+SL,Carlos Rodon,444876,Ball,null,null
+FT,Carlos Rodon,444876,Called Strike,null,null
+FT,Carlos Rodon,444876,Foul,null,null
+FF,Carlos Rodon,444876,Ball,null,null
+FT,Carlos Rodon,444876,"In play, out(s)",null,null
+FT,Carlos Rodon,593160,Called Strike,null,null
+FT,Carlos Rodon,593160,Foul,null,null
+FT,Carlos Rodon,593160,Ball,null,null
+SL,Carlos Rodon,593160,Ball,null,null
+FT,Carlos Rodon,593160,Foul,null,null
+FF,Carlos Rodon,593160,"In play, out(s)",87.2,49.52
+FF,Carlos Rodon,456715,Called Strike,null,null
+FF,Carlos Rodon,456715,Ball,null,null
+FF,Carlos Rodon,456715,Ball,null,null
+FF,Carlos Rodon,456715,Swinging Strike,null,null
+FF,Carlos Rodon,456715,Ball,null,null
+FF,Carlos Rodon,456715,"In play, no out",null,null
+FF,Carlos Rodon,543333,Ball,null,null
+FT,Carlos Rodon,543333,Ball,null,null
+FF,Carlos Rodon,543333,Swinging Strike,null,null
+FT,Carlos Rodon,543333,Swinging Strike,null,null
+FT,Carlos Rodon,543333,Foul,null,null
+SL,Carlos Rodon,543333,Called Strike,null,null
+FT,Carlos Rodon,521692,Ball,null,null
+FF,Carlos Rodon,521692,Ball,null,null
+FT,Carlos Rodon,521692,Ball,null,null
+FT,Carlos Rodon,521692,Called Strike,null,null
+FT,Carlos Rodon,521692,Ball,null,null
+FF,Carlos Rodon,449181,"In play, no out",52.6,18.77
+FT,Carlos Rodon,596144,Called Strike,null,null
+FT,Carlos Rodon,596144,Ball,null,null
+SL,Carlos Rodon,596144,Foul,null,null
+FT,Carlos Rodon,596144,Foul,null,null
+SL,Carlos Rodon,596144,Ball In Dirt,null,null
+FF,Carlos Rodon,596144,Ball,null,null
+FT,Carlos Rodon,596144,"In play, out(s)",88.1,31.64
+SL,Carlos Rodon,408299,Ball,null,null
+FF,Carlos Rodon,408299,Ball,null,null
+FF,Carlos Rodon,408299,Ball,null,null
+FF,Carlos Rodon,408299,Ball,null,null
+FF,Carlos Rodon,444876,"In play, out(s)",69.3,1.75
+FT,Carlos Rodon,593160,Ball,null,null
+FF,Carlos Rodon,593160,Foul,null,null
+CH,Carlos Rodon,593160,Ball,null,null
+FF,Carlos Rodon,593160,Foul,null,null
+FT,Carlos Rodon,593160,Ball,null,null
+FF,Carlos Rodon,593160,"In play, no out",97.9,16.43
+SL,Carlos Rodon,456715,"In play, out(s)",80.5,55.31
+SL,Carlos Rodon,543333,Ball In Dirt,null,null
+SL,Carlos Rodon,543333,Swinging Strike,null,null
+SL,Carlos Rodon,543333,Called Strike,null,null
+FT,Carlos Rodon,543333,"In play, run(s)",106.9,-6.92
+FT,Carlos Rodon,521692,Called Strike,null,null
+FT,Carlos Rodon,521692,Called Strike,null,null
+SL,Carlos Rodon,521692,Ball In Dirt,null,null
+SL,Carlos Rodon,521692,Foul,null,null
+FF,Carlos Rodon,521692,Ball,null,null
+SL,Carlos Rodon,521692,Ball,null,null
+SL,Carlos Rodon,521692,Swinging Strike,null,null
+FF,Carlos Rodon,449181,Ball,null,null
+SL,Carlos Rodon,449181,Called Strike,null,null
+FF,Carlos Rodon,449181,Foul,null,null
+FF,Carlos Rodon,449181,"In play, out(s)",97.5,14.37
+FF,Carlos Rodon,596144,Called Strike,null,null
+SL,Carlos Rodon,596144,Ball,null,null
+FF,Carlos Rodon,596144,Swinging Strike,null,null
+FF,Carlos Rodon,596144,Foul,null,null
+FF,Carlos Rodon,596144,"In play, out(s)",82.2,-6.12
+FF,Carlos Rodon,408299,Ball,null,null
+FF,Carlos Rodon,408299,Called Strike,null,null
+SL,Carlos Rodon,408299,Called Strike,null,null
+SL,Carlos Rodon,408299,"In play, out(s)",84.7,24.01
+SL,Carlos Rodon,444876,Ball,null,null
+FF,Carlos Rodon,444876,Called Strike,null,null
+SL,Carlos Rodon,444876,Swinging Strike,null,null
+FF,Carlos Rodon,444876,Ball,null,null
+FF,Carlos Rodon,444876,Foul,null,null
+SL,Carlos Rodon,444876,Foul,null,null
+FT,Carlos Rodon,444876,"In play, no out",102.1,2.78
+FF,Carlos Rodon,593160,Ball,null,null
+FT,Carlos Rodon,593160,Foul,null,null
+SL,Carlos Rodon,593160,Swinging Strike,null,null
+SL,Carlos Rodon,593160,Swinging Strike,null,null
+FF,Carlos Rodon,456715,Foul,null,null
+FF,Carlos Rodon,456715,Swinging Strike,null,null
+FF,Carlos Rodon,456715,Ball,null,null
+FF,Carlos Rodon,456715,Foul,null,null
+SL,Carlos Rodon,456715,"In play, no out",103.7,6.76
+FF,Carlos Rodon,521692,Foul,null,null
+FF,Carlos Rodon,521692,"In play, out(s)",72,8.84
+SL,Carlos Rodon,543333,Ball,null,null
+SL,Carlos Rodon,543333,Swinging Strike,null,null
+SL,Carlos Rodon,543333,Called Strike,null,null
+SL,Carlos Rodon,543333,Foul,null,null
+SL,Carlos Rodon,543333,Foul,null,null
+FT,Carlos Rodon,543333,Ball,null,null
+SL,Carlos Rodon,543333,"In play, out(s)",94.3,-12.69
+FT,Carlos Rodon,518649,Ball,null,null
+FT,Carlos Rodon,518649,Ball,null,null
+FT,Carlos Rodon,518649,Foul,null,null
+FT,Carlos Rodon,518649,Foul,null,null
+SL,Carlos Rodon,518649,"In play, out(s)",null,null
+FF,Carlos Rodon,518649,Foul,null,null
+FF,Carlos Rodon,518649,Ball,null,null
+SL,Carlos Rodon,518649,"In play, out(s)",101.2,45.1
+FT,Carlos Rodon,444876,"In play, out(s)",84.9,33.85
+SL,Carlos Rodon,456715,Swinging Strike,null,null
+FF,Carlos Rodon,456715,Ball,null,null
+SL,Carlos Rodon,456715,Foul,null,null
+FT,Carlos Rodon,456715,Foul,null,null
+SL,Carlos Rodon,456715,Ball,null,null
+FT,Carlos Rodon,456715,Called Strike,null,null
+FT,Carlos Rodon,460086,Foul,null,null
+SL,Carlos Rodon,460086,Ball,null,null
+FT,Carlos Rodon,460086,Foul,null,null
+FT,Carlos Rodon,460086,Swinging Strike,null,null
+SL,Carlos Rodon,460086,Ball In Dirt,null,null
+FF,Carlos Rodon,460086,Ball,null,null
+FF,Carlos Rodon,460086,"In play, out(s)",80,-4.67
+SL,Carlos Rodon,449181,"In play, run(s)",97.6,-0.92
+FF,Carlos Rodon,408299,"In play, no out",96,12.99
+FT,Carlos Rodon,444876,"In play, out(s)",101.6,-9.15
+FT,Carlos Rodon,444876,Ball,null,null
+FT,Carlos Rodon,519058,Ball,null,null
+FT,Carlos Rodon,519058,Ball,null,null
+FT,Carlos Rodon,519058,Foul,null,null
+SL,Carlos Rodon,519058,Ball,null,null
+FT,Carlos Rodon,519058,Foul,null,null
+FT,Carlos Rodon,519058,Ball,null,null
+SL,Carlos Rodon,456715,Ball In Dirt,null,null
+SL,Carlos Rodon,456715,Foul,null,null
+FT,Carlos Rodon,456715,Swinging Strike,null,null
+FT,Carlos Rodon,456715,"In play, no out",81.8,27.71
+FT,Carlos Rodon,543333,Called Strike,null,null
+FT,Carlos Rodon,543333,Foul,null,null
+SL,Carlos Rodon,543333,Called Strike,null,null
+SL,Carlos Rodon,543333,Ball In Dirt,null,null
+FF,Carlos Rodon,460086,Ball,null,null
+SL,Carlos Rodon,460086,Ball,null,null
+SL,Carlos Rodon,460086,Foul,null,null
+FT,Carlos Rodon,460086,"In play, out(s)",79.7,-19.88
+FT,Carlos Rodon,460086,Foul,null,null
+SL,Carlos Rodon,460086,Called Strike,null,null
+SL,Carlos Rodon,460086,Foul,null,null
+CH,Carlos Rodon,408299,Ball,null,null
+FT,Carlos Rodon,408299,Ball,null,null
+FT,Carlos Rodon,408299,Ball,null,null
+FT,Carlos Rodon,408299,Called Strike,null,null
+FT,Carlos Rodon,408299,Ball,null,null
+FT,Carlos Rodon,460077,"In play, out(s)",90.1,21.04
+FF,Carlos Rodon,460077,Foul,null,null
+FF,Carlos Rodon,460077,Called Strike,null,null
+SL,Carlos Rodon,460077,Ball,null,null
+SL,Carlos Rodon,460077,Ball In Dirt,null,null
+SL,Carlos Rodon,444876,Ball,null,null
+SL,Carlos Rodon,444876,Swinging Strike,null,null
+FF,Carlos Rodon,444876,Called Strike,null,null
+SL,Carlos Rodon,444876,Ball,null,null
+FT,Carlos Rodon,444876,Foul,null,null
+SL,Carlos Rodon,519058,Ball,null,null
+FT,Carlos Rodon,519058,"In play, out(s)",67.4,65.45
+SL,Carlos Rodon,519058,Called Strike,null,null
+CH,Carlos Rodon,456715,"In play, no out",105.5,-0.84
+FT,Carlos Rodon,456715,Called Strike,null,null
+FT,Carlos Rodon,543333,Foul,null,null
+SL,Carlos Rodon,543333,"In play, out(s)",null,null
+FT,Carlos Rodon,543333,Ball,null,null
+SL,Carlos Rodon,543333,Swinging Strike,null,null
+FT,Carlos Rodon,521692,Swinging Strike,null,null
+SL,Carlos Rodon,521692,Foul,null,null
+FT,Carlos Rodon,521692,Ball,null,null
+SL,Carlos Rodon,521692,Swinging Strike (Blocked),null,null
+SL,Carlos Rodon,521692,Ball,null,null
+FT,Carlos Rodon,521692,Foul,null,null
+SL,Carlos Rodon,521692,Foul,null,null
+FT,Carlos Rodon,460086,Ball,null,null
+FT,Carlos Rodon,460086,"In play, no out",73,23.61
+SL,Carlos Rodon,460086,Ball,null,null
+FF,Carlos Rodon,449181,"In play, no out",94.7,9.39
+FT,Carlos Rodon,408299,"In play, run(s)",84.8,34.38
+FT,Carlos Rodon,460077,Ball,null,null
+FT,Carlos Rodon,460077,"In play, out(s)",92.6,-4.8
+FF,Carlos Rodon,460077,Ball,null,null
+SL,Carlos Rodon,444876,Ball,null,null
+SL,Carlos Rodon,444876,Called Strike,null,null
+SL,Carlos Rodon,444876,"In play, out(s)",86.7,-36.6
+SL,Carlos Rodon,444876,Called Strike,null,null
+FT,Carlos Rodon,519058,Ball,null,null
+FT,Carlos Rodon,519058,Ball,null,null
+FT,Carlos Rodon,519058,"In play, out(s)",95.8,9.93
+FF,Carlos Rodon,449181,"In play, out(s)",71.4,-25.59
+SL,Carlos Rodon,519058,Ball,null,null
+FT,Carlos Rodon,519058,"In play, out(s)",82.4,-32.86
+FF,Carlos Rodon,519058,Foul,null,null
+FF,Carlos Rodon,460077,Ball,null,null
+SL,Carlos Rodon,460077,Called Strike,null,null
+FT,Carlos Rodon,460077,Ball,null,null
+FT,Carlos Rodon,460077,"In play, out(s)",96.1,-0.07
+FF,Carlos Rodon,460077,Foul,null,null
+FT,Carlos Rodon,460077,Ball,null,null
+CH,Carlos Rodon,521692,"In play, out(s)",null,null
+FT,Carlos Rodon,543333,Ball,null,null
+FT,Carlos Rodon,543333,"In play, no out",102.4,10.88
+FF,Carlos Rodon,543333,Ball,null,null
+FT,Carlos Rodon,521692,Called Strike,null,null
+FT,Carlos Rodon,521692,"In play, no out",92.9,14.45
+FF,Carlos Rodon,521692,Foul,null,null
+FT,Carlos Rodon,514888,Ball,null,null
+CH,Carlos Rodon,514888,Called Strike,null,null
+FF,Carlos Rodon,514888,Ball,null,null
+SL,Carlos Rodon,514888,Called Strike,null,null
+FF,Carlos Rodon,514888,Foul,null,null
+SL,Carlos Rodon,514888,Ball,null,null
+SL,Carlos Rodon,621043,Called Strike,null,null
+FF,Carlos Rodon,621043,Foul,null,null
+FF,Carlos Rodon,621043,Foul,null,null
+FT,Carlos Rodon,621043,Ball,null,null
+SL,Carlos Rodon,621043,Swinging Strike (Blocked),null,null
+FT,Carlos Rodon,594828,"In play, no out",107.5,-8.69
+CH,Carlos Rodon,594828,Ball,null,null
+FT,Carlos Rodon,458675,Foul,null,null
+SL,Carlos Rodon,458675,"In play, out(s)",74,38.65
+FF,Carlos Rodon,458675,Ball,null,null
+FT,Carlos Rodon,458675,Ball,null,null
+FT,Carlos Rodon,503556,Ball,null,null
+FF,Carlos Rodon,503556,Ball In Dirt,null,null
+FF,Carlos Rodon,503556,Called Strike,null,null
+FT,Carlos Rodon,503556,Ball,null,null
+FT,Carlos Rodon,503556,"In play, no out",null,null
+FF,Carlos Rodon,643603,Called Strike,null,null
+FF,Carlos Rodon,643603,Foul Tip,null,null
+SL,Carlos Rodon,643603,Ball,null,null
+SL,Carlos Rodon,643603,Ball,null,null
+FT,Carlos Rodon,643603,Ball,null,null
+FT,Carlos Rodon,643603,Called Strike,null,null
+SL,Carlos Rodon,488771,Ball,null,null
+SL,Carlos Rodon,488771,Called Strike,null,null
+SL,Carlos Rodon,488771,Called Strike,null,null
+FF,Carlos Rodon,488771,"In play, run(s)",97.7,14.85
+SL,Carlos Rodon,514888,"In play, out(s)",76,12.35
+SL,Carlos Rodon,543807,"In play, out(s)",82.3,-5.71
+SL,Carlos Rodon,543807,Ball,null,null
+CH,Carlos Rodon,621043,Ball,null,null
+FF,Carlos Rodon,621043,"In play, no out",109.4,10.79
+FF,Carlos Rodon,621043,Ball,null,null
+FT,Carlos Rodon,594828,"In play, out(s)",109.8,-17.46
+FF,Carlos Rodon,458675,Called Strike,null,null
+FT,Carlos Rodon,458675,Ball,null,null
+SL,Carlos Rodon,458675,Swinging Strike,null,null
+SL,Carlos Rodon,458675,Called Strike,null,null
+SL,Carlos Rodon,643603,Ball,null,null
+FF,Carlos Rodon,643603,Ball,null,null
+FF,Carlos Rodon,643603,Swinging Strike,null,null
+FF,Carlos Rodon,643603,Foul,null,null
+FF,Carlos Rodon,643603,Ball,null,null
+SL,Carlos Rodon,643603,Swinging Strike,null,null
+FT,Carlos Rodon,643603,Foul,null,null
+FT,Carlos Rodon,643603,"In play, run(s)",96.7,25.12
+FF,Carlos Rodon,488771,Ball,null,null
+SL,Carlos Rodon,488771,Called Strike,null,null
+FF,Carlos Rodon,488771,Called Strike,null,null
+SL,Carlos Rodon,488771,Swinging Strike,null,null
+FF,Carlos Rodon,514888,Ball,null,null
+FF,Carlos Rodon,514888,"In play, no out",76.8,3.27
+FF,Carlos Rodon,514888,Ball,null,null
+FF,Carlos Rodon,543807,Foul,null,null
+SL,Carlos Rodon,543807,Swinging Strike (Blocked),null,null
+FT,Carlos Rodon,543807,Called Strike,null,null
+CH,Carlos Rodon,543807,Ball,null,null
+FT,Carlos Rodon,621043,Ball,null,null
+SL,Carlos Rodon,621043,Swinging Strike,null,null
+FF,Carlos Rodon,621043,Foul,null,null
+FF,Carlos Rodon,621043,Ball,null,null
+FT,Carlos Rodon,621043,Called Strike,null,null
+SL,Carlos Rodon,621043,Ball,null,null
+SL,Carlos Rodon,621043,Foul,null,null
+SL,Carlos Rodon,621043,"In play, no out",108,15.47
+FT,Carlos Rodon,594828,Ball,null,null
+CH,Carlos Rodon,594828,Ball,null,null
+SL,Carlos Rodon,594828,Swinging Strike,null,null
+CH,Carlos Rodon,594828,Ball,null,null
+IN,Carlos Rodon,594828,Intent Ball,null,null
+FF,Carlos Rodon,458675,Ball,null,null
+FF,Carlos Rodon,458675,Foul,null,null
+SL,Carlos Rodon,458675,"In play, out(s)",79.1,56
+SL,Carlos Rodon,458675,Foul,null,null
+SL,Carlos Rodon,458675,Ball In Dirt,null,null
+FF,Carlos Rodon,503556,"In play, out(s)",85.7,51.13
+FF,Carlos Rodon,503556,Ball,null,null
+FT,Carlos Rodon,643603,Ball,null,null
+SL,Carlos Rodon,643603,Ball,null,null
+FF,Carlos Rodon,643603,Ball,null,null
+FF,Carlos Rodon,643603,Called Strike,null,null
+FF,Carlos Rodon,643603,"In play, run(s)",97.6,22.63
+SL,Carlos Rodon,488771,Foul,null,null
+SL,Carlos Rodon,488771,Ball,null,null
+SL,Carlos Rodon,488771,Swinging Strike,null,null
+SL,Carlos Rodon,488771,Swinging Strike,null,null
+FT,Carlos Rodon,488771,Ball,null,null
+FF,Carlos Rodon,545350,"In play, out(s)",74.1,27.47
+SL,Carlos Rodon,545350,Called Strike,null,null
+FT,Carlos Rodon,545350,Ball,null,null
+SL,Carlos Rodon,545350,Called Strike,null,null
+FT,Carlos Rodon,545350,"In play, out(s)",96.7,-22.65
+FT,Carlos Rodon,545350,Called Strike,null,null
+FT,Carlos Rodon,545350,Ball,null,null
+SL,Carlos Rodon,545350,Ball In Dirt,null,null
+FF,Carlos Rodon,543807,"In play, out(s)",76.7,9.65
+FF,Carlos Rodon,543807,Foul,null,null
+FF,Carlos Rodon,545350,"In play, out(s)",82.7,63.16
+SL,Carlos Rodon,545350,Ball,null,null
+CH,Carlos Rodon,503556,Ball,null,null
+SL,Carlos Rodon,503556,Swinging Strike,null,null
+FF,Carlos Rodon,503556,Foul,null,null
+FT,Carlos Rodon,503556,"In play, out(s)",101.6,-9.46
+FT,Carlos Rodon,592261,"In play, no out",88.2,1.95
+FF,Carlos Rodon,592261,Called Strike,null,null
+FT,Carlos Rodon,596059,Ball,null,null
+FT,Carlos Rodon,596059,"In play, no out",84.5,0.26
+FF,Carlos Rodon,596059,Called Strike,null,null
+SL,Carlos Rodon,596059,Ball,null,null
+SL,Carlos Rodon,596059,Ball,null,null
+FF,Carlos Rodon,134181,Ball,null,null
+FF,Carlos Rodon,134181,"In play, run(s)",90.2,49.76
+FT,Carlos Rodon,134181,Swinging Strike,null,null
+SL,Carlos Rodon,435622,Swinging Strike,null,null
+SL,Carlos Rodon,435622,"In play, out(s)",82.1,2.76
+SL,Carlos Rodon,435622,Ball,null,null
+FT,Carlos Rodon,435622,Ball,null,null
+FT,Carlos Rodon,425902,Ball,null,null
+FF,Carlos Rodon,425902,Ball,null,null
+FF,Carlos Rodon,425902,Ball,null,null
+FF,Carlos Rodon,425902,Called Strike,null,null
+SL,Carlos Rodon,425902,Ball,null,null
+FF,Carlos Rodon,607387,"In play, run(s)",109.6,-2.81
+FT,Carlos Rodon,462101,Ball,null,null
+SL,Carlos Rodon,462101,Called Strike,null,null
+FT,Carlos Rodon,462101,"In play, out(s)",78.1,41.31
+SL,Carlos Rodon,592407,Ball,null,null
+FT,Carlos Rodon,592407,Foul Tip,null,null
+SL,Carlos Rodon,592407,"In play, no out",65.9,34.85
+SL,Carlos Rodon,592407,Called Strike,null,null
+null,Carlos Rodon,453211,Ball,null,null
+FF,Carlos Rodon,453211,Called Strike,null,null
+FT,Carlos Rodon,453211,"In play, out(s)",104,11.94
+FT,Carlos Rodon,453211,Ball,null,null
+CH,Carlos Rodon,592261,Ball,null,null
+FT,Carlos Rodon,592261,Foul,null,null
+FT,Carlos Rodon,592261,Foul Bunt,null,null
+CH,Carlos Rodon,592261,Swinging Strike (Blocked),null,null
+FT,Carlos Rodon,592261,Called Strike,null,null
+FT,Carlos Rodon,134181,"In play, out(s)",94.4,48.02
+FF,Carlos Rodon,435622,Foul,null,null
+FF,Carlos Rodon,435622,Called Strike,null,null
+FF,Carlos Rodon,435622,Called Strike,null,null
+FT,Carlos Rodon,425902,"In play, out(s)",88.7,3.51
+FT,Carlos Rodon,425902,Ball,null,null
+SL,Carlos Rodon,607387,Foul,null,null
+CH,Carlos Rodon,607387,"In play, no out",93.6,-12.49
+FF,Carlos Rodon,462101,"In play, no out",95.7,-18.57
+FF,Carlos Rodon,462101,Ball,null,null
+FT,Carlos Rodon,592407,Ball,null,null
+FF,Carlos Rodon,592407,"In play, run(s)",99.1,29.83
+SL,Carlos Rodon,592407,Ball,null,null
+FF,Carlos Rodon,592407,Foul,null,null
+SL,Carlos Rodon,453211,Called Strike,null,null
+SL,Carlos Rodon,453211,Ball,null,null
+SL,Carlos Rodon,453211,Swinging Strike,null,null
+FF,Carlos Rodon,453211,Ball,null,null
+FF,Carlos Rodon,453211,Called Strike,null,null
+SL,Carlos Rodon,592261,Called Strike,null,null
+FF,Carlos Rodon,592261,"In play, out(s)",90.1,30.63
+FF,Carlos Rodon,592261,Ball,null,null
+SL,Carlos Rodon,592261,Ball,null,null
+FF,Carlos Rodon,596059,Foul,null,null
+SL,Carlos Rodon,596059,Ball,null,null
+FF,Carlos Rodon,596059,Ball,null,null
+FF,Carlos Rodon,596059,"In play, no out",99.8,19.45
+CH,Carlos Rodon,134181,Ball,null,null
+FF,Carlos Rodon,134181,Ball,null,null
+FF,Carlos Rodon,134181,Ball,null,null
+FT,Carlos Rodon,134181,Ball,null,null
+FT,Carlos Rodon,425902,Foul,null,null
+FT,Carlos Rodon,425902,Ball,null,null
+FF,Carlos Rodon,425902,Swinging Strike,null,null
+FT,Carlos Rodon,425902,Called Strike,null,null
+FT,Carlos Rodon,607387,Swinging Strike,null,null
+FT,Carlos Rodon,607387,Foul Tip,null,null
+FT,Carlos Rodon,607387,Called Strike,null,null
+FF,Carlos Rodon,462101,"In play, out(s)",98.2,-0.75
+FT,Carlos Rodon,592407,Foul,null,null
+FF,Carlos Rodon,592407,Foul,null,null
+FT,Carlos Rodon,592407,Foul Tip,null,null
+FF,Carlos Rodon,592407,Ball,null,null
+FF,Carlos Rodon,453211,"In play, no out",94.3,7.6
+FT,Carlos Rodon,592261,Swinging Strike,null,null
+FT,Carlos Rodon,592261,Ball,null,null
+FT,Carlos Rodon,592261,Ball,null,null
+FT,Carlos Rodon,592261,Foul,null,null
+SL,Carlos Rodon,592261,"In play, out(s)",null,null
+CH,Carlos Rodon,435622,Ball,null,null
+FF,Carlos Rodon,435622,Ball,null,null
+FF,Carlos Rodon,435622,Called Strike,null,null
+FF,Carlos Rodon,435622,Ball,null,null
+FF,Carlos Rodon,435622,"In play, run(s)",101.4,26.03
+SL,Carlos Rodon,425902,Called Strike,null,null
+SL,Carlos Rodon,425902,Swinging Strike (Blocked),null,null
+SL,Carlos Rodon,425902,Called Strike,null,null
+SL,Carlos Rodon,596059,Swinging Strike,null,null
+FT,Carlos Rodon,596059,Foul,null,null
+FT,Carlos Rodon,596059,Ball,null,null
+SL,Carlos Rodon,596059,"In play, out(s)",88.5,66.85
+SL,Carlos Rodon,596059,Called Strike,null,null
+SL,Carlos Rodon,134181,Ball,null,null
+FF,Carlos Rodon,134181,Ball,null,null
+FF,Carlos Rodon,134181,Swinging Strike,null,null
+FF,Carlos Rodon,134181,"In play, out(s)",77.5,69.06
+FT,Carlos Rodon,435622,"In play, out(s)",82.1,9
+FT,Carlos Rodon,435622,Swinging Strike,null,null
+SL,Carlos Rodon,596059,Ball,null,null
+FF,Carlos Rodon,596059,"In play, no out",null,null
+SL,Carlos Rodon,596059,Swinging Strike,null,null
+SL,Carlos Rodon,605141,Ball,null,null
+FT,Carlos Rodon,605141,Called Strike,null,null
+SL,Carlos Rodon,605141,Ball,null,null
+FF,Carlos Rodon,605141,Called Strike,null,null
+SL,Carlos Rodon,605141,Ball,null,null
+FT,Carlos Rodon,605141,"In play, out(s)",93.8,38.55
+SL,Carlos Rodon,593428,Ball,null,null
+FF,Carlos Rodon,593428,Called Strike,null,null
+FT,Carlos Rodon,593428,"In play, no out",96.8,4.34
+SL,Carlos Rodon,593428,Called Strike,null,null
+SL,Carlos Rodon,593428,Ball,null,null
+FF,Carlos Rodon,455759,Called Strike,null,null
+SL,Carlos Rodon,455759,Called Strike,null,null
+FF,Carlos Rodon,455759,Called Strike,null,null
+CH,Carlos Rodon,455759,Ball,null,null
+FF,Carlos Rodon,455759,Ball,null,null
+SL,Carlos Rodon,543768,"In play, out(s)",83.6,34.84
+SL,Carlos Rodon,543768,Ball,null,null
+FF,Carlos Rodon,592710,Called Strike,null,null
+SL,Carlos Rodon,592710,"In play, out(s)",94.3,-4.41
+SL,Carlos Rodon,592710,Ball,null,null
+FF,Carlos Rodon,543877,Ball,null,null
+FF,Carlos Rodon,543877,Foul,null,null
+FF,Carlos Rodon,543877,Foul,null,null
+FT,Carlos Rodon,543877,"In play, no out",97.8,-11.1
+SL,Carlos Rodon,543877,Ball,null,null
+FF,Carlos Rodon,543877,Called Strike,null,null
+SL,Carlos Rodon,543877,Ball,null,null
+SL,Carlos Rodon,543877,Foul,null,null
+CH,Carlos Rodon,605141,Ball,null,null
+SL,Carlos Rodon,605141,Ball,null,null
+FF,Carlos Rodon,605141,Foul,null,null
+FT,Carlos Rodon,605141,Called Strike,null,null
+FF,Carlos Rodon,605141,Foul Tip,null,null
+SL,Carlos Rodon,593428,Called Strike,null,null
+SL,Carlos Rodon,593428,Ball,null,null
+SL,Carlos Rodon,593428,Ball,null,null
+FF,Carlos Rodon,593428,"In play, run(s)",98.3,6.68
+FF,Carlos Rodon,120074,Ball,null,null
+SL,Carlos Rodon,120074,Foul,null,null
+SL,Carlos Rodon,120074,Foul,null,null
+FF,Carlos Rodon,120074,Called Strike,null,null
+SL,Carlos Rodon,120074,"In play, out(s)",90.4,35.08
+FT,Carlos Rodon,456030,Ball,null,null
+FT,Carlos Rodon,456030,"In play, out(s)",96.3,2.32
+FF,Carlos Rodon,456030,Called Strike,null,null
+FF,Carlos Rodon,455759,Ball,null,null
+FF,Carlos Rodon,455759,Called Strike,null,null
+SL,Carlos Rodon,455759,Ball,null,null
+SL,Carlos Rodon,455759,Ball,null,null
+FT,Carlos Rodon,455759,Ball,null,null
+FF,Carlos Rodon,455759,Foul,null,null
+FF,Carlos Rodon,455759,Foul,null,null
+FT,Carlos Rodon,543768,Hit By Pitch,null,null
+FF,Carlos Rodon,592710,Ball,null,null
+FF,Carlos Rodon,592710,Ball,null,null
+FF,Carlos Rodon,592710,Ball,null,null
+FF,Carlos Rodon,592710,Foul,null,null
+FF,Carlos Rodon,592710,Called Strike,null,null
+FF,Carlos Rodon,592710,Foul,null,null
+FF,Carlos Rodon,592710,"In play, no out",80.6,-19.04
+FF,Carlos Rodon,543877,Foul,null,null
+FF,Carlos Rodon,543877,Foul,null,null
+SL,Carlos Rodon,543877,"In play, out(s)",90.1,-6.72
+FT,Carlos Rodon,543877,Foul,null,null
+FF,Carlos Rodon,598265,Called Strike,null,null
+FF,Carlos Rodon,598265,Called Strike,null,null
+SL,Carlos Rodon,598265,Swinging Strike,null,null
+CH,Carlos Rodon,598265,Ball,null,null
+FF,Carlos Rodon,605141,"In play, out(s)",91.4,46.96
+SL,Carlos Rodon,605141,Ball,null,null
+FF,Carlos Rodon,593428,Ball,null,null
+FT,Carlos Rodon,593428,Ball,null,null
+FF,Carlos Rodon,593428,Ball,null,null
+FF,Carlos Rodon,593428,Ball,null,null
+SL,Carlos Rodon,120074,Called Strike,null,null
+FF,Carlos Rodon,120074,"In play, run(s)",104.1,27.82
+FF,Carlos Rodon,120074,Ball,null,null
+SL,Carlos Rodon,456030,Ball,null,null
+FF,Carlos Rodon,456030,Foul,null,null
+CH,Carlos Rodon,456030,Foul,null,null
+SL,Carlos Rodon,456030,Swinging Strike,null,null
+CH,Carlos Rodon,455759,Called Strike,null,null
+FF,Carlos Rodon,455759,Called Strike,null,null
+FT,Carlos Rodon,455759,Called Strike,null,null
+SL,Carlos Rodon,455759,Ball,null,null
+SL,Carlos Rodon,543768,Called Strike,null,null
+SL,Carlos Rodon,543768,Ball,null,null
+FF,Carlos Rodon,543768,Foul,null,null
+SL,Carlos Rodon,543768,Ball,null,null
+FF,Carlos Rodon,543768,Swinging Strike,null,null
+FF,Carlos Rodon,592710,Ball,null,null
+FT,Carlos Rodon,592710,Foul,null,null
+FF,Carlos Rodon,592710,Ball,null,null
+FF,Carlos Rodon,592710,Ball,null,null
+FF,Carlos Rodon,592710,Called Strike,null,null
+FF,Carlos Rodon,592710,Ball,null,null
+FF,Carlos Rodon,543877,Called Strike,null,null
+CH,Carlos Rodon,543877,Ball In Dirt,null,null
+FF,Carlos Rodon,543877,Foul,null,null
+FT,Carlos Rodon,543877,Ball,null,null
+SL,Carlos Rodon,543877,"In play, out(s)",77.1,52.05
+FT,Carlos Rodon,120074,"In play, out(s)",101.5,-11.2
+SL,Carlos Rodon,120074,Called Strike,null,null
+CH,Carlos Rodon,456030,Ball,null,null
+SL,Carlos Rodon,456030,Ball,null,null
+SL,Carlos Rodon,456030,Ball,null,null
+SL,Carlos Rodon,456030,Called Strike,null,null
+FF,Carlos Rodon,456030,"In play, out(s)",97.4,10.83
+FT,Carlos Rodon,598265,"In play, no out",75.1,18.47
+CH,Carlos Rodon,572073,Called Strike,null,null
+FT,Carlos Rodon,572073,Ball,null,null
+FF,Carlos Rodon,572073,Ball,null,null
+FF,Carlos Rodon,572073,Ball,null,null
+CH,Carlos Rodon,572073,Called Strike,null,null
+FF,Carlos Rodon,572073,Foul,null,null
+SL,Carlos Rodon,572073,Swinging Strike (Blocked),null,null
+CH,Carlos Rodon,592518,Ball,null,null
+FF,Carlos Rodon,592518,Called Strike,null,null
+FT,Carlos Rodon,592518,"In play, out(s)",103.4,12.36
+FT,Carlos Rodon,592518,Ball,null,null
+FF,Carlos Rodon,592518,Ball,null,null
+SL,Carlos Rodon,448801,Foul,null,null
+FF,Carlos Rodon,448801,"In play, out(s)",79.5,8.8
+SL,Carlos Rodon,448801,Called Strike,null,null
+FF,Carlos Rodon,448801,Ball,null,null
+FT,Carlos Rodon,448801,Ball,null,null
+SL,Carlos Rodon,444432,Ball,null,null
+FF,Carlos Rodon,444432,Foul,null,null
+FT,Carlos Rodon,444432,Ball,null,null
+FT,Carlos Rodon,444432,Called Strike,null,null
+SL,Carlos Rodon,444432,Called Strike,null,null
+FT,Carlos Rodon,444432,Ball,null,null
+FF,Carlos Rodon,444432,Called Strike,null,null
+FF,Carlos Rodon,446308,Called Strike,null,null
+FF,Carlos Rodon,446308,Foul,null,null
+FF,Carlos Rodon,446308,Called Strike,null,null
+SL,Carlos Rodon,446308,Ball,null,null
+CH,Carlos Rodon,429666,Called Strike,null,null
+SL,Carlos Rodon,429666,Ball,null,null
+CH,Carlos Rodon,429666,"In play, out(s)",null,null
+FF,Carlos Rodon,460099,Foul,null,null
+FF,Carlos Rodon,460099,Ball,null,null
+FT,Carlos Rodon,460099,Called Strike,null,null
+FF,Carlos Rodon,460099,Foul,null,null
+CH,Carlos Rodon,570731,Ball,null,null
+CH,Carlos Rodon,570731,Swinging Strike,null,null
+FF,Carlos Rodon,570731,Foul,null,null
+SL,Carlos Rodon,570731,"In play, out(s)",81.9,31.36
+FF,Carlos Rodon,572073,Foul,null,null
+SL,Carlos Rodon,572073,Ball,null,null
+FF,Carlos Rodon,572073,"In play, out(s)",88.2,61.47
+CH,Carlos Rodon,592518,Swinging Strike,null,null
+CH,Carlos Rodon,592518,Swinging Strike,null,null
+SL,Carlos Rodon,592518,Called Strike,null,null
+CH,Carlos Rodon,592518,Ball,null,null
+FT,Carlos Rodon,448801,"In play, no out",74.3,17.18
+FT,Carlos Rodon,444432,Foul,null,null
+FT,Carlos Rodon,444432,"In play, out(s)",null,null
+FT,Carlos Rodon,444432,Ball,null,null
+FT,Carlos Rodon,430945,Ball,null,null
+SL,Carlos Rodon,430945,Ball,null,null
+CH,Carlos Rodon,430945,Ball,null,null
+FF,Carlos Rodon,430945,Ball,null,null
+FT,Carlos Rodon,446308,Ball,null,null
+FF,Carlos Rodon,446308,"In play, no out",104,-2.71
+FF,Carlos Rodon,446308,Foul,null,null
+FT,Carlos Rodon,429666,Called Strike,null,null
+CH,Carlos Rodon,429666,"In play, out(s)",null,null
+FF,Carlos Rodon,460099,Swinging Strike,null,null
+FT,Carlos Rodon,460099,Ball,null,null
+FT,Carlos Rodon,460099,Called Strike,null,null
+FF,Carlos Rodon,460099,Foul,null,null
+FT,Carlos Rodon,460099,Ball,null,null
+FT,Carlos Rodon,460099,Ball,null,null
+FT,Carlos Rodon,460099,"In play, no out",null,null
+SL,Carlos Rodon,570731,Ball,null,null
+SL,Carlos Rodon,570731,"In play, run(s)",111.8,6.31
+FF,Carlos Rodon,570731,Swinging Strike,null,null
+FF,Carlos Rodon,592518,Called Strike,null,null
+FF,Carlos Rodon,592518,"In play, out(s)",101.9,5.4
+CH,Carlos Rodon,444432,"In play, out(s)",95.1,50.2
+FT,Carlos Rodon,430945,Foul,null,null
+FF,Carlos Rodon,430945,Foul,null,null
+FF,Carlos Rodon,430945,Ball,null,null
+SL,Carlos Rodon,430945,Ball,null,null
+SL,Carlos Rodon,430945,Swinging Strike,null,null
+CH,Carlos Rodon,446308,"In play, no out",91.2,4.02
+FT,Carlos Rodon,446308,Ball,null,null
+FT,Carlos Rodon,429666,Foul,null,null
+FF,Carlos Rodon,429666,"In play, no out",86.4,4.91
+FF,Carlos Rodon,429666,Called Strike,null,null
+FT,Carlos Rodon,460099,"In play, run(s)",93.6,29.6
+FF,Carlos Rodon,570731,Swinging Strike,null,null
+FF,Carlos Rodon,570731,"In play, out(s)",null,null
+SL,Carlos Rodon,570731,Called Strike,null,null
+SL,Carlos Rodon,572073,Ball,null,null
+FF,Carlos Rodon,572073,"In play, out(s)",89.8,49.02
+FF,Carlos Rodon,572073,Foul,null,null
+SL,Carlos Rodon,572073,Ball,null,null
+FF,Carlos Rodon,572073,Ball,null,null
+CH,Carlos Rodon,592518,"In play, no out",99.6,17.51
+CH,Carlos Rodon,592518,Ball,null,null
+FF,Carlos Rodon,448801,Foul,null,null
+SL,Carlos Rodon,448801,Swinging Strike,null,null
+FT,Carlos Rodon,448801,Ball,null,null
+SL,Carlos Rodon,448801,Called Strike,null,null
+SL,Carlos Rodon,448801,"In play, out(s)",104.8,7.56
+SL,Carlos Rodon,448801,Ball,null,null
+FT,Carlos Rodon,572073,"In play, run(s)",97.2,-6
+FT,Carlos Rodon,572073,Ball,null,null
+FT,Carlos Rodon,430945,"In play, out(s)",null,null
+FT,Carlos Rodon,592261,Called Strike,null,null
+SL,Carlos Rodon,592261,Swinging Strike,null,null
+FT,Carlos Rodon,592261,Called Strike,null,null
+FT,Carlos Rodon,592261,Ball,null,null
+SL,Carlos Rodon,608577,Ball,null,null
+FF,Carlos Rodon,608577,Called Strike,null,null
+FF,Carlos Rodon,608577,Ball,null,null
+FF,Carlos Rodon,608577,Foul,null,37.52
+FF,Carlos Rodon,608577,Called Strike,null,null
+SL,Carlos Rodon,608577,Ball,null,null
+FT,Carlos Rodon,608577,Swinging Strike,null,null
+FT,Carlos Rodon,425902,Called Strike,null,null
+FT,Carlos Rodon,425902,"In play, out(s)",null,null
+FF,Carlos Rodon,425902,Ball,null,null
+FT,Carlos Rodon,425902,Ball,null,null
+SL,Carlos Rodon,435622,"In play, run(s)",106.7,22.62
+FT,Carlos Rodon,435622,Called Strike,null,null
+FT,Carlos Rodon,519048,"In play, out(s)",102.6,-0.8
+FT,Carlos Rodon,519048,Ball,null,null
+FT,Carlos Rodon,462101,Ball,null,null
+FT,Carlos Rodon,462101,"In play, out(s)",90,-21.02
+FT,Carlos Rodon,462101,Ball,null,null
+FT,Carlos Rodon,462101,Called Strike,null,null
+FT,Carlos Rodon,596059,Ball,null,null
+CH,Carlos Rodon,596059,"In play, no out",81.5,18.17
+SL,Carlos Rodon,596059,Ball,null,null
+FF,Carlos Rodon,592407,Foul,null,52.96
+FT,Carlos Rodon,592407,"In play, out(s)",61.4,46.21
+SL,Carlos Rodon,592407,Called Strike,null,null
+FT,Carlos Rodon,592407,Ball,null,null
+FT,Carlos Rodon,592261,Ball,null,null
+FT,Carlos Rodon,592261,Foul,null,-28.03
+FT,Carlos Rodon,592261,"In play, out(s)",100.1,-11.28
+FT,Carlos Rodon,608577,Called Strike,null,null
+FF,Carlos Rodon,608577,Ball,null,null
+FF,Carlos Rodon,608577,"In play, out(s)",89.1,14.19
+SL,Carlos Rodon,608577,Ball,null,null
+FT,Carlos Rodon,608577,Ball,null,null
+FT,Carlos Rodon,134181,Called Strike,null,null
+CH,Carlos Rodon,134181,Foul,null,null
+SL,Carlos Rodon,134181,Swinging Strike,null,null
+CH,Carlos Rodon,134181,Ball,null,null
+SL,Carlos Rodon,134181,Ball,null,null
+SL,Carlos Rodon,425902,Ball,null,null
+FT,Carlos Rodon,425902,Foul,null,null
+SL,Carlos Rodon,425902,Ball,null,null
+FT,Carlos Rodon,425902,"In play, out(s)",85.9,-8.72
+FT,Carlos Rodon,435622,Foul,null,null
+SL,Carlos Rodon,435622,Called Strike,null,null
+FF,Carlos Rodon,435622,Called Strike,null,null
+FT,Carlos Rodon,435622,Foul,null,null
+FT,Carlos Rodon,519048,Ball,null,null
+FT,Carlos Rodon,519048,"In play, out(s)",95.3,-24.8
+SL,Carlos Rodon,519048,Ball,null,null
+FT,Carlos Rodon,519048,Swinging Strike,null,null
+FT,Carlos Rodon,462101,Ball,null,null
+CH,Carlos Rodon,462101,Ball,null,null
+FT,Carlos Rodon,462101,Called Strike,null,null
+SL,Carlos Rodon,462101,Ball,null,null
+FT,Carlos Rodon,462101,"In play, out(s)",91.4,-17.48
+FT,Carlos Rodon,596059,Swinging Strike,null,null
+FT,Carlos Rodon,596059,Ball,null,null
+FT,Carlos Rodon,596059,Foul,null,null
+FT,Carlos Rodon,596059,Ball,null,null
+FT,Carlos Rodon,596059,Ball,null,null
+FT,Carlos Rodon,596059,Called Strike,null,null
+SL,Carlos Rodon,596059,Called Strike,null,null
+CH,Carlos Rodon,592407,"In play, out(s)",88.9,37.81
+FT,Carlos Rodon,592261,Ball,null,null
+FT,Carlos Rodon,592261,Ball,null,null
+FT,Carlos Rodon,592261,Ball,null,null
+FT,Carlos Rodon,592261,Ball,null,null
+FF,Carlos Rodon,608577,Ball,null,null
+FF,Carlos Rodon,608577,Called Strike,null,null
+FT,Carlos Rodon,608577,Called Strike,null,null
+FT,Carlos Rodon,608577,Foul Tip,null,null
+FT,Carlos Rodon,134181,Called Strike,null,null
+FT,Carlos Rodon,134181,Foul,null,16.13
+FT,Carlos Rodon,134181,Foul,null,null
+FT,Carlos Rodon,134181,"In play, out(s)",91.5,17.89
+FT,Carlos Rodon,134181,Foul,null,null
+SL,Carlos Rodon,134181,Foul,null,39.85
+FT,Carlos Rodon,435622,Ball,null,null
+SL,Carlos Rodon,435622,Ball,null,null
+SL,Carlos Rodon,435622,Ball,null,null
+SL,Carlos Rodon,435622,Ball,null,null
+FT,Carlos Rodon,435622,Called Strike,null,null
+FT,Carlos Rodon,519048,Swinging Strike,null,null
+FF,Carlos Rodon,519048,Foul,null,16.24
+SL,Carlos Rodon,519048,Foul,null,null
+FT,Carlos Rodon,519048,Ball,null,null
+SL,Carlos Rodon,519048,Ball,null,null
+FT,Carlos Rodon,519048,Swinging Strike,null,null
+SL,Carlos Rodon,425902,"In play, out(s)",58.7,-20.99
+FT,Carlos Rodon,134181,Swinging Strike,null,null
+FT,Carlos Rodon,134181,Foul,null,null
+FT,Carlos Rodon,134181,Ball,null,null
+FT,Carlos Rodon,134181,"In play, out(s)",92.3,44.12
+FT,Carlos Rodon,502226,Swinging Strike,null,null
+FF,Carlos Rodon,502226,Ball,null,null
+FF,Carlos Rodon,502226,Ball,null,null
+SL,Carlos Rodon,502226,Called Strike,null,null
+SL,Carlos Rodon,502226,Swinging Strike,null,null
+FT,Carlos Rodon,545361,Ball,null,null
+FF,Carlos Rodon,545361,Called Strike,null,null
+FT,Carlos Rodon,545361,Called Strike,null,null
+FF,Carlos Rodon,545361,Ball,null,null
+SL,Carlos Rodon,545361,Ball,null,null
+SL,Carlos Rodon,545361,Ball In Dirt,null,null
+FT,Carlos Rodon,405395,Ball,null,null
+CH,Carlos Rodon,405395,Ball,null,null
+FF,Carlos Rodon,405395,Foul,null,null
+SL,Carlos Rodon,405395,Ball In Dirt,null,null
+FF,Carlos Rodon,405395,Called Strike,null,null
+FT,Carlos Rodon,405395,Ball,null,null
+FF,Carlos Rodon,592743,Ball,null,null
+FF,Carlos Rodon,592743,Called Strike,null,null
+FT,Carlos Rodon,592743,"In play, run(s)",89,-3.12
+FT,Carlos Rodon,592743,Ball,null,null
+FF,Carlos Rodon,592743,Ball,null,null
+FF,Carlos Rodon,592743,Called Strike,null,null
+FT,Carlos Rodon,434567,"In play, run(s)",107.1,2
+SL,Carlos Rodon,434567,Ball,null,null
+FF,Carlos Rodon,543213,Called Strike,null,null
+SL,Carlos Rodon,543213,Ball,null,null
+FF,Carlos Rodon,543213,Foul,null,null
+CH,Carlos Rodon,543213,Ball In Dirt,null,null
+SL,Carlos Rodon,543213,Foul Tip,null,null
+SL,Carlos Rodon,543213,"In play, run(s)",89.3,7.28
+FT,Carlos Rodon,543068,Foul,null,25.13
+SL,Carlos Rodon,543068,Ball,null,null
+FF,Carlos Rodon,543068,Foul,null,21.58
+FF,Carlos Rodon,543068,Foul,null,null
+SL,Carlos Rodon,543068,"In play, no out",72.6,14.65
+FF,Carlos Rodon,594777,Foul,null,34.49
+FT,Carlos Rodon,594777,"In play, run(s)",97.5,8.47
+SL,Carlos Rodon,594777,Ball,null,null
+FF,Carlos Rodon,488862,"In play, no out",74.4,24.29
+FT,Carlos Rodon,488862,Ball,null,null
+FT,Carlos Rodon,621439,Foul Bunt,null,null
+FT,Carlos Rodon,621439,"In play, out(s)",null,null
+FT,Carlos Rodon,592696,"In play, out(s)",73.1,-53.11
+SL,Carlos Rodon,592696,Ball,null,null
+FF,Carlos Rodon,408045,"In play, out(s)",77.6,-6.49
+FT,Carlos Rodon,408045,Called Strike,null,null
+FT,Carlos Rodon,593934,Foul,null,null
+FT,Carlos Rodon,593934,Ball,null,null
+FT,Carlos Rodon,593934,Ball,null,null
+FT,Carlos Rodon,593934,Ball,null,null
+SL,Carlos Rodon,593934,Ball,null,null
+FT,Carlos Rodon,461858,Ball,null,null
+FF,Carlos Rodon,461858,Ball,null,null
+SL,Carlos Rodon,461858,Swinging Strike,null,null
+FT,Carlos Rodon,461858,Called Strike,null,null
+FT,Carlos Rodon,461858,Called Strike,null,null
+FT,Carlos Rodon,461858,Foul,null,null
+FF,Carlos Rodon,592696,Foul,null,null
+SL,Carlos Rodon,592696,Ball,null,null
+FT,Carlos Rodon,592696,Called Strike,null,null
+FT,Carlos Rodon,592696,Ball,null,null
+FT,Carlos Rodon,592696,Ball,null,null
+FT,Carlos Rodon,592696,Swinging Strike,null,null
+FT,Carlos Rodon,500871,Foul,null,null
+FF,Carlos Rodon,500871,Ball,null,null
+FT,Carlos Rodon,500871,Foul,null,null
+SL,Carlos Rodon,500871,Foul,null,null
+CH,Carlos Rodon,500871,Ball,null,null
+FT,Carlos Rodon,500871,Foul,null,null
+SL,Carlos Rodon,500871,Swinging Strike (Blocked),null,null
+SL,Carlos Rodon,596146,Ball,null,null
+FT,Carlos Rodon,596146,Swinging Strike,null,null
+FT,Carlos Rodon,596146,Called Strike,null,null
+FT,Carlos Rodon,596146,Swinging Strike,null,null
+FT,Carlos Rodon,621439,Ball,null,null
+FT,Carlos Rodon,621439,Ball,null,null
+FT,Carlos Rodon,621439,Called Strike,null,null
+FT,Carlos Rodon,621439,Foul,null,null
+FT,Carlos Rodon,621439,Foul,null,null
+FT,Carlos Rodon,621439,Called Strike,null,null
+SL,Carlos Rodon,621439,Ball,null,null
+FT,Carlos Rodon,621439,Foul,null,null
+SL,Carlos Rodon,621439,Swinging Strike (Blocked),null,null
+SL,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,572821,Called Strike,null,null
+SL,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,408045,Called Strike,null,null
+FT,Carlos Rodon,408045,"In play, no out",93.3,-2.32
+FT,Carlos Rodon,408045,Called Strike,null,null
+FT,Carlos Rodon,593934,Ball,null,null
+FT,Carlos Rodon,593934,Ball,null,null
+FT,Carlos Rodon,593934,Foul,null,null
+FT,Carlos Rodon,593934,Swinging Strike,null,null
+FT,Carlos Rodon,593934,"In play, out(s)",99.3,44.3
+FT,Carlos Rodon,461858,Foul,null,null
+FT,Carlos Rodon,461858,"In play, out(s)",88.8,19.34
+FT,Carlos Rodon,461858,Ball,null,null
+CH,Carlos Rodon,461858,Called Strike,null,null
+SL,Carlos Rodon,596146,Ball,null,null
+SL,Carlos Rodon,596146,Ball In Dirt,null,null
+SL,Carlos Rodon,596146,Foul (Runner Going),null,null
+FT,Carlos Rodon,596146,Foul (Runner Going),null,null
+FF,Carlos Rodon,596146,Called Strike,null,null
+FT,Carlos Rodon,596146,Foul,null,null
+FT,Carlos Rodon,596146,Ball,null,null
+FT,Carlos Rodon,596146,"In play, out(s)",77.6,-42.89
+FT,Carlos Rodon,435559,Ball,null,null
+FF,Carlos Rodon,435559,Ball,null,null
+FT,Carlos Rodon,435559,Ball,null,null
+FT,Carlos Rodon,435559,Ball,null,null
+FT,Carlos Rodon,435559,Called Strike,null,null
+FT,Carlos Rodon,572821,"In play, out(s)",97.1,32.05
+FT,Carlos Rodon,572821,Ball,null,null
+FT,Carlos Rodon,408045,Called Strike,null,null
+SL,Carlos Rodon,408045,Ball,null,null
+FT,Carlos Rodon,408045,"In play, out(s)",62.5,-53.2
+FT,Carlos Rodon,408045,Ball,null,null
+FT,Carlos Rodon,593934,Called Strike,null,null
+FT,Carlos Rodon,593934,Foul,null,null
+FT,Carlos Rodon,593934,Ball,null,null
+SL,Carlos Rodon,593934,Ball,null,null
+SL,Carlos Rodon,593934,Ball,null,null
+FT,Carlos Rodon,593934,Ball,null,null
+SL,Carlos Rodon,461858,Foul,null,null
+FT,Carlos Rodon,461858,Foul,null,null
+FT,Carlos Rodon,461858,"In play, no out",96.3,9.5
+FT,Carlos Rodon,461858,Foul,null,null
+FT,Carlos Rodon,592696,"In play, out(s)",null,null
+IN,Carlos Rodon,500871,Intent Ball,null,null
+IN,Carlos Rodon,500871,Intent Ball,null,null
+IN,Carlos Rodon,500871,Intent Ball,null,null
+IN,Carlos Rodon,500871,Intent Ball,null,null
+FT,Carlos Rodon,596146,Called Strike,null,null
+FT,Carlos Rodon,596146,Called Strike,null,null
+SL,Carlos Rodon,596146,Swinging Strike,null,null
+FT,Carlos Rodon,435559,Foul,null,null
+SL,Carlos Rodon,435559,"In play, out(s)",80.2,78.59
+SL,Carlos Rodon,435559,Ball,null,null
+FT,Carlos Rodon,435559,Foul,null,null
+SL,Carlos Rodon,435559,Ball,null,null
+FT,Carlos Rodon,435559,Called Strike,null,null
+FT,Carlos Rodon,435559,"In play, out(s)",null,null
+FF,Carlos Rodon,572821,"In play, out(s)",91.2,61.02
+FF,Carlos Rodon,572821,Called Strike,null,null
+SL,Carlos Rodon,500871,"In play, no out",75.3,5.23
+FT,Carlos Rodon,501981,Ball,null,null
+FF,Carlos Rodon,501981,Swinging Strike,null,null
+FT,Carlos Rodon,501981,Called Strike,null,null
+FT,Carlos Rodon,501981,"In play, out(s)",86.7,-1.56
+FT,Carlos Rodon,542993,Ball,null,null
+FT,Carlos Rodon,542993,"In play, no out",94.5,-18.39
+FT,Carlos Rodon,542993,Ball,null,null
+FT,Carlos Rodon,456714,Ball,null,null
+FT,Carlos Rodon,456714,Ball In Dirt,null,null
+FT,Carlos Rodon,456714,"In play, out(s)",null,null
+CH,Carlos Rodon,456714,Ball In Dirt,null,null
+FT,Carlos Rodon,456714,Called Strike,null,null
+FF,Carlos Rodon,542993,"In play, no out",null,null
+FT,Carlos Rodon,501981,Called Strike,null,null
+FT,Carlos Rodon,501981,Called Strike,null,null
+SL,Carlos Rodon,501981,"In play, no out",null,null
+FT,Carlos Rodon,501981,Ball,null,null
+SL,Carlos Rodon,476704,Ball,null,null
+FT,Carlos Rodon,476704,Ball,null,null
+FT,Carlos Rodon,476704,"In play, run(s)",null,null
+FF,Carlos Rodon,476704,Swinging Strike,null,null
+FT,Carlos Rodon,502143,Ball,null,null
+FF,Carlos Rodon,502143,Ball,null,null
+FF,Carlos Rodon,502143,"In play, out(s)",75.6,47.19
+FF,Carlos Rodon,502143,Ball,null,null
+FT,Carlos Rodon,592192,"In play, run(s)",105.6,27.01
+FT,Carlos Rodon,475174,Called Strike,null,null
+FF,Carlos Rodon,475174,Swinging Strike,null,null
+SL,Carlos Rodon,475174,Foul Tip,null,null
+FT,Carlos Rodon,475174,Ball,null,null
+SL,Carlos Rodon,475174,Ball,null,null
+CH,Carlos Rodon,543760,Ball,null,null
+FT,Carlos Rodon,543760,Ball,null,null
+FT,Carlos Rodon,543760,Called Strike,null,null
+FF,Carlos Rodon,543760,Swinging Strike,null,null
+SL,Carlos Rodon,543760,Foul,null,null
+FT,Carlos Rodon,543760,Called Strike,null,null
+FT,Carlos Rodon,542993,Ball,null,null
+FT,Carlos Rodon,542993,"In play, out(s)",91.1,12.91
+SL,Carlos Rodon,542993,Ball,null,null
+FT,Carlos Rodon,501981,Swinging Strike,null,null
+FT,Carlos Rodon,501981,Called Strike,null,null
+FF,Carlos Rodon,501981,Swinging Strike,null,null
+FT,Carlos Rodon,476704,"In play, out(s)",107,14.93
+FT,Carlos Rodon,476704,Ball,null,null
+FT,Carlos Rodon,456714,Foul,null,12.37
+CH,Carlos Rodon,456714,Swinging Strike,null,null
+FT,Carlos Rodon,456714,"In play, out(s)",98.1,16.21
+FT,Carlos Rodon,572033,Ball,null,null
+FT,Carlos Rodon,572033,"In play, no out",105.2,2
+CH,Carlos Rodon,572033,Ball,null,null
+SL,Carlos Rodon,592192,Swinging Strike,null,null
+FF,Carlos Rodon,592192,Foul,null,null
+SL,Carlos Rodon,592192,Called Strike,null,null
+FT,Carlos Rodon,543760,"In play, no out",92.7,-6.15
+FT,Carlos Rodon,542993,Foul,null,40.54
+FT,Carlos Rodon,542993,"In play, out(s)",null,null
+FF,Carlos Rodon,542993,Ball,null,null
+SL,Carlos Rodon,542993,Ball In Dirt,null,null
+FT,Carlos Rodon,501981,Ball,null,null
+FT,Carlos Rodon,501981,Foul,null,null
+FT,Carlos Rodon,501981,Foul,null,53.81
+FT,Carlos Rodon,501981,Ball,null,null
+FT,Carlos Rodon,501981,Swinging Strike,null,null
+SL,Carlos Rodon,501981,Swinging Strike (Blocked),null,null
+FT,Carlos Rodon,502143,Called Strike,null,null
+SL,Carlos Rodon,502143,Foul,null,57.59
+SL,Carlos Rodon,502143,Ball,null,null
+FT,Carlos Rodon,502143,Foul,null,-20.15
+FT,Carlos Rodon,502143,Ball,null,null
+FT,Carlos Rodon,502143,Foul,null,null
+SL,Carlos Rodon,502143,Ball,null,null
+SL,Carlos Rodon,502143,Ball,null,null
+FT,Carlos Rodon,456714,Called Strike,null,null
+SL,Carlos Rodon,456714,"In play, no out",90.3,-15.34
+FT,Carlos Rodon,572033,Foul,null,null
+FF,Carlos Rodon,572033,Ball,null,null
+FT,Carlos Rodon,572033,Foul,null,43.42
+FF,Carlos Rodon,572033,Ball,null,null
+SL,Carlos Rodon,572033,Swinging Strike,null,null
+FT,Carlos Rodon,592192,Called Strike,null,null
+SL,Carlos Rodon,592192,"In play, out(s)",98.5,8.85
+SL,Carlos Rodon,592192,Ball,null,null
+FT,Carlos Rodon,543760,Ball,null,null
+FT,Carlos Rodon,543760,Foul,null,null
+FT,Carlos Rodon,543760,"In play, out(s)",null,null
+CH,Carlos Rodon,543760,Ball,null,null
+FT,Carlos Rodon,475174,Swinging Strike,null,null
+FT,Carlos Rodon,475174,"In play, out(s)",94,-7.26
+FT,Carlos Rodon,475174,Ball,null,null
+FT,Carlos Rodon,476704,"In play, out(s)",103.2,1.61
+FT,Carlos Rodon,475174,"In play, out(s)",65.7,-1.26
+FT,Carlos Rodon,475174,Foul,null,null
+FT,Carlos Rodon,502143,Ball,null,null
+SL,Carlos Rodon,502143,Ball,null,null
+FT,Carlos Rodon,502143,"In play, out(s)",110.3,-11.03
+SL,Carlos Rodon,502143,Called Strike,null,null
+FT,Carlos Rodon,572033,"In play, out(s)",90.9,-1.44
+CH,Carlos Rodon,572033,Ball,null,null

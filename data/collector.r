@@ -2,20 +2,31 @@
 setwd("~/lucSABR")
 
 # Read the data
-pitcherData<- read.csv("~/lucSABR/Data/pitchers.csv")
-attach(pitcherData)
+pitcher<- read.csv("~/lucSABR/Data/ClaytonKershaw.csv")
+attach(pitcher)
 
 
-prevPitch <- c("x", pitcherData$pitchType)
+result.data <- data.frame(player_name = NULL, pitch_type1 = NULL, pitch_type2 = NULL, pitch_seq = NULL,batter = NULL, description = NULL, hit_speed = NULL, hit_angle = NULL)
+  
+numPitch <- length(row(pitcher[1]))
+q <- 2
+seqRow <- "NULL"
+  
+while(q <= numPitch)
+{
+  if(pitcher$batter[q] == pitcher$batter[q-1])
+  {
+    seqPitch <- paste(pitcher$pitch_type[q -1], pitcher$pitch_type[q], sep = "|")
+    seqRow <- c(seqRow, seqPitch)
+  }
+  else
+  {
+    seqRow <- c(seqRow, "NULL")
+  }
+    
+  q <- q + 1
+}
 
-pSeqtable <- data.frame(PITCH_SEQUENCE = prevPitch+pitcherData$pitchType, start_speed = pitcherData$start_speed,
-	player_name = pitcherData$player_name, hit_speed = pitcherData$hit_speed, hit_angle = pitcherData$hit_angle,
-	type = pitcherData$type)
-#Creates new data table that adds the previous
-detach(pitcherData)
+result.data <- rbind(result.data, data.frame(player_name = pitcher$player_name, batter = pitcher$batter, pitch_seq = seqRow, description = pitcher$description, hit_speed = pitcher$hit_speed, hit_angle = pitcher$hit_angle))
+detach(pitcher)
 
-attach(pSeqtable)
-
-sort(PITCH_SEQUENCE)
-
-#Calculate Data for each sequence
