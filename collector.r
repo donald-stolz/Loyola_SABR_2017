@@ -49,6 +49,8 @@ CUCU <- subset(result.data, result.data$pitch_seq == "CU|CU")
 #Create subsets from top 15 league sequence
 
 
-#Write file
+#Change directory to sequencing folder
 setwd("~/lucSABR/Sequenced")
+
+#Write file
 write.csv(result.data, "AdamWarren_seq.csv")
