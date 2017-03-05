@@ -2,11 +2,11 @@
 setwd("~/lucSABR")
 
 # Read the data
-pitcher<- read.csv("~/lucSABR/Data/all_pitchers.csv")
+pitcher<- read.csv("~/lucSABR/Data/First 20 Pitchers.csv")
 attach(pitcher)
 
 
-result.data <- data.frame(player_name = NULL, pitch_type1 = NULL, pitch_type2 = NULL, pitch_seq = NULL,batter = NULL, description = NULL, hit_speed = NULL, hit_angle = NULL)
+result.data <- data.frame(player_name = NULL, pitch_seq = NULL)
 
 numPitchSeason <- length(row(pitcher[1]))
 q <- 2
@@ -30,22 +30,14 @@ while(q <= numPitchSeason)
   q <- q + 1
 }
 
-result.data <- rbind(result.data, data.frame(player_name = pitcher$player_name, batter = pitcher$batter, pitch_seq = seqRow, description = pitcher$description, hit_speed = pitcher$hit_speed, hit_angle = pitcher$hit_angle))
+result.data <- rbind(result.data, data.frame(player_name = pitcher$player_name, pitch_seq = seqRow))
 
 result.data <- na.omit(result.data)
 #Remove non-sequential Rows
 
-#Next step will remove unesscary levels
-levels(result.data$description)
-
-levels(result.data$description) <- c(NA, NA, "Strike", "Foul", "Foul", "Foul", "Foul", NA, "Hit","Hit", "Hit", NA, NA, "Swinging Strike", "Swinging Strike")
-#Distinguish useful letters
-
-result.data <- na.omit(result.data)
-#Remove unused levels
 result.Sum <- summary(result.data$pitch_seq)
 #Create Summary
 
 #Write file
 setwd("~/lucSABR/Sequenced")
-write.csv(result.Sum, "pitchSequenceSetSummary.csv")
+write.csv(result.Sum, "pitchSequenceSetSummary20_1.csv")
