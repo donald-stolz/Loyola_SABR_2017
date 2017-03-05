@@ -35,10 +35,10 @@ result.data <- rbind(result.data, data.frame(player_name = pitcher$player_name, 
 result.data <- na.omit(result.data)
 #Remove non-sequential Rows
 
-#Next step will remove 
-numPitchSeqX <- length(row(result.data[1]))
+#Next step will remove unesscary levels
+levels(result.data$description)
 
-levels(result.data$description) <- c(NA, NA, "Strike", NA, NA, NA, NA, NA, "Hit","Hit", "Hit", NA, "Strike", "Swinging Strike", "Swinging Strike")
+levels(result.data$description) <- c(NA, NA, "Strike", "Foul", "Foul", "Foul", "Foul", NA, "Hit","Hit", "Hit", NA, NA, "Swinging Strike", "Swinging Strike")
 #Distinguish useful letters
 
 result.data <- na.omit(result.data)
