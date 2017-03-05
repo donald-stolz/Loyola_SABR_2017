@@ -2,7 +2,7 @@
 setwd("~/lucSABR")
 
 # Read the data
-pitcher<- read.csv("~/lucSABR/Data/First 20 Pitchers.csv")
+pitcher<- read.csv("~/lucSABR/LastP2.csv")
 attach(pitcher)
 
 
@@ -40,4 +40,4 @@ result.Sum <- summary(result.data$pitch_seq)
 
 #Write file
 setwd("~/lucSABR/Sequenced")
-write.csv(result.Sum, "pitchSequenceSetSummary20_1.csv")
+write.csv(result.Sum, "pitchSequenceSetSummary20_4.csv")
