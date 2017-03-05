@@ -10,23 +10,31 @@ result.data <- data.frame(player_name = NULL, pitch_type1 = NULL, pitch_type2 = 
   
 numPitch <- length(row(pitcher[1]))
 q <- 2
-seqRow <- "NULL"
-  
+seqRow <- NA
+#Mark pitches that are not part of a sequence
+
 while(q <= numPitch)
 {
+  
   if(pitcher$batter[q] == pitcher$batter[q-1])
   {
     seqPitch <- paste(pitcher$pitch_type[q -1], pitcher$pitch_type[q], sep = "|")
     seqRow <- c(seqRow, seqPitch)
+    #Sequence the pitches
   }
   else
   {
-    seqRow <- c(seqRow, "NULL")
+    seqRow <- c(seqRow, NA)
+    #Mark pitches that are not part of a sequence
   }
     
   q <- q + 1
 }
 
 result.data <- rbind(result.data, data.frame(player_name = pitcher$player_name, batter = pitcher$batter, pitch_seq = seqRow, description = pitcher$description, hit_speed = pitcher$hit_speed, hit_angle = pitcher$hit_angle))
-detach(pitcher)
 
+result.data <- na.omit(result.data)
+#Remove non-sequential Rows
+
+setwd("~/lucSABR/Sequenced")
+write.csv(result.data, "ClaytonKershaw_seq.csv")
