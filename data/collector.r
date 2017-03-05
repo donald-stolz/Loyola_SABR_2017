@@ -8,19 +8,18 @@ attach(pitcher)
 
 result.data <- data.frame(player_name = NULL, pitch_type1 = NULL, pitch_type2 = NULL, pitch_seq = NULL,batter = NULL, description = NULL, hit_speed = NULL, hit_angle = NULL)
   
-numPitch <- length(row(pitcher[1]))
+numPitchSeason <- length(row(pitcher[1]))
 q <- 2
 seqRow <- NA
-#Mark pitches that are not part of a sequence
+#Mark initial pitch as not part of a sequence
 
-while(q <= numPitch)
+while(q <= numPitchSeason)
 {
-  
   if(pitcher$batter[q] == pitcher$batter[q-1])
   {
     seqPitch <- paste(pitcher$pitch_type[q -1], pitcher$pitch_type[q], sep = "|")
     seqRow <- c(seqRow, seqPitch)
-    #Sequence the pitches
+    #Sequence the pitches. Combine
   }
   else
   {
@@ -36,5 +35,15 @@ result.data <- rbind(result.data, data.frame(player_name = pitcher$player_name, 
 result.data <- na.omit(result.data)
 #Remove non-sequential Rows
 
+#Next step will remove 
+numPitchSeqX <- length(row(result.data[1]))
+
+levels(result.data$description) <- c(NA, NA, "Strike", NA, NA, NA, NA, NA, "Hit","Hit", "Hit", NA, "Strike", "Swinging Strike", "Swinging Strike")
+#Distinguish useful letters
+
+result.data <- na.omit(result.data)
+#Remove unused levels
+
+#Write file
 setwd("~/lucSABR/Sequenced")
 write.csv(result.data, "ClaytonKershaw_seq.csv")
