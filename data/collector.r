@@ -2,7 +2,7 @@
 setwd("~/lucSABR")
 
 # Read the data
-pitcher<- read.csv("~/lucSABR/Data/ClaytonKershaw.csv")
+pitcher<- read.csv("~/lucSABR/Data/Adam Warren.csv")
 attach(pitcher)
 
 
@@ -44,6 +44,10 @@ levels(result.data$description) <- c(NA, NA, "Strike", "Foul", "Foul", "Foul", "
 result.data <- na.omit(result.data)
 #Remove unused levels
 
+
+#Create subsets
+
+
 #Write file
 setwd("~/lucSABR/Sequenced")
-write.csv(result.data, "ClaytonKershaw_seq.csv")
+write.csv(result.data, "AdamWarren_seq.csv")
