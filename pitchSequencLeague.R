@@ -2,12 +2,12 @@
 setwd("~/lucSABR")
 
 # Read the data
-pitcher<- read.csv("~/lucSABR/Data/Adam Warren.csv")
+pitcher<- read.csv("~/lucSABR/Data/all_pitchers.csv")
 attach(pitcher)
 
 
 result.data <- data.frame(player_name = NULL, pitch_type1 = NULL, pitch_type2 = NULL, pitch_seq = NULL,batter = NULL, description = NULL, hit_speed = NULL, hit_angle = NULL)
-  
+
 numPitchSeason <- length(row(pitcher[1]))
 q <- 2
 seqRow <- NA
@@ -26,7 +26,7 @@ while(q <= numPitchSeason)
     seqRow <- c(seqRow, NA)
     #Mark pitches that are not part of a sequence
   }
-    
+  
   q <- q + 1
 }
 
@@ -43,12 +43,9 @@ levels(result.data$description) <- c(NA, NA, "Strike", "Foul", "Foul", "Foul", "
 
 result.data <- na.omit(result.data)
 #Remove unused levels
-
-CUCU <- subset(result.data, result.data$pitch_seq == "CU|CU")
-
-#Create subsets from top 15 league sequence
-
+result.Sum <- summary(result.data$pitch_seq)
+#Create Summary
 
 #Write file
 setwd("~/lucSABR/Sequenced")
-write.csv(result.data, "AdamWarren_seq.csv")
+write.csv(result.Sum, "pitchSequenceSetSummary.csv")
