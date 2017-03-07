@@ -1,0 +1,2 @@
+#,YEAR,LVL,PITCHER,NAME,PITCHES,PITCH_SEQUENCE,1st Pitch Type,2nd Pitch Type,Break:Tunnel,Plate Diff,Release Diff,Tunnel Differential,Flight Time Diff,Post-tunnel Break,Release:Tunnel,hit_speed_avg,hit_angle_avg,swinging.strike,strike.rate,ground,line_drive,fly_ball,pop_up
+1,2016,mlb,57550,Josh Smoker,81,FA|FA,FA,FA,0.0703,1.409,0.1374,0.8024,0.0043,0.0564,0.1713,89.2875,17.915,0.265306122,0.653061224,0.375,0.25,0.375,0
