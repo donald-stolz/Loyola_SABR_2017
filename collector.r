@@ -51,7 +51,7 @@ result.data <- na.omit(result.data)
 
 
 #Change directory to sequencing folder
-setwd("~/lucSABR/newSequence")
+setwd("~/lucSABR-master/newSequence")
 
 #Write file
 write.csv(result.data, "AdamWarren_seq.csv")
