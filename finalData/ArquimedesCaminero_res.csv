@@ -1,9 +1,0 @@
-,player_name,pitch_seq,hit_speed_avg,hit_angle_avg,swinging.strike,strike.rate,ground,line_drive,fly_ball,pop_up,Break:Tunnel,Plate Diff,Release Diff,Tunnel Differential,Flight Time Diff,Post-tunnel Break,Release:Tunnel
-1,Arquimedes Caminero,FF|FF,91.0575,10.63261905,0.16,0.508571429,0.5,0.214285714,0.285714286,0,0.055,1.3689,0.176,0.7652,0.0045,0.0421,0.23
-13,Arquimedes Caminero,FF|SL,87.4,13.54785714,0.148148148,0.481481481,0.357142857,0.285714286,0.357142857,0,,,,,,,
-19,Arquimedes Caminero,FT|FF,96.01428571,18.05285714,0.117647059,0.588235294,0,0.857142857,0.142857143,0,,,,,,,
-21,Arquimedes Caminero,FT|FT,86.15,15.4425,0.136363636,0.5,0.5,0,0.5,0,,,,,,,
-22,Arquimedes Caminero,FT|SL,84.04,26.86,0.083333333,0.5,0.2,0.2,0.4,0.2,,,,,,,
-23,Arquimedes Caminero,SL|FF,86.725,0.814666667,0.096153846,0.403846154,0.533333333,0.2,0.266666667,0,,,,,,,
-24,Arquimedes Caminero,SL|FT,88.38,11.664,0.15,0.35,0.5,0.2,0.3,0,,,,,,,
-25,Arquimedes Caminero,SL|SL,79.01111111,12.70888889,0.138888889,0.416666667,0.333333333,0.222222222,0.444444444,0,,,,,,,
