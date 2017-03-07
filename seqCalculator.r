@@ -922,8 +922,6 @@ result.data <- data.frame(player_name = pitcher$player_name[1], pitch_seq = col.
 result.data <- na.omit(result.data)
 #Removes unused pitch sets
 
-view(result.data)
-
 #Change directory to sequencing folder
 setwd("~/lucSABR-master/finalData")
 
