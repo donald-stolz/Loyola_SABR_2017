@@ -1,0 +1,2 @@
+#,YEAR,LVL,PITCHER,NAME,PITCHES,PITCH_SEQUENCE,1st Pitch Type,2nd Pitch Type,Break:Tunnel,Plate Diff,Release Diff,Tunnel Differential,Flight Time Diff,Post-tunnel Break,Release:Tunnel,hit_speed_avg,hit_angle_avg,swinging.strike,strike.rate,ground,line_drive,fly_ball,pop_up,,Statcast combo
+1,2016,mlb,60879,Rob Scahill,93,SI|SI,SI,SI,0.0709,1.2416,0.1175,0.685,0.003,0.0486,0.1716,99.18,2.542,0.224489795918367,0.530612244897959,0.7,0.3,0,0,,FT|FT
