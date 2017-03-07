@@ -1,4 +1,0 @@
-,player_name,pitch_seq,hit_speed_avg,hit_angle_avg,swinging.strike,strike.rate,ground,line_drive,fly_ball,pop_up,Break:Tunnel,Plate Diff,Release Diff,Tunnel Differential,Flight Time Diff,Post-tunnel Break,Release:Tunnel
-1,Aroldis Chapman,FF|FF,89.43409091,8.7175,0.259938838,0.675840979,0.590909091,0.136363636,0.227272727,0.045454545,0.0587,1.456,0.1525,0.8034,0.004,0.0472,0.1898
-13,Aroldis Chapman,FF|SL,92.22857143,16.68857143,0.283333333,0.516666667,0.285714286,0.285714286,0.428571429,0,0.4044,1.5807,0.1519,0.8452,0.0507,0.3418,0.1797
-23,Aroldis Chapman,SL|FF,85.68333333,6.543333333,0.326923077,0.730769231,0.5,0.5,0,0,0.3837,1.6332,0.1501,0.888,0.0538,0.3408,0.169
