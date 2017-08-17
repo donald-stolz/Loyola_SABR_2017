@@ -1,0 +1,2 @@
+#,YEAR,LVL,PITCHER,NAME,PITCHES,PITCH_SEQUENCE,1st Pitch Type,2nd Pitch Type,Break:Tunnel,Plate Diff,Release Diff,Tunnel Differential,Flight Time Diff,Post-tunnel Break,Release:Tunnel,hit_speed_avg,hit_angle_avg,swinging.strike,strike.rate,ground,line_drive,fly_ball,pop_up,,Statcast combo
+1,2016,mlb,67237,Raul Alcantara,65,FA|FA,FA,FA,0.0489,1.3439,0.169,0.7403,0.0031,0.0362,0.2283,96.8823529411765,13.9405882352941,0.03125,0.40625,0.411764705882353,0.352941176470588,0.176470588235294,0.0588235294117647,,FF|FF

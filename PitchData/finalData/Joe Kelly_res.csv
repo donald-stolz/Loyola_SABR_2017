@@ -1,0 +1,2 @@
+#,YEAR,LVL,PITCHER,NAME,PITCHES,PITCH_SEQUENCE,1st Pitch Type,2nd Pitch Type,Break:Tunnel,Plate Diff,Release Diff,Tunnel Differential,Flight Time Diff,Post-tunnel Break,Release:Tunnel,hit_speed_avg,hit_angle_avg,swinging.strike,strike.rate,ground,line_drive,fly_ball,pop_up
+1,2016,mlb,59351,Joe Kelly,205,FA|FA,FA,FA,0.0611,1.4164,0.1318,0.7944,0.0032,0.0485,0.1659,88.88125,11.11235294,0.243589744,0.525641026,0.529411765,0.235294118,0.235294118,0

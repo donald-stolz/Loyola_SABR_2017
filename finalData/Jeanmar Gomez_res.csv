@@ -1,2 +1,0 @@
-#,YEAR,LVL,PITCHER,NAME,PITCHES,PITCH_SEQUENCE,1st Pitch Type,2nd Pitch Type,Break:Tunnel,Plate Diff,Release Diff,Tunnel Differential,Flight Time Diff,Post-tunnel Break,Release:Tunnel,hit_speed_avg,hit_angle_avg,swinging.strike,strike.rate,ground,line_drive,fly_ball,pop_up
-3,2016,mlb,51862,Jeanmar Gomez,313,SI|SI,SI,SI,0.0638,1.2774,0.1522,0.733,0.004,0.0468,0.2076,89.12153846,9.445571429,0.076576577,0.31981982,0.514285714,0.242857143,0.214285714,0.028571429

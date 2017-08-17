@@ -1,0 +1,658 @@
+pitch_type,player_name,batter,description,hit_speed,hit_angle
+FF,Casey Fien,506560,Swinging Strike,null,null
+FF,Casey Fien,506560,Called Strike,null,null
+SL,Casey Fien,506560,Called Strike,null,null
+FT,Casey Fien,493351,Ball In Dirt,null,null
+SL,Casey Fien,493351,Ball,null,null
+FT,Casey Fien,493351,Ball,null,null
+FT,Casey Fien,493351,"In play, out(s)",null,null
+SL,Casey Fien,571976,"In play, run(s)",null,null
+FF,Casey Fien,500208,Ball,null,null
+SL,Casey Fien,500208,Foul,null,null
+FF,Casey Fien,500208,"In play, out(s)",null,null
+FF,Casey Fien,500208,Ball,null,null
+FF,Casey Fien,500208,Swinging Strike,null,null
+FF,Casey Fien,596143,"In play, no out",null,null
+SL,Casey Fien,506924,Called Strike,null,null
+FF,Casey Fien,506924,Ball,null,null
+SL,Casey Fien,506924,Ball,null,null
+FF,Casey Fien,506924,Foul,null,null
+FF,Casey Fien,506924,Foul,null,null
+SL,Casey Fien,506924,Foul,null,null
+FF,Casey Fien,506924,Foul,null,null
+SL,Casey Fien,506924,"In play, run(s)",105.2,22.55
+SL,Casey Fien,453568,Foul,null,null
+FF,Casey Fien,453568,"In play, out(s)",71.5,35.03
+FF,Casey Fien,518934,Ball,null,null
+SL,Casey Fien,518934,Ball,null,null
+FF,Casey Fien,518934,Called Strike,null,null
+SL,Casey Fien,518934,Foul,null,null
+FF,Casey Fien,518934,Foul Tip,null,null
+SL,Casey Fien,471865,Ball,null,null
+SL,Casey Fien,471865,Ball,null,null
+FF,Casey Fien,471865,Ball,null,null
+SL,Casey Fien,471865,Foul,null,null
+FF,Casey Fien,471865,Swinging Strike,null,null
+FF,Casey Fien,471865,Ball,null,null
+SL,Casey Fien,571448,Foul (Runner Going),null,null
+CU,Casey Fien,571448,Ball,null,null
+SL,Casey Fien,571448,Called Strike,null,null
+FF,Casey Fien,571448,Ball,null,null
+FF,Casey Fien,571448,Swinging Strike,null,null
+FF,Casey Fien,571448,Foul,null,null
+FF,Casey Fien,571448,Ball,null,null
+FF,Casey Fien,571448,Foul (Runner Going),null,null
+FF,Casey Fien,571448,Foul (Runner Going),null,null
+FF,Casey Fien,571448,Foul (Runner Going),null,null
+FF,Casey Fien,571448,Swinging Strike,null,null
+SL,Casey Fien,571437,Swinging Strike,null,null
+SL,Casey Fien,571437,Ball,null,null
+SL,Casey Fien,571437,Swinging Strike (Blocked),null,null
+FT,Casey Fien,571437,Foul,null,null
+SL,Casey Fien,605227,Swinging Strike,null,null
+FT,Casey Fien,605227,Foul,null,null
+FF,Casey Fien,605227,"In play, out(s)",73.7,8.32
+SL,Casey Fien,595963,Ball,null,null
+SL,Casey Fien,595963,Ball,null,null
+SL,Casey Fien,595963,Swinging Strike,null,null
+CU,Casey Fien,595963,Called Strike,null,null
+FF,Casey Fien,595963,Ball,null,null
+FF,Casey Fien,595963,Ball,null,null
+FT,Casey Fien,519237,Ball,null,null
+SL,Casey Fien,519237,"In play, no out",76.8,41.29
+SL,Casey Fien,520471,"In play, out(s)",88.8,57.34
+FT,Casey Fien,520471,Ball,null,null
+SL,Casey Fien,520471,Foul,null,null
+FF,Casey Fien,488721,Called Strike,null,null
+SL,Casey Fien,488721,"In play, out(s)",82.4,-6.2
+SL,Casey Fien,517370,Ball,null,null
+SL,Casey Fien,517370,Swinging Strike,null,null
+FT,Casey Fien,517370,"In play, out(s)",105.5,39.28
+FF,Casey Fien,517370,Ball,null,null
+FT,Casey Fien,517370,Swinging Strike,null,null
+FF,Casey Fien,571875,Ball,null,null
+FF,Casey Fien,571875,Ball,null,null
+CU,Casey Fien,571875,Called Strike,null,null
+SL,Casey Fien,571875,"In play, no out",104.8,4.67
+IN,Casey Fien,456078,Intent Ball,null,null
+IN,Casey Fien,456078,Intent Ball,null,null
+IN,Casey Fien,456078,Intent Ball,null,null
+IN,Casey Fien,456078,Intent Ball,null,null
+IN,Casey Fien,630111,Intent Ball,null,null
+IN,Casey Fien,630111,Intent Ball,null,null
+IN,Casey Fien,630111,Intent Ball,null,null
+IN,Casey Fien,630111,Intent Ball,null,null
+FF,Casey Fien,592273,Called Strike,null,null
+FF,Casey Fien,592273,Ball,null,null
+FF,Casey Fien,592273,"In play, run(s)",104.2,1.9
+CU,Casey Fien,516416,"In play, run(s)",97.9,28.28
+SL,Casey Fien,456422,Ball,null,null
+FT,Casey Fien,456422,Ball,null,null
+FF,Casey Fien,456422,Called Strike,null,null
+SL,Casey Fien,456422,"In play, no out",96.1,5.05
+CU,Casey Fien,456422,Called Strike,null,null
+FT,Casey Fien,456422,Foul,null,null
+SL,Casey Fien,502671,"In play, run(s)",105.3,26.96
+SL,Casey Fien,605113,Called Strike,null,null
+FF,Casey Fien,605113,Foul,null,null
+SL,Casey Fien,605113,"In play, out(s)",85.4,-7.61
+CU,Casey Fien,605113,Swinging Strike,null,null
+CU,Casey Fien,605113,Ball,null,null
+FF,Casey Fien,500208,"In play, out(s)",95.7,32.27
+CU,Casey Fien,500208,Called Strike,null,null
+SL,Casey Fien,500208,Ball,null,null
+SL,Casey Fien,500208,Foul,null,null
+FT,Casey Fien,425834,Swinging Strike,null,null
+FF,Casey Fien,425834,Ball,null,null
+SL,Casey Fien,425834,Swinging Strike,null,null
+SL,Casey Fien,425834,Swinging Strike,null,null
+FT,Casey Fien,425834,Foul,null,null
+FT,Casey Fien,572114,Foul,null,null
+FF,Casey Fien,572114,Ball,null,null
+SL,Casey Fien,572114,Foul,null,null
+CU,Casey Fien,572114,Called Strike,null,null
+SL,Casey Fien,572114,Ball,null,null
+CU,Casey Fien,572114,Ball,null,null
+FF,Casey Fien,572114,Swinging Strike,null,null
+SL,Casey Fien,493351,Ball,null,null
+FT,Casey Fien,493351,Swinging Strike,null,null
+FF,Casey Fien,493351,Ball,null,null
+FF,Casey Fien,493351,"In play, out(s)",84.6,40.43
+FF,Casey Fien,493351,Called Strike,null,null
+FF,Casey Fien,493351,Ball,null,null
+FF,Casey Fien,493351,Foul,null,null
+FF,Casey Fien,493351,Foul,null,null
+SL,Casey Fien,444432,"In play, run(s)",98.9,32.48
+SL,Casey Fien,444432,Ball,null,null
+FF,Casey Fien,543376,Swinging Strike,null,null
+FT,Casey Fien,543376,Foul,null,null
+SL,Casey Fien,543376,Swinging Strike,null,null
+SL,Casey Fien,543376,Swinging Strike,null,null
+SL,Casey Fien,645848,Ball In Dirt,null,null
+FF,Casey Fien,645848,Foul,null,null
+FF,Casey Fien,645848,Foul (Runner Going),null,null
+SL,Casey Fien,645848,Ball,null,null
+FF,Casey Fien,645848,Ball,null,null
+FF,Casey Fien,645848,Foul Tip,null,null
+FF,Casey Fien,645848,Ball,null,null
+FF,Casey Fien,645848,Foul (Runner Going),null,null
+FF,Casey Fien,430945,Foul,null,null
+FT,Casey Fien,430945,Foul,null,null
+FF,Casey Fien,430945,Swinging Strike,null,null
+FF,Casey Fien,430945,"In play, out(s)",null,null
+CU,Casey Fien,475247,"In play, no out",null,null
+FF,Casey Fien,570731,Swinging Strike,null,null
+FT,Casey Fien,570731,Foul,null,null
+FF,Casey Fien,570731,"In play, out(s)",82.5,63.15
+SL,Casey Fien,570731,Called Strike,null,null
+FF,Casey Fien,570731,Foul,null,null
+FT,Casey Fien,570731,Ball,null,null
+FF,Casey Fien,542436,Foul,null,null
+FF,Casey Fien,542436,"In play, out(s)",61,10.55
+CU,Casey Fien,542436,Foul,null,null
+SL,Casey Fien,571448,Ball,null,null
+SL,Casey Fien,571448,Ball,null,null
+FT,Casey Fien,571448,"In play, out(s)",101.4,-2.32
+CU,Casey Fien,518614,Called Strike,null,null
+SL,Casey Fien,518614,Ball,null,null
+SL,Casey Fien,518614,Foul,null,null
+CU,Casey Fien,518614,Ball,null,null
+SL,Casey Fien,518614,"In play, run(s)",105.3,20.64
+CU,Casey Fien,518614,Ball,null,null
+FT,Casey Fien,518614,Foul,null,null
+SL,Casey Fien,460026,"In play, out(s)",85.5,29.4
+SL,Casey Fien,430605,Ball,null,null
+SL,Casey Fien,430605,"In play, out(s)",96.5,-7.91
+SL,Casey Fien,430605,Called Strike,null,null
+FF,Casey Fien,430605,Ball,null,null
+FF,Casey Fien,448602,"In play, out(s)",87,47.06
+CU,Casey Fien,448602,Swinging Strike,null,null
+SL,Casey Fien,542436,Called Strike,null,null
+SL,Casey Fien,542436,Foul,null,null
+FF,Casey Fien,542436,Ball,null,null
+SL,Casey Fien,542436,Called Strike,null,null
+FF,Casey Fien,542436,Ball,null,null
+CU,Casey Fien,542436,Ball,null,null
+SL,Casey Fien,542436,Swinging Strike,null,null
+CU,Casey Fien,571697,Ball,null,null
+FF,Casey Fien,571697,Called Strike,null,null
+FF,Casey Fien,571697,Swinging Strike,null,null
+SL,Casey Fien,571697,Called Strike,null,null
+SL,Casey Fien,571697,Foul,null,null
+CU,Casey Fien,460075,Called Strike,null,null
+FF,Casey Fien,460075,Ball,null,null
+FF,Casey Fien,460075,Foul,null,null
+SL,Casey Fien,460075,Foul,null,null
+FT,Casey Fien,460075,Ball,null,null
+FF,Casey Fien,460075,Foul,null,null
+FF,Casey Fien,460075,Ball,null,null
+FF,Casey Fien,460075,"In play, out(s)",74.3,37.65
+SL,Casey Fien,570717,Foul,null,null
+FF,Casey Fien,570717,"In play, no out",64,43.44
+CU,Casey Fien,570717,Ball,null,null
+SL,Casey Fien,542340,"In play, out(s)",null,null
+CU,Casey Fien,542340,Ball,null,null
+FF,Casey Fien,474892,"In play, out(s)",77.2,-6.95
+FF,Casey Fien,474892,Called Strike,null,null
+SL,Casey Fien,431094,Ball,null,null
+SL,Casey Fien,431094,Ball,null,null
+FF,Casey Fien,431094,Foul,null,null
+CU,Casey Fien,431094,Called Strike,null,null
+FF,Casey Fien,431094,Foul,null,null
+FF,Casey Fien,431094,"In play, out(s)",94.5,15.8
+CU,Casey Fien,541650,"In play, out(s)",91.1,18.68
+FF,Casey Fien,624428,Ball,null,null
+CU,Casey Fien,624428,Ball,null,null
+SL,Casey Fien,624428,Foul,null,null
+SL,Casey Fien,624428,"In play, out(s)",74.7,25.25
+SL,Casey Fien,501896,Foul,null,null
+SL,Casey Fien,501896,Ball,null,null
+SL,Casey Fien,501896,"In play, out(s)",74,3.64
+CU,Casey Fien,501896,Called Strike,null,null
+FF,Casey Fien,501896,Ball,null,null
+FF,Casey Fien,457705,Ball,null,null
+SL,Casey Fien,457705,Foul,null,null
+FF,Casey Fien,457705,Ball,null,null
+FF,Casey Fien,457705,Foul,null,null
+SL,Casey Fien,457705,Called Strike,null,null
+FF,Casey Fien,457705,Called Strike,null,null
+SL,Casey Fien,628356,Called Strike,null,null
+CU,Casey Fien,628356,Foul,null,null
+FF,Casey Fien,628356,Foul,null,null
+SL,Casey Fien,628356,Swinging Strike,null,null
+SL,Casey Fien,516782,Called Strike,null,null
+SL,Casey Fien,516782,Ball,null,null
+FF,Casey Fien,516782,"In play, out(s)",50.9,-7.28
+CU,Casey Fien,516782,Swinging Strike,null,null
+FF,Casey Fien,516782,Ball,null,null
+SL,Casey Fien,543281,"In play, out(s)",null,null
+FF,Casey Fien,543281,Foul,null,null
+CU,Casey Fien,628356,Called Strike,null,null
+SL,Casey Fien,628356,"In play, out(s)",88.2,7.62
+SL,Casey Fien,467092,Ball,null,null
+FF,Casey Fien,467092,Foul,null,null
+FF,Casey Fien,467092,Swinging Strike,null,null
+SL,Casey Fien,467092,Called Strike,null,null
+SL,Casey Fien,543685,Ball,null,null
+SL,Casey Fien,543685,Foul,null,null
+FT,Casey Fien,543685,Foul,null,null
+SL,Casey Fien,543685,Ball,null,null
+CU,Casey Fien,543685,Called Strike,null,null
+SL,Casey Fien,543685,Called Strike,null,null
+FT,Casey Fien,543685,Ball,null,null
+SL,Casey Fien,543685,Foul,null,null
+CU,Casey Fien,543685,Ball,null,null
+FF,Casey Fien,572191,Called Strike,null,null
+SL,Casey Fien,572191,Foul Tip,null,null
+FF,Casey Fien,572191,Swinging Strike,null,null
+SL,Casey Fien,457787,"In play, no out",null,null
+FF,Casey Fien,457787,Swinging Strike,null,null
+SL,Casey Fien,475582,Swinging Strike,null,null
+SL,Casey Fien,475582,Ball,null,null
+CU,Casey Fien,475582,Called Strike,null,null
+FF,Casey Fien,475582,Ball,null,null
+SL,Casey Fien,475582,"In play, out(s)",null,null
+FF,Casey Fien,150029,Foul,null,null
+FF,Casey Fien,150029,"In play, out(s)",77.9,41.03
+CU,Casey Fien,150029,Called Strike,null,null
+SL,Casey Fien,150029,Foul,null,null
+FF,Casey Fien,150029,Ball,null,null
+CU,Casey Fien,502517,"In play, out(s)",72.7,-7.79
+SL,Casey Fien,605452,Foul Bunt,null,null
+SL,Casey Fien,605452,"In play, no out",101.9,-9.65
+FF,Casey Fien,605452,Ball,null,null
+CU,Casey Fien,542340,Swinging Strike,null,null
+FF,Casey Fien,542340,Ball,null,null
+SL,Casey Fien,542340,Ball,null,null
+SL,Casey Fien,542340,"In play, no out",100.7,-9.61
+SL,Casey Fien,571697,"In play, out(s)",99.4,6.25
+FF,Casey Fien,460075,"In play, run(s)",99.6,31.02
+SL,Casey Fien,518960,"In play, out(s)",65.8,-7.37
+CU,Casey Fien,518960,Called Strike,null,null
+FF,Casey Fien,474892,Called Strike,null,null
+FF,Casey Fien,474892,Foul,null,null
+FF,Casey Fien,474892,"In play, out(s)",103.2,16.59
+SL,Casey Fien,431094,Ball,null,null
+FF,Casey Fien,431094,Swinging Strike,null,null
+CU,Casey Fien,431094,"In play, out(s)",77.1,27.33
+SL,Casey Fien,502100,Ball,null,null
+FF,Casey Fien,502100,Foul,null,null
+SL,Casey Fien,502100,"In play, out(s)",99.3,-9.71
+FF,Casey Fien,502100,Called Strike,null,null
+FF,Casey Fien,502100,Called Strike,null,null
+FF,Casey Fien,502100,Foul,null,null
+CU,Casey Fien,502100,Ball,null,null
+FF,Casey Fien,502100,Ball,null,null
+FF,Casey Fien,502100,Foul,null,null
+SL,Casey Fien,460075,Ball,null,null
+FF,Casey Fien,460075,Foul,null,null
+SL,Casey Fien,460075,"In play, no out",89.3,-20.78
+FF,Casey Fien,474892,Foul,null,null
+SL,Casey Fien,474892,Ball,null,null
+SL,Casey Fien,474892,"In play, run(s)",106.8,20.73
+FF,Casey Fien,541650,Foul Tip,null,null
+FF,Casey Fien,541650,Foul,null,null
+FF,Casey Fien,541650,Foul,null,null
+SL,Casey Fien,541650,Swinging Strike,null,null
+SL,Casey Fien,571697,Foul,null,null
+FF,Casey Fien,571697,Ball,null,null
+SL,Casey Fien,571697,"In play, out(s)",87.4,24.88
+CU,Casey Fien,571697,Called Strike,null,null
+SL,Casey Fien,571697,Ball,null,null
+SL,Casey Fien,518960,Ball,null,null
+SL,Casey Fien,518960,"In play, out(s)",null,null
+FF,Casey Fien,518960,Called Strike,null,null
+FT,Casey Fien,431094,Ball,null,null
+CU,Casey Fien,431094,Called Strike,null,null
+FF,Casey Fien,431094,"In play, run(s)",98.7,24.01
+FF,Casey Fien,431094,Called Strike,null,null
+FF,Casey Fien,594838,"In play, out(s)",85.7,-31.01
+CU,Casey Fien,456422,Ball,null,null
+FF,Casey Fien,456422,"In play, out(s)",100.4,-2.18
+FF,Casey Fien,456422,Called Strike,null,null
+SL,Casey Fien,516416,"In play, no out",91.4,8.26
+SL,Casey Fien,571875,"In play, out(s)",102.7,23.09
+SL,Casey Fien,607776,"In play, out(s)",76.5,28.8
+FF,Casey Fien,457763,Foul,null,null
+FF,Casey Fien,457763,Foul,null,null
+FF,Casey Fien,457763,"In play, out(s)",89.8,52.96
+SL,Casey Fien,457763,Called Strike,null,null
+FF,Casey Fien,457763,Foul,null,null
+SL,Casey Fien,457763,Ball,null,null
+SL,Casey Fien,457763,Foul,null,null
+CU,Casey Fien,457763,Ball,null,null
+SL,Casey Fien,622110,"In play, out(s)",77.9,40.28
+CU,Casey Fien,622110,Called Strike,null,null
+SL,Casey Fien,543063,Ball,null,null
+SL,Casey Fien,543063,"In play, no out",104,18.33
+FF,Casey Fien,543063,Ball,null,null
+SL,Casey Fien,543063,Swinging Strike,null,null
+SL,Casey Fien,453923,"In play, out(s)",null,null
+FF,Casey Fien,453923,Ball,null,null
+FF,Casey Fien,543216,Ball,null,null
+FF,Casey Fien,543216,Ball,null,null
+null,Casey Fien,543216,Intent Ball,null,null
+SL,Casey Fien,543216,Ball,null,null
+FF,Casey Fien,448602,Called Strike,null,null
+FF,Casey Fien,448602,"In play, no out",76.5,21.68
+SL,Casey Fien,448602,Swinging Strike,null,null
+FT,Casey Fien,518934,Called Strike,null,null
+FT,Casey Fien,518934,Ball,null,null
+FF,Casey Fien,518934,Foul,null,null
+SL,Casey Fien,518934,Ball,null,null
+FF,Casey Fien,518934,Foul Tip,null,null
+SL,Casey Fien,518934,"In play, out(s)",86.9,4.57
+FF,Casey Fien,471865,Swinging Strike,null,null
+FF,Casey Fien,471865,Foul,null,null
+FF,Casey Fien,471865,Foul,null,null
+FF,Casey Fien,471865,Ball,null,null
+SL,Casey Fien,471865,Foul,null,null
+FF,Casey Fien,471865,Ball,null,null
+SL,Casey Fien,471865,Foul,null,null
+FF,Casey Fien,471865,Foul,null,null
+FF,Casey Fien,471865,Swinging Strike,null,null
+FT,Casey Fien,453568,"In play, out(s)",null,null
+FF,Casey Fien,453568,Ball,null,null
+FF,Casey Fien,471865,Swinging Strike,null,null
+SL,Casey Fien,471865,Ball,null,null
+FF,Casey Fien,471865,Called Strike,null,null
+FT,Casey Fien,471865,Ball,null,null
+FF,Casey Fien,471865,Foul,null,null
+SL,Casey Fien,571448,Ball,null,null
+FF,Casey Fien,571448,"In play, out(s)",43.4,-25.9
+FF,Casey Fien,571448,Called Strike,null,null
+FF,Casey Fien,571448,Foul,null,null
+FF,Casey Fien,453568,Foul,null,null
+SL,Casey Fien,453568,Ball,null,null
+SL,Casey Fien,453568,Foul,null,null
+FF,Casey Fien,453568,Called Strike,null,null
+SL,Casey Fien,453568,Ball,null,null
+SL,Casey Fien,453568,Foul,null,null
+SL,Casey Fien,453568,Ball,null,null
+FF,Casey Fien,453568,"In play, out(s)",76.7,33.65
+SL,Casey Fien,518934,"In play, no out",99.8,12.48
+FF,Casey Fien,488818,Swinging Strike,null,null
+SL,Casey Fien,488818,"In play, out(s)",93.3,21.05
+SL,Casey Fien,542255,Swinging Strike,null,null
+FF,Casey Fien,542255,Called Strike,null,null
+FF,Casey Fien,452657,Called Strike,null,null
+FF,Casey Fien,452657,Ball,null,null
+FF,Casey Fien,452657,Swinging Strike,null,null
+FF,Casey Fien,452657,Swinging Strike,null,null
+FF,Casey Fien,452657,Foul,null,null
+FF,Casey Fien,452657,Ball,null,null
+SL,Casey Fien,451594,Swinging Strike,null,null
+FF,Casey Fien,451594,Ball,null,null
+SL,Casey Fien,451594,Swinging Strike,null,null
+CU,Casey Fien,451594,Swinging Strike,null,null
+SL,Casey Fien,451594,Ball,null,null
+SL,Casey Fien,518792,Swinging Strike,null,null
+SL,Casey Fien,518792,Ball,null,null
+SL,Casey Fien,518792,Foul,null,null
+SL,Casey Fien,518792,Ball,null,null
+FF,Casey Fien,518792,Called Strike,null,null
+FT,Casey Fien,518792,Ball,null,null
+FF,Casey Fien,518792,"In play, no out",85.5,0.96
+FF,Casey Fien,592178,Ball,null,null
+SL,Casey Fien,592178,Ball,null,null
+FF,Casey Fien,592178,Swinging Strike,null,null
+FF,Casey Fien,592178,Called Strike,null,null
+FF,Casey Fien,592178,Swinging Strike,null,null
+SL,Casey Fien,450314,Called Strike,null,null
+FT,Casey Fien,450314,Ball,null,null
+FF,Casey Fien,450314,Called Strike,null,null
+SL,Casey Fien,450314,Ball,null,null
+FT,Casey Fien,450314,Ball,null,null
+FF,Casey Fien,450314,"In play, out(s)",99.2,26.62
+FT,Casey Fien,518792,Swinging Strike,null,null
+SL,Casey Fien,518792,"In play, out(s)",95.7,44.86
+FF,Casey Fien,518792,Ball,null,null
+SL,Casey Fien,592178,Swinging Strike,null,null
+FF,Casey Fien,592178,Foul,null,null
+FF,Casey Fien,592178,Ball,null,null
+FF,Casey Fien,592178,Swinging Strike,null,null
+FF,Casey Fien,457477,Called Strike,null,null
+SL,Casey Fien,457477,Called Strike,null,null
+FF,Casey Fien,457477,Called Strike,null,null
+FF,Casey Fien,608703,Called Strike,null,null
+FF,Casey Fien,608703,Called Strike,null,null
+SL,Casey Fien,608703,Ball,null,null
+FF,Casey Fien,608703,Swinging Strike,null,null
+SL,Casey Fien,493472,Swinging Strike,null,null
+SL,Casey Fien,493472,Swinging Strike,null,null
+FF,Casey Fien,493472,Foul,null,null
+FF,Casey Fien,493472,Foul,null,null
+SL,Casey Fien,493472,Called Strike,null,null
+FF,Casey Fien,605512,Swinging Strike,null,null
+FF,Casey Fien,605512,Ball,null,null
+SL,Casey Fien,605512,Swinging Strike,null,null
+FF,Casey Fien,605512,Swinging Strike,null,null
+SL,Casey Fien,503556,Ball,null,null
+FF,Casey Fien,503556,Foul,null,null
+FF,Casey Fien,503556,"In play, out(s)",84,-9.37
+FF,Casey Fien,503556,Foul,null,null
+FF,Casey Fien,472528,Ball,null,null
+FF,Casey Fien,472528,Foul,null,null
+SL,Casey Fien,472528,Ball,null,null
+FF,Casey Fien,472528,Called Strike,null,null
+SL,Casey Fien,472528,Foul,null,null
+FF,Casey Fien,472528,"In play, no out",null,null
+SL,Casey Fien,488771,Called Strike,null,null
+FF,Casey Fien,488771,"In play, run(s)",101.7,24.58
+CU,Casey Fien,488771,Ball,null,null
+FF,Casey Fien,488771,Swinging Strike,null,null
+SL,Casey Fien,543807,"In play, out(s)",98.1,57.13
+FF,Casey Fien,543807,Called Strike,null,null
+FT,Casey Fien,621043,Foul,null,null
+SL,Casey Fien,621043,Swinging Strike,null,null
+FF,Casey Fien,621043,"In play, run(s)",101,21.96
+FT,Casey Fien,458675,Swinging Strike,null,null
+SL,Casey Fien,458675,Ball,null,null
+SL,Casey Fien,458675,"In play, out(s)",null,null
+CU,Casey Fien,458675,Called Strike,null,null
+FF,Casey Fien,458675,Ball,null,null
+CU,Casey Fien,460576,Swinging Strike,null,null
+SL,Casey Fien,460576,Swinging Strike,null,null
+SL,Casey Fien,460576,Called Strike,null,null
+SL,Casey Fien,514888,Called Strike,null,null
+SL,Casey Fien,514888,Foul,null,null
+SL,Casey Fien,514888,"In play, out(s)",59.3,-52.75
+SL,Casey Fien,514888,Foul,null,null
+FF,Casey Fien,514888,"In play, no out",96.7,21.61
+SL,Casey Fien,543807,Swinging Strike,null,null
+SL,Casey Fien,543807,Swinging Strike,null,null
+FF,Casey Fien,543807,"In play, out(s)",89.9,24.19
+FF,Casey Fien,543807,Ball,null,null
+SL,Casey Fien,543807,Foul,null,null
+FF,Casey Fien,435079,Ball,null,null
+FF,Casey Fien,435079,"In play, no out",84.6,12.48
+FF,Casey Fien,435079,Foul,null,null
+SL,Casey Fien,435079,Ball,null,null
+SL,Casey Fien,408234,Swinging Strike,null,null
+FF,Casey Fien,408234,"In play, out(s)",103,15.96
+FF,Casey Fien,408234,Ball,null,null
+FF,Casey Fien,400121,"In play, run(s)",98.3,27.3
+SL,Casey Fien,457708,Ball,null,null
+FF,Casey Fien,457708,Foul,null,null
+SL,Casey Fien,457708,Called Strike,null,null
+SL,Casey Fien,457708,Called Strike,null,null
+SL,Casey Fien,592206,"In play, run(s)",106,27.99
+SL,Casey Fien,449107,Foul,null,null
+SL,Casey Fien,449107,Ball,null,null
+FF,Casey Fien,449107,"In play, no out",71.2,20.79
+FF,Casey Fien,449107,Called Strike,null,null
+FF,Casey Fien,449107,Foul,null,null
+SL,Casey Fien,449107,Ball,null,null
+SL,Casey Fien,502110,Ball,null,null
+FF,Casey Fien,502110,Ball,null,null
+FF,Casey Fien,502110,"In play, out(s)",69.7,-4.63
+SL,Casey Fien,596019,Ball,null,null
+FF,Casey Fien,596019,Foul,null,40.95
+FF,Casey Fien,596019,Swinging Strike,null,null
+FF,Casey Fien,596019,Called Strike,null,null
+FF,Casey Fien,596019,Ball,null,null
+FF,Casey Fien,435063,Foul,null,null
+SL,Casey Fien,435063,"In play, out(s)",106.1,3.66
+FF,Casey Fien,435063,Ball,null,null
+FF,Casey Fien,543228,"In play, out(s)",null,null
+FF,Casey Fien,543228,Ball,null,null
+FT,Casey Fien,608070,Ball,null,null
+FF,Casey Fien,608070,"In play, no out",93.3,12.29
+FF,Casey Fien,608070,Ball,null,null
+FF,Casey Fien,608070,Called Strike,null,null
+SL,Casey Fien,407781,"In play, out(s)",50.2,-71.31
+FF,Casey Fien,571980,Swinging Strike,null,null
+FT,Casey Fien,571980,Ball,null,null
+SL,Casey Fien,571980,Swinging Strike,null,null
+SL,Casey Fien,571980,Foul,null,null
+FF,Casey Fien,571980,Ball,null,null
+FF,Casey Fien,488726,Called Strike,null,null
+FF,Casey Fien,488726,"In play, no out",83.4,12.84
+FF,Casey Fien,488726,Ball,null,null
+SL,Casey Fien,488726,Ball,null,null
+FF,Casey Fien,467793,Swinging Strike,null,null
+FF,Casey Fien,467793,Called Strike,null,null
+FF,Casey Fien,467793,Called Strike,null,null
+FF,Casey Fien,543401,Ball,null,null
+FF,Casey Fien,543401,Called Strike,null,null
+FF,Casey Fien,543401,Swinging Strike,null,null
+FF,Casey Fien,543401,Called Strike,null,null
+FF,Casey Fien,543401,Foul,null,42.27
+SL,Casey Fien,572191,"In play, no out",null,null
+SL,Casey Fien,502517,Swinging Strike,null,null
+SL,Casey Fien,502517,Foul,null,24.04
+SL,Casey Fien,502517,"In play, out(s)",89.9,20.49
+SL,Casey Fien,502517,Ball In Dirt,null,null
+FF,Casey Fien,502517,Ball,null,null
+FF,Casey Fien,475582,"In play, out(s)",104.5,16.17
+SL,Casey Fien,475582,Called Strike,null,null
+FF,Casey Fien,543685,Ball,null,null
+FF,Casey Fien,543685,Ball,null,null
+SL,Casey Fien,543685,Foul,null,60.41
+FF,Casey Fien,543685,Foul,null,null
+SL,Casey Fien,543685,"In play, out(s)",95.6,26.22
+FF,Casey Fien,543685,"In play, out(s)",null,null
+SL,Casey Fien,547180,Swinging Strike,null,null
+FF,Casey Fien,547180,Foul Tip,null,null
+SL,Casey Fien,547180,Foul,null,null
+FT,Casey Fien,547180,Foul Tip,null,null
+FF,Casey Fien,547180,Ball,null,null
+FF,Casey Fien,547180,Foul,null,33.02
+FF,Casey Fien,547180,Foul,null,null
+FF,Casey Fien,475582,Called Strike,null,null
+SL,Casey Fien,475582,Ball,null,null
+SL,Casey Fien,475582,Foul,null,null
+FF,Casey Fien,475582,Foul,null,null
+FF,Casey Fien,475582,Foul,null,null
+SL,Casey Fien,475582,"In play, no out",110.4,10.5
+FF,Casey Fien,452220,Ball,null,null
+FF,Casey Fien,452220,Ball,null,null
+FF,Casey Fien,452220,Called Strike,null,null
+FF,Casey Fien,452220,Foul (Runner Going),null,null
+FF,Casey Fien,452220,Ball,null,null
+FF,Casey Fien,452220,Foul,null,-33.78
+FT,Casey Fien,452220,Foul (Runner Going),null,null
+FF,Casey Fien,452220,Foul (Runner Going),null,null
+FT,Casey Fien,452220,Swinging Strike,null,null
+FF,Casey Fien,518960,"In play, out(s)",78.8,30.45
+FF,Casey Fien,518960,Ball,null,null
+FT,Casey Fien,474892,"In play, out(s)",90.9,38.59
+SL,Casey Fien,431094,Foul,null,7.45
+SL,Casey Fien,431094,"In play, out(s)",88.5,42.3
+FF,Casey Fien,431094,Called Strike,null,null
+FT,Casey Fien,431094,Called Strike,null,null
+SL,Casey Fien,431094,Swinging Strike,null,null
+SL,Casey Fien,431094,Ball,null,null
+SL,Casey Fien,431094,Ball,null,null
+FF,Casey Fien,431094,"In play, no out",93.8,12.94
+FT,Casey Fien,592680,Ball,null,null
+SL,Casey Fien,592680,Swinging Strike,null,null
+SL,Casey Fien,592680,"In play, out(s)",100.7,-27.8
+SL,Casey Fien,592680,Ball,null,null
+FT,Casey Fien,592680,Foul,null,63.49
+FF,Casey Fien,543590,Swinging Strike,null,null
+FF,Casey Fien,543590,Called Strike,null,null
+SL,Casey Fien,543590,Called Strike,null,null
+SL,Casey Fien,570717,Foul,null,null
+FF,Casey Fien,570717,Ball,null,null
+SL,Casey Fien,570717,Ball,null,null
+SL,Casey Fien,570717,"In play, run(s)",88.8,8.38
+FF,Casey Fien,542364,"In play, out(s)",null,null
+FF,Casey Fien,542364,Ball,null,null
+SL,Casey Fien,545361,Ball,null,null
+FF,Casey Fien,545361,Foul,null,null
+FF,Casey Fien,545361,Ball,null,null
+FF,Casey Fien,545361,Ball,null,null
+SL,Casey Fien,545361,Called Strike,null,null
+FF,Casey Fien,545361,Ball,null,null
+SL,Casey Fien,405395,Foul (Runner Going),null,null
+SL,Casey Fien,405395,Swinging Strike,null,null
+SL,Casey Fien,405395,Ball,null,null
+SL,Casey Fien,405395,"In play, out(s)",98.3,30.45
+FF,Casey Fien,592743,Ball,null,null
+FF,Casey Fien,592743,Foul,null,55.86
+FF,Casey Fien,592743,"In play, out(s)",89.1,29.45
+SL,Casey Fien,456715,Ball,null,null
+FF,Casey Fien,456715,Ball,null,null
+FF,Casey Fien,456715,Ball,null,null
+FF,Casey Fien,456715,Called Strike,null,null
+FT,Casey Fien,456715,Ball,null,null
+CU,Casey Fien,434778,Ball,null,null
+SL,Casey Fien,434778,Foul,null,null
+CU,Casey Fien,434778,"In play, run(s)",103.9,30.27
+SL,Casey Fien,460086,Ball,null,null
+FF,Casey Fien,460086,Called Strike,null,null
+SL,Casey Fien,460086,Swinging Strike,null,null
+FT,Casey Fien,460086,Swinging Strike,null,null
+SL,Casey Fien,521692,Called Strike,null,null
+SL,Casey Fien,521692,"In play, no out",102.6,15.87
+FF,Casey Fien,408299,Ball,null,null
+FF,Casey Fien,408299,Called Strike,null,null
+SL,Casey Fien,408299,Foul,null,null
+FF,Casey Fien,408299,"In play, out(s)",91.1,22.95
+SL,Casey Fien,449181,"In play, run(s)",79.8,21.53
+CU,Casey Fien,543333,Ball In Dirt,null,null
+FF,Casey Fien,543333,Swinging Strike,null,null
+SL,Casey Fien,543333,Ball,null,null
+FF,Casey Fien,543333,"In play, out(s)",102.4,28.17
+FF,Casey Fien,429666,Ball,null,null
+SL,Casey Fien,429666,"In play, out(s)",80.4,70.21
+FF,Casey Fien,429666,Ball,null,null
+FF,Casey Fien,429666,Foul,null,75.36
+CU,Casey Fien,446308,Foul,null,null
+FF,Casey Fien,446308,"In play, out(s)",91.3,-0.35
+CU,Casey Fien,446308,Ball,null,null
+SL,Casey Fien,446308,Ball,null,null
+SL,Casey Fien,444432,Ball,null,null
+SL,Casey Fien,444432,Ball,null,null
+FF,Casey Fien,444432,Foul,null,60.62
+FF,Casey Fien,444432,Called Strike,null,null
+SL,Casey Fien,444432,Foul Tip,null,null
+SL,Casey Fien,476883,Foul,null,null
+SL,Casey Fien,476883,Ball,null,null
+SL,Casey Fien,476883,Ball,null,null
+CU,Casey Fien,476883,Ball,null,null
+FF,Casey Fien,476883,Called Strike,null,null
+FF,Casey Fien,476883,Ball,null,null
+SL,Casey Fien,572073,Ball,null,null
+SL,Casey Fien,572073,Called Strike,null,null
+FF,Casey Fien,572073,"In play, no out",79.6,21.93
+FF,Casey Fien,572073,Called Strike,null,null
+SL,Casey Fien,592518,"In play, no out",110.5,4.26
+SL,Casey Fien,430945,"In play, run(s)",103.2,29.94
+SL,Casey Fien,448801,Ball,null,null
+SL,Casey Fien,448801,Ball,null,null
+FF,Casey Fien,448801,Foul,null,10.01
+FF,Casey Fien,448801,Foul,null,80.66
+FF,Casey Fien,448801,Foul,null,27.78
+FF,Casey Fien,448801,Ball,null,null
+SL,Casey Fien,448801,"In play, out(s)",null,null
+FF,Casey Fien,444432,Ball,null,null
+FF,Casey Fien,444432,Foul,null,null
+FF,Casey Fien,444432,Ball,null,null
+SL,Casey Fien,444432,"In play, no out",108,-2.5
+FF,Casey Fien,444432,Called Strike,null,null
+FF,Casey Fien,444432,Foul,null,57.13
+SL,Casey Fien,444432,Ball,null,null
+FF,Casey Fien,446308,"In play, out(s)",67.6,17.21
+FF,Casey Fien,446308,Ball,null,null

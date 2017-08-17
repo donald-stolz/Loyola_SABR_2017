@@ -1,0 +1,2 @@
+#,YEAR,LVL,PITCHER,NAME,PITCHES,PITCH_SEQUENCE,1st Pitch Type,2nd Pitch Type,Break:Tunnel,Plate Diff,Release Diff,Tunnel Differential,Flight Time Diff,Post-tunnel Break,Release:Tunnel,hit_speed_avg,hit_angle_avg,swinging.strike,strike.rate,ground,line_drive,fly_ball,pop_up
+1,2016,mlb,45612,Homer Bailey,75,FA|FA,FA,FA,0.053,1.1537,0.1073,0.6461,0.0036,0.0343,0.166,92.46666667,6.523333333,0.119047619,0.5,0.5,0.5,0,0

@@ -1,4 +1,0 @@
-#,YEAR,LVL,PITCHER,NAME,PITCHES,PITCH_SEQUENCE,1st Pitch Type,2nd Pitch Type,Break:Tunnel,Plate Diff,Release Diff,Tunnel Differential,Flight Time Diff,Post-tunnel Break,Release:Tunnel,Avg hit speed ,Avg launch angle ,SwingStrike%,TotalStrike%,GB%,LD%,FB%,PU%
-1,2016,mlb,53014,Aroldis Chapman,485,FA|FA,FA,FA,0.0587,1.456,0.1525,0.8034,0.004,0.0472,0.1898,87.7777778,9.5577778,0,0.5151515,0.5555556,0.1111111,0.2777778,0.05555556
-2,2016,mlb,53014,Aroldis Chapman,85,FA|SL,FA,SL,0.4044,1.5807,0.1519,0.8452,0.0507,0.3418,0.1797,87.8,18.022,0,0.3589744,0.4,0,0.6,0
-3,2016,mlb,53014,Aroldis Chapman,83,SL|FA,SL,FA,0.3837,1.6332,0.1501,0.888,0.0538,0.3408,0.169,87.35,0.075,0,0.5,0.75,0.25,0,0

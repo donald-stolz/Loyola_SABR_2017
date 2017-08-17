@@ -1,0 +1,4 @@
+#,YEAR,LVL,PITCHER,NAME,PITCHES,PITCH_SEQUENCE,1st Pitch Type,2nd Pitch Type,Break:Tunnel,Plate Diff,Release Diff,Tunnel Differential,Flight Time Diff,Post-tunnel Break,Release:Tunnel,hit_speed_avg,hit_angle_avg,swinging.strike,strike.rate,ground,line_drive,fly_ball,pop_up
+1,2016,mlb,69302,Leonel Campos,73,FA|FA,FA,FA,0.0673,1.3356,0.1157,0.7441,0.0033,0.0501,0.1555,92.95714286,12.29875,0.083333333,0.4375,0.4375,0.1875,0.375,0
+2,2016,mlb,69302,Leonel Campos,66,FA|SL,FA,SL,0.3357,1.7477,0.1483,0.9753,0.0327,0.3274,0.1521,79.775,-19.216,0.28125,0.5,1,0,0,0
+3,2016,mlb,69302,Leonel Campos,67,SL|FA,SL,FA,0.3241,1.839,0.1377,1.0463,0.0342,0.3391,0.1316,87.05,15.29666667,0.121212121,0.545454545,0.5,0,0.5,0

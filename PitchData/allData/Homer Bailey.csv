@@ -1,0 +1,459 @@
+pitch_type,player_name,batter,description,hit_speed,hit_angle
+SL,Homer Bailey,592273,"In play, run(s)",93.1,14.9
+KC,Homer Bailey,592273,Ball,null,null
+CH,Homer Bailey,594838,Foul Tip,null,null
+SL,Homer Bailey,594838,Ball,null,null
+CH,Homer Bailey,594838,Foul,null,null
+CH,Homer Bailey,594838,Ball,null,null
+FF,Homer Bailey,594838,Ball,null,null
+FF,Homer Bailey,594838,"In play, no out",99.9,10.19
+CH,Homer Bailey,571875,Ball,null,null
+FF,Homer Bailey,571875,Called Strike,null,null
+FF,Homer Bailey,571875,"In play, run(s)",105.4,-2.04
+FF,Homer Bailey,571875,Ball,null,null
+FF,Homer Bailey,571875,Ball,null,null
+CH,Homer Bailey,572041,"In play, no out",96.2,10.63
+SL,Homer Bailey,572041,Ball,null,null
+FF,Homer Bailey,456078,Foul,null,null
+SL,Homer Bailey,456078,"In play, run(s)",93,-13.99
+SL,Homer Bailey,456078,Called Strike,null,null
+CH,Homer Bailey,572008,Foul,null,null
+SL,Homer Bailey,572008,Foul,null,null
+SL,Homer Bailey,572008,"In play, out(s)",null,null
+FF,Homer Bailey,572008,Ball,null,null
+CH,Homer Bailey,572008,Called Strike,null,null
+FF,Homer Bailey,572008,Foul,null,null
+KC,Homer Bailey,572008,Foul,null,null
+CH,Homer Bailey,572008,Foul,null,null
+SL,Homer Bailey,430001,"In play, run(s)",86.2,-4.76
+FF,Homer Bailey,456422,Swinging Strike,null,null
+CH,Homer Bailey,456422,Foul,null,null
+CH,Homer Bailey,456422,Ball,null,null
+CH,Homer Bailey,456422,Ball,null,null
+SL,Homer Bailey,456422,Ball,null,null
+FT,Homer Bailey,456422,Foul (Runner Going),null,null
+CH,Homer Bailey,456422,"In play, no out",98.4,-3.04
+FF,Homer Bailey,400284,"In play, no out",95.7,6.39
+CH,Homer Bailey,608369,"In play, no out",99.5,0.2
+CH,Homer Bailey,608369,Foul,null,null
+FF,Homer Bailey,408236,"In play, run(s)",104.4,28.98
+SL,Homer Bailey,518735,Ball,null,null
+CH,Homer Bailey,518735,Swinging Strike,null,null
+SL,Homer Bailey,518735,"In play, out(s)",106.9,17.46
+FT,Homer Bailey,518735,Called Strike,null,null
+CH,Homer Bailey,592626,Ball,null,null
+FT,Homer Bailey,592626,Foul,null,null
+FT,Homer Bailey,592626,Ball,null,null
+FF,Homer Bailey,592626,Ball,null,null
+SL,Homer Bailey,592626,Ball,null,null
+FT,Homer Bailey,435062,"In play, no out",106.1,11.99
+FF,Homer Bailey,592808,Ball,null,null
+SL,Homer Bailey,592808,Foul,null,null
+FT,Homer Bailey,592808,Foul,null,null
+SL,Homer Bailey,592808,Foul,null,null
+FF,Homer Bailey,592808,Ball,null,null
+FF,Homer Bailey,592808,Swinging Strike,null,null
+FT,Homer Bailey,592808,Foul,null,null
+KC,Homer Bailey,592808,Foul,null,null
+SL,Homer Bailey,592808,Foul,null,null
+FT,Homer Bailey,592808,Foul,null,null
+FF,Homer Bailey,592808,Foul,null,null
+CH,Homer Bailey,592808,"In play, run(s)",86.2,41.33
+KC,Homer Bailey,574847,Ball,null,null
+FF,Homer Bailey,574847,Foul,null,null
+CH,Homer Bailey,574847,Ball In Dirt,null,null
+SL,Homer Bailey,574847,Called Strike,null,null
+SL,Homer Bailey,574847,Swinging Strike,null,null
+SL,Homer Bailey,574847,"In play, out(s)",89.4,8.56
+CH,Homer Bailey,431148,"In play, no out",69.7,19.02
+CH,Homer Bailey,431148,Called Strike,null,null
+CH,Homer Bailey,400284,Called Strike,null,null
+SL,Homer Bailey,400284,"In play, out(s)",null,null
+KC,Homer Bailey,400284,Ball In Dirt,null,null
+CH,Homer Bailey,608369,"In play, no out",107.6,-1.01
+CH,Homer Bailey,608369,Ball In Dirt,null,null
+FF,Homer Bailey,518735,Ball,null,null
+FF,Homer Bailey,518735,Called Strike,null,null
+SL,Homer Bailey,518735,Ball In Dirt,null,null
+CH,Homer Bailey,518735,Ball In Dirt,null,null
+CH,Homer Bailey,518735,Called Strike,null,null
+SL,Homer Bailey,518735,"In play, out(s)",96.1,50.78
+FT,Homer Bailey,592626,"In play, no out",111.1,17.66
+KC,Homer Bailey,592626,Ball,null,null
+SL,Homer Bailey,435062,"In play, no out",97.4,-7.52
+SL,Homer Bailey,435062,Ball,null,null
+SL,Homer Bailey,592808,Foul,null,null
+FT,Homer Bailey,592808,Ball,null,null
+FT,Homer Bailey,592808,Ball,null,null
+CH,Homer Bailey,592808,Foul,null,null
+SL,Homer Bailey,592808,"In play, run(s)",94.4,18.44
+SL,Homer Bailey,574847,Ball In Dirt,null,null
+FT,Homer Bailey,574847,Called Strike,null,null
+CH,Homer Bailey,574847,"In play, run(s)",88.8,39.68
+FF,Homer Bailey,408236,"In play, out(s)",94.3,80.66
+CH,Homer Bailey,408236,Called Strike,null,null
+CH,Homer Bailey,592885,"In play, no out",102.9,8.78
+CH,Homer Bailey,542303,Ball,null,null
+KC,Homer Bailey,542303,Swinging Strike,null,null
+FT,Homer Bailey,542303,Foul,null,null
+CH,Homer Bailey,542303,"In play, run(s)",93.4,-8.74
+SL,Homer Bailey,518618,Foul,null,null
+FT,Homer Bailey,518618,Foul,null,null
+FF,Homer Bailey,518618,Foul,null,null
+FT,Homer Bailey,518618,Ball,null,null
+FF,Homer Bailey,518618,Swinging Strike,null,null
+FF,Homer Bailey,543829,"In play, out(s)",83.7,23.88
+FF,Homer Bailey,445988,"In play, no out",82.7,12.76
+FF,Homer Bailey,445988,Ball,null,null
+FF,Homer Bailey,592885,"In play, out(s)",102.6,28.92
+CH,Homer Bailey,542303,Swinging Strike,null,null
+FF,Homer Bailey,542303,Ball,null,null
+FT,Homer Bailey,542303,Ball,null,null
+SL,Homer Bailey,542303,"In play, out(s)",67.2,-40.13
+FT,Homer Bailey,542303,Called Strike,null,null
+CH,Homer Bailey,542303,Foul,null,null
+FF,Homer Bailey,518618,Foul,null,null
+FF,Homer Bailey,518618,Called Strike,null,null
+FT,Homer Bailey,518618,Called Strike,null,null
+FF,Homer Bailey,400085,Swinging Strike,null,null
+FT,Homer Bailey,400085,Swinging Strike,null,null
+FT,Homer Bailey,400085,Called Strike,null,null
+FF,Homer Bailey,592663,Ball,null,null
+FF,Homer Bailey,592663,Ball,null,null
+FF,Homer Bailey,592663,"In play, no out",76.5,19.72
+SL,Homer Bailey,592663,Ball,null,null
+FF,Homer Bailey,592663,Called Strike,null,null
+SL,Homer Bailey,588751,Foul,null,null
+CH,Homer Bailey,588751,"In play, out(s)",82.2,32.38
+SL,Homer Bailey,588751,Called Strike,null,null
+SL,Homer Bailey,488768,Ball,null,null
+KC,Homer Bailey,488768,Foul,null,null
+FF,Homer Bailey,488768,Ball,null,null
+FF,Homer Bailey,488768,Called Strike,null,null
+FF,Homer Bailey,488768,Called Strike,null,null
+FF,Homer Bailey,488768,Called Strike,null,null
+FF,Homer Bailey,543829,Ball,null,null
+FF,Homer Bailey,543829,Ball,null,null
+FT,Homer Bailey,543829,"In play, no out",null,null
+FF,Homer Bailey,543829,Called Strike,null,null
+FF,Homer Bailey,543829,Foul,null,null
+FF,Homer Bailey,445988,"In play, out(s)",100.3,6.67
+FF,Homer Bailey,445988,Called Strike,null,null
+SL,Homer Bailey,445988,Swinging Strike,null,null
+CH,Homer Bailey,592885,"In play, out(s)",91.8,-19.36
+FF,Homer Bailey,592885,Ball,null,null
+SL,Homer Bailey,542303,Ball,null,null
+FT,Homer Bailey,542303,Ball,null,null
+SL,Homer Bailey,542303,Called Strike,null,null
+FT,Homer Bailey,542303,Ball,null,null
+SL,Homer Bailey,542303,Foul,null,null
+SL,Homer Bailey,542303,"In play, run(s)",98.8,26.46
+FF,Homer Bailey,518618,Ball,null,null
+FF,Homer Bailey,518618,Foul,null,null
+SL,Homer Bailey,518618,Foul,null,null
+KC,Homer Bailey,518618,Swinging Strike,null,null
+SL,Homer Bailey,518618,Foul,null,null
+SL,Homer Bailey,518618,Ball,null,null
+CH,Homer Bailey,400085,Ball,null,null
+FF,Homer Bailey,400085,Swinging Strike,null,null
+KC,Homer Bailey,400085,Called Strike,null,null
+CH,Homer Bailey,400085,Ball,null,null
+KC,Homer Bailey,400085,"In play, no out",96.4,8.06
+FT,Homer Bailey,592663,Swinging Strike,null,null
+FF,Homer Bailey,592663,Ball,null,null
+SL,Homer Bailey,592663,Ball,null,null
+SL,Homer Bailey,592663,Ball,null,null
+CH,Homer Bailey,592663,Foul (Runner Going),null,null
+FT,Homer Bailey,592663,Ball,null,null
+FF,Homer Bailey,488768,Ball,null,null
+FT,Homer Bailey,488768,Foul,null,null
+FF,Homer Bailey,488768,Ball,null,null
+FF,Homer Bailey,488768,Foul,null,null
+FF,Homer Bailey,488768,Foul,null,null
+FF,Homer Bailey,488768,Called Strike,null,null
+FF,Homer Bailey,488768,Foul,null,null
+FF,Homer Bailey,488768,Ball,null,null
+FF,Homer Bailey,488768,Foul,null,null
+FT,Homer Bailey,488768,Swinging Strike,null,null
+FF,Homer Bailey,543829,Ball,null,null
+FF,Homer Bailey,543829,Ball,null,null
+FT,Homer Bailey,543829,"In play, out(s)",89.4,-16.87
+SL,Homer Bailey,543829,Ball,null,null
+FF,Homer Bailey,543829,Called Strike,null,null
+FT,Homer Bailey,588751,Called Strike,null,null
+SL,Homer Bailey,588751,Ball,null,null
+KC,Homer Bailey,588751,"In play, out(s)",null,null
+SL,Homer Bailey,445988,Called Strike,null,null
+CH,Homer Bailey,445988,Swinging Strike,null,null
+FF,Homer Bailey,445988,"In play, out(s)",65.2,49.34
+FF,Homer Bailey,445988,Ball,null,null
+CH,Homer Bailey,445988,Ball,null,null
+FF,Homer Bailey,542340,Foul,null,null
+FF,Homer Bailey,542340,Foul,null,null
+FF,Homer Bailey,542340,Foul,null,null
+FF,Homer Bailey,542340,Called Strike,null,null
+FF,Homer Bailey,542340,Ball,null,null
+FF,Homer Bailey,542340,Ball,null,null
+FF,Homer Bailey,542340,Called Strike,null,null
+FF,Homer Bailey,542340,Foul,null,null
+SL,Homer Bailey,542340,Ball,null,null
+FF,Homer Bailey,542340,Foul,null,null
+FT,Homer Bailey,606115,Called Strike,null,null
+SL,Homer Bailey,606115,Swinging Strike (Blocked),null,null
+FF,Homer Bailey,606115,Called Strike,null,null
+CH,Homer Bailey,571697,Ball,null,null
+CH,Homer Bailey,571697,Ball,null,null
+FF,Homer Bailey,571697,Foul,null,null
+FT,Homer Bailey,571697,"In play, no out",103.7,2.07
+FF,Homer Bailey,474892,Ball,null,null
+FT,Homer Bailey,474892,Foul,null,null
+SL,Homer Bailey,474892,Swinging Strike,null,null
+SL,Homer Bailey,474892,Ball,null,null
+FF,Homer Bailey,474892,Swinging Strike,null,null
+SL,Homer Bailey,541650,"In play, out(s)",73.4,12.5
+FF,Homer Bailey,543590,Ball,null,null
+SL,Homer Bailey,543590,"In play, no out",null,null
+FF,Homer Bailey,543590,Called Strike,null,null
+FT,Homer Bailey,455117,Foul,null,null
+SL,Homer Bailey,455117,Ball,null,null
+SL,Homer Bailey,455117,"In play, out(s)",81.1,31.49
+FF,Homer Bailey,455117,Ball,null,null
+FF,Homer Bailey,455117,Foul,null,null
+FF,Homer Bailey,519076,Foul Bunt,null,null
+SL,Homer Bailey,519076,Foul Bunt,null,null
+FF,Homer Bailey,519076,Missed Bunt,null,null
+FF,Homer Bailey,542340,Foul,null,null
+FT,Homer Bailey,542340,Swinging Strike,null,null
+SL,Homer Bailey,542340,Called Strike,null,null
+FF,Homer Bailey,542340,Ball,null,null
+CH,Homer Bailey,542340,Foul (Runner Going),null,null
+FF,Homer Bailey,606115,Ball,null,null
+SL,Homer Bailey,606115,Swinging Strike (Blocked),null,null
+FT,Homer Bailey,606115,Called Strike,null,null
+FF,Homer Bailey,606115,Foul,null,null
+FF,Homer Bailey,460075,Ball,null,null
+SL,Homer Bailey,460075,"In play, out(s)",88.9,-21.66
+SL,Homer Bailey,460075,Ball,null,null
+SL,Homer Bailey,460075,Ball,null,null
+FF,Homer Bailey,460075,Called Strike,null,null
+SL,Homer Bailey,571697,Foul,null,null
+FF,Homer Bailey,571697,"In play, out(s)",92,17.18
+KC,Homer Bailey,571697,Called Strike,null,null
+CH,Homer Bailey,571697,Foul,null,null
+FT,Homer Bailey,474892,Foul,null,null
+CH,Homer Bailey,474892,Ball,null,null
+CH,Homer Bailey,474892,Foul,null,null
+SL,Homer Bailey,474892,Ball,null,null
+FT,Homer Bailey,474892,Swinging Strike,null,null
+FF,Homer Bailey,474892,Ball,null,null
+FF,Homer Bailey,474892,Ball,null,null
+FF,Homer Bailey,541650,Ball,null,null
+FF,Homer Bailey,541650,Swinging Strike,null,null
+FT,Homer Bailey,541650,Foul,null,null
+SL,Homer Bailey,541650,"In play, no out",69,26.8
+FF,Homer Bailey,541650,Called Strike,null,null
+SL,Homer Bailey,541650,Ball In Dirt,null,null
+FF,Homer Bailey,541650,Ball,null,null
+CH,Homer Bailey,543590,Foul,null,null
+CH,Homer Bailey,543590,Foul,null,null
+CH,Homer Bailey,543590,Foul,null,null
+FF,Homer Bailey,543590,Ball,null,null
+SL,Homer Bailey,543590,Called Strike,null,null
+FF,Homer Bailey,543590,Called Strike,null,null
+SL,Homer Bailey,455117,Ball,null,null
+FF,Homer Bailey,455117,Foul,null,null
+SL,Homer Bailey,455117,Foul,null,null
+FF,Homer Bailey,455117,"In play, out(s)",72,53.92
+SL,Homer Bailey,455117,Swinging Strike,null,null
+SL,Homer Bailey,455117,Ball,null,null
+FF,Homer Bailey,519421,Swinging Strike,null,null
+CH,Homer Bailey,519421,Ball,null,null
+FT,Homer Bailey,519421,Ball,null,null
+FF,Homer Bailey,519421,Called Strike,null,null
+FF,Homer Bailey,519421,Swinging Strike,null,null
+SL,Homer Bailey,542340,Ball,null,null
+FF,Homer Bailey,542340,Ball,null,null
+KC,Homer Bailey,542340,Swinging Strike,null,null
+FT,Homer Bailey,542340,Called Strike,null,null
+SL,Homer Bailey,542340,Called Strike,null,null
+FF,Homer Bailey,542340,Foul,null,null
+KC,Homer Bailey,606115,Swinging Strike,null,null
+FF,Homer Bailey,606115,Ball,null,null
+KC,Homer Bailey,606115,Called Strike,null,null
+FF,Homer Bailey,606115,Swinging Strike,null,null
+FF,Homer Bailey,460075,Ball,null,null
+KC,Homer Bailey,460075,Foul,null,null
+KC,Homer Bailey,460075,Called Strike,null,null
+CH,Homer Bailey,460075,Swinging Strike,null,null
+FF,Homer Bailey,460075,Ball,null,null
+KC,Homer Bailey,460075,Ball,null,null
+FF,Homer Bailey,460075,"In play, out(s)",null,null
+FF,Homer Bailey,460075,Called Strike,null,null
+SL,Homer Bailey,460075,Swinging Strike,null,null
+FF,Homer Bailey,543281,Called Strike,null,null
+SL,Homer Bailey,543281,Foul,null,null
+CH,Homer Bailey,543281,Ball,null,null
+SL,Homer Bailey,543281,"In play, out(s)",87.6,19.3
+FF,Homer Bailey,516782,Ball,null,null
+CH,Homer Bailey,516782,Ball,null,null
+FF,Homer Bailey,516782,"In play, no out",100.3,22.27
+KC,Homer Bailey,459964,Ball In Dirt,null,null
+CH,Homer Bailey,459964,"In play, out(s)",80.4,11.24
+FT,Homer Bailey,501896,Ball,null,null
+FT,Homer Bailey,501896,Ball,null,null
+FF,Homer Bailey,501896,Called Strike,null,null
+SL,Homer Bailey,501896,Foul,null,null
+KC,Homer Bailey,501896,Swinging Strike,null,null
+FT,Homer Bailey,444379,Ball,null,null
+FT,Homer Bailey,444379,Ball,null,null
+SL,Homer Bailey,444379,Called Strike,null,null
+SL,Homer Bailey,444379,Ball,null,null
+FT,Homer Bailey,444379,"In play, no out",104.5,8.41
+FT,Homer Bailey,465041,Ball,null,null
+SL,Homer Bailey,465041,Swinging Strike,null,null
+CH,Homer Bailey,465041,Ball,null,null
+FT,Homer Bailey,465041,Foul,null,null
+FT,Homer Bailey,465041,Ball,null,null
+SL,Homer Bailey,465041,Foul (Runner Going),null,null
+SL,Homer Bailey,465041,Foul (Runner Going),null,null
+SL,Homer Bailey,465041,Foul,null,null
+FF,Homer Bailey,465041,Swinging Strike,null,null
+FT,Homer Bailey,474568,Ball,null,null
+SL,Homer Bailey,474568,Ball,null,null
+FF,Homer Bailey,474568,Foul,null,null
+KC,Homer Bailey,474568,Ball,null,null
+SL,Homer Bailey,474568,Swinging Strike,null,null
+SL,Homer Bailey,474568,"In play, no out",89.2,-7.48
+FF,Homer Bailey,467100,Called Strike,null,null
+FF,Homer Bailey,467100,Foul,null,null
+SL,Homer Bailey,467100,Swinging Strike,null,null
+FF,Homer Bailey,543281,"In play, no out",null,null
+SL,Homer Bailey,516782,Foul,null,null
+FF,Homer Bailey,516782,Foul Bunt,null,null
+CH,Homer Bailey,516782,Ball,null,null
+CH,Homer Bailey,516782,Foul,null,null
+FF,Homer Bailey,516782,Ball,null,null
+CH,Homer Bailey,516782,Foul,null,null
+SL,Homer Bailey,516782,Swinging Strike,null,null
+SL,Homer Bailey,457705,"In play, out(s)",101.8,13.4
+CH,Homer Bailey,459964,Ball,null,null
+CH,Homer Bailey,459964,Called Strike,null,null
+KC,Homer Bailey,459964,Ball,null,null
+FF,Homer Bailey,459964,Ball,null,null
+KC,Homer Bailey,459964,Ball In Dirt,null,null
+FT,Homer Bailey,501896,Ball,null,null
+KC,Homer Bailey,501896,Ball In Dirt,null,null
+FF,Homer Bailey,501896,Foul,null,null
+FF,Homer Bailey,501896,Hit By Pitch,null,null
+FF,Homer Bailey,444379,Called Strike,null,null
+CH,Homer Bailey,444379,Ball,null,null
+FF,Homer Bailey,444379,Foul,null,null
+KC,Homer Bailey,444379,Hit By Pitch,null,null
+SL,Homer Bailey,474568,Foul,null,null
+KC,Homer Bailey,474568,Ball,null,null
+SL,Homer Bailey,474568,Foul,null,null
+SL,Homer Bailey,474568,"In play, out(s)",93.8,35.18
+SL,Homer Bailey,543281,Ball In Dirt,null,null
+FF,Homer Bailey,543281,Ball,null,null
+FF,Homer Bailey,543281,Foul,null,null
+FF,Homer Bailey,543281,"In play, no out",100.3,24.1
+FT,Homer Bailey,465041,Ball,null,null
+FF,Homer Bailey,465041,Ball,null,null
+FF,Homer Bailey,465041,"In play, run(s)",74.7,-1.38
+SL,Homer Bailey,457705,Ball,null,null
+CH,Homer Bailey,457705,Foul,null,null
+CH,Homer Bailey,457705,Ball,null,null
+FF,Homer Bailey,457705,"In play, run(s)",101.5,6.65
+FF,Homer Bailey,467100,Ball,null,null
+CH,Homer Bailey,467100,Ball,null,null
+FF,Homer Bailey,467100,Called Strike,null,null
+FF,Homer Bailey,467100,"In play, no out",98,-11.45
+FF,Homer Bailey,608671,"In play, no out",94.6,3.93
+FF,Homer Bailey,572114,Foul,null,null
+FF,Homer Bailey,572114,Foul,null,null
+FF,Homer Bailey,572114,Ball,null,null
+KC,Homer Bailey,572114,Ball,null,null
+CH,Homer Bailey,572114,"In play, no out",65.6,22.79
+FF,Homer Bailey,518466,"In play, no out",104.4,-12.74
+CH,Homer Bailey,542194,Swinging Strike,null,null
+CH,Homer Bailey,542194,"In play, out(s)",96.6,45.42
+SL,Homer Bailey,542194,Called Strike,null,null
+SL,Homer Bailey,602922,"In play, out(s)",99.4,-5.83
+FT,Homer Bailey,602922,Ball,null,null
+FT,Homer Bailey,489267,"In play, out(s)",71.1,-48.55
+FF,Homer Bailey,489267,Called Strike,null,null
+SL,Homer Bailey,489267,Ball,null,null
+FF,Homer Bailey,518560,Ball,null,null
+FF,Homer Bailey,518560,Called Strike,null,null
+FF,Homer Bailey,518560,Called Strike,null,null
+FF,Homer Bailey,518560,Ball,null,null
+FF,Homer Bailey,518560,Swinging Strike,null,null
+FT,Homer Bailey,608671,"In play, out(s)",82.4,-44.38
+KC,Homer Bailey,608671,Ball,null,null
+FF,Homer Bailey,506560,Ball,null,null
+CH,Homer Bailey,506560,"In play, out(s)",86.3,39.34
+FF,Homer Bailey,506560,Ball,null,null
+FF,Homer Bailey,506560,Called Strike,null,null
+FF,Homer Bailey,506560,Foul,null,null
+KC,Homer Bailey,571976,"In play, out(s)",null,null
+KC,Homer Bailey,571976,Called Strike,null,null
+SL,Homer Bailey,571976,"In play, run(s)",90.5,-14.49
+SL,Homer Bailey,571976,Ball,null,null
+FF,Homer Bailey,506560,Ball,null,null
+FF,Homer Bailey,506560,Ball,null,null
+FF,Homer Bailey,506560,Called Strike,null,null
+FF,Homer Bailey,506560,Ball,null,null
+CH,Homer Bailey,506560,Called Strike,null,null
+FF,Homer Bailey,506560,"In play, out(s)",95,-10.96
+CH,Homer Bailey,572114,Ball,null,null
+CH,Homer Bailey,572114,Foul,null,null
+FF,Homer Bailey,572114,Called Strike,null,null
+FF,Homer Bailey,572114,Foul,null,null
+KC,Homer Bailey,572114,Called Strike,null,null
+CH,Homer Bailey,572114,Ball,null,null
+FF,Homer Bailey,518466,Called Strike,null,null
+FF,Homer Bailey,518466,Foul,null,null
+SL,Homer Bailey,518466,Ball,null,null
+SL,Homer Bailey,518466,Foul,null,null
+SL,Homer Bailey,518466,Ball,null,null
+CH,Homer Bailey,518466,Ball,null,null
+FF,Homer Bailey,518466,Swinging Strike,null,null
+FF,Homer Bailey,542194,Foul,null,null
+FF,Homer Bailey,542194,Swinging Strike,null,null
+SL,Homer Bailey,542194,Called Strike,null,null
+CH,Homer Bailey,602922,Foul,null,null
+KC,Homer Bailey,602922,"In play, out(s)",66.2,53.67
+FF,Homer Bailey,602922,Called Strike,null,null
+FF,Homer Bailey,489267,Ball,null,null
+SL,Homer Bailey,489267,Swinging Strike,null,null
+KC,Homer Bailey,489267,Ball,null,null
+FF,Homer Bailey,489267,Called Strike,null,null
+SL,Homer Bailey,489267,Swinging Strike,null,null
+SL,Homer Bailey,429719,Swinging Strike (Blocked),null,null
+FF,Homer Bailey,429719,Foul,null,null
+KC,Homer Bailey,429719,Called Strike,null,null
+FF,Homer Bailey,429719,Called Strike,null,null
+KC,Homer Bailey,429719,Ball,null,null
+CH,Homer Bailey,608671,"In play, out(s)",79.1,2.33
+CH,Homer Bailey,608671,Called Strike,null,null
+FF,Homer Bailey,506560,Foul,null,null
+SL,Homer Bailey,506560,"In play, no out",101.3,8.36
+KC,Homer Bailey,506560,Ball,null,null
+FF,Homer Bailey,506560,Ball,null,null
+FF,Homer Bailey,571976,Called Strike,null,null
+SL,Homer Bailey,571976,Called Strike,null,null
+SL,Homer Bailey,571976,Ball In Dirt,null,null
+FF,Homer Bailey,571976,Ball,null,null
+KC,Homer Bailey,571976,Ball In Dirt,null,null
+SL,Homer Bailey,571976,Ball,null,null
+FF,Homer Bailey,572114,Ball,null,null
+KC,Homer Bailey,572114,Ball In Dirt,null,null
+FF,Homer Bailey,572114,Called Strike,null,null
+SL,Homer Bailey,572114,Ball In Dirt,null,null
+FF,Homer Bailey,572114,Ball,null,null
+SL,Homer Bailey,518466,Called Strike,null,null
+KC,Homer Bailey,518466,Swinging Strike,null,null
+CH,Homer Bailey,518466,Ball,null,null
+FF,Homer Bailey,518466,Ball,null,null
+SL,Homer Bailey,518466,Ball,null,null
+SL,Homer Bailey,518466,Ball,null,null
