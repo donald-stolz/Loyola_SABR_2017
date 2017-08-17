@@ -1,4 +1,4 @@
-#Loyola Chicago Sabrmeterics team
+# Loyola Chicago Sabrmeterics team
 
 Code and presentation from our 2017 Diamond Dollars entry at the 217 Sabr Analytics conference
 
