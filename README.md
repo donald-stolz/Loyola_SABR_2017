@@ -1,4 +1,8 @@
-# lucSABR
-Loyola Sabrmeterics team
+#Loyola Chicago Sabrmeterics team
 
-My first time using R, so the code is messy
+Code and presentation from our 2017 Diamond Dollars entry at the 217 Sabr Analytics conference
+
+"In this year's case, students were asked to use Baseball Prospectus' new "pitch tunneling" data to come up with questions
+and insights that might be useful to a major-league front office." - http://sabr.org/analytics/case
+
+Read More about pitch tunneling - http://www.baseballprospectus.com/article.php?articleid=31030
